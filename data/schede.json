@@ -1,0 +1,572 @@
+{
+  "_info": "Testi delle schede, scritti a partire dal report 'Chiese di Capua esistenti e scomparse' (novembre 2026). Le coordinate e le foto stanno in chiese.geojson; qui ci sono storia, periodo e fonti, collegati per id. Le voci senza coordinate (chiese scomparse non localizzate) compaiono solo nell'elenco.",
+  "epoche": {
+    "altomedioevo": "Longobarda e normanna (IX–XI sec.)",
+    "medioevo": "Medievale (XII–XV sec.)",
+    "eta_moderna": "Età moderna (XVI–XVIII sec.)",
+    "contemporanea": "XIX–XX secolo",
+    "ignota": "Data ignota"
+  },
+  "fonti": {
+    "TC": { "nome": "Turismo Capua, Chiese", "url": "https://turismocapua.com/chiese/" },
+    "WIT": { "nome": "Wikipedia, voce «Capua»", "url": "https://it.wikipedia.org/wiki/Capua" },
+    "WEN": { "nome": "Wikipedia (en), «Capua Cathedral»", "url": "https://en.wikipedia.org/wiki/Capua_Cathedral" },
+    "WSA": { "nome": "Wikipedia, «Basilica di Sant'Angelo in Formis»", "url": "https://it.wikipedia.org/wiki/Basilica_di_Sant%27Angelo_in_Formis" },
+    "A": { "nome": "L'Agorà del Sapere, «Chiese ed edifici scomparsi di Capua» (prima parte, 2019)", "url": "https://agoradelsapere.wordpress.com/2019/06/11/chiese-ed-edifici-scomparsi-di-capua-prima-parte/" },
+    "B": { "nome": "L'Agorà del Sapere, «Chiese ed edifici scomparsi di Capua» (seconda parte, 2019)", "url": "https://agoradelsapere.wordpress.com/2019/06/26/chiese-ed-edifici-scomparsi-di-capua-seconda-parte/" },
+    "L": { "nome": "L'Agorà del Sapere, «Il santuario di San Lazzaro a Capua»", "url": "https://agoradelsapere.wordpress.com/2019/07/10/il-santuario-di-san-lazzaro-a-capua/" },
+    "R": { "nome": "Rome Art Lover, Capua 5", "url": "https://romeartlover.it/Capua5.html" },
+    "V": { "nome": "Visentin, «Capua medievale», Mediaeval Sophia 11", "url": "https://www.mediaevalsophia.net/_fascicoli/11/Art.%20VISENTIN%20-%20Capua%20medievale.pdf" },
+    "GC": { "nome": "GCatholic, chiese dell'arcidiocesi di Capua", "url": "https://gcatholic.org/churches/local/capu0.htm" },
+    "TCI": { "nome": "Touring Club Italiano (2020)", "url": "https://www.touringclub.it/news/tre-chiese-e-uno-splendido-teatro-i-tesori-di-capua-e-caserta-aperti-dai-volontari-touring" },
+    "MiC": { "nome": "Catalogo generale dei Beni Culturali", "url": "https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1500212556" },
+    "MiC2": { "nome": "Catalogo generale dei Beni Culturali, Chiesa della Carità", "url": "https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1500212770" },
+    "CG": { "nome": "Ministero della Cultura, lavori all'Annunziata (2025)", "url": "https://cultura.gov.it/evento/la-soprintendenza-archeologia-belle-arti-e-paesaggio-per-le-province-di-caserta-e-benevento-avvia-i-lavori-alla-chiesa-dellannunziata-di-capua" },
+    "FSA": { "nome": "Finestre sull'Arte, Madonna lignea di Sant'Eligio", "url": "https://www.finestresullarte.info/arte-antica/capua-restaurata-madonna-lignea-pietro-e-giovanni-alemanno" },
+    "FSA2": { "nome": "Finestre sull'Arte, appello per Sant'Angelo in Formis (2018)", "url": "https://www.finestresullarte.info/attualita/touring-club-appello-per-sant-angelo-in-formis" },
+    "IT": { "nome": "italia.it, Basilica di Sant'Angelo in Formis", "url": "https://www.italia.it/it/campania/capua/basilica-di-s-angelo-in-formis" }
+  },
+  "schede": {
+    "E1": {
+      "indirizzo": "Piazza Duomo",
+      "periodo": "856; ricostruita nel X e a fine XI secolo, nel Settecento, nel 1854–57 e dopo il 1943",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Secondo la tradizione la fondò nell'856 il vescovo Landulfo, quando la città si trasferì sull'ansa del Volturno. In origine era dedicata ai santi Stefano e Agata.",
+        "Fu rifatta nel X secolo e di nuovo alla fine dell'XI sotto l'arcivescovo Erveo; seguirono un rinnovamento settecentesco e i lavori di Federico Travaglini (1854–57).",
+        "Il bombardamento del 9 settembre 1943 la distrusse quasi del tutto. La ricostruzione del 1949–57 ha conservato il quadriportico, le colonne antiche e il campanile medievale.",
+        "Custodisce l'Assunta di Solimena e, nella cripta, il Cristo morto di Matteo Bottiglieri. È basilica minore dal 1827 e sede del Museo diocesano dal 1992."
+      ],
+      "fonti": ["WEN", "WIT", "TC", "GC"]
+    },
+    "E2": {
+      "indirizzo": "Via Principi Longobardi",
+      "periodo": "fine IX – X secolo; ampliata in età normanna e sveva",
+      "epoca": "altomedioevo",
+      "storia": [
+        "È la maggiore delle cappelle palatine «ad curtim», legate al palazzo dei principi longobardi da un passaggio coperto e costruite con materiali romani di reimpiego.",
+        "La tradizione locale ne attribuisce la fondazione ad Adelgrima, vedova del gastaldo Landenolfo; esisteva comunque almeno dalla fine del IX secolo.",
+        "Rimasta chiusa per anni, è stata riaperta nel 2020 dai volontari del Touring Club Italiano."
+      ],
+      "fonti": ["TC", "WIT", "TCI"]
+    },
+    "E3": {
+      "indirizzo": "Via San Michele a Corte",
+      "periodo": "seconda metà IX – metà X secolo",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Detta «Cappella dei Principi», era la cappella privata della corte longobarda, dedicata all'Arcangelo Michele, patrono dei Longobardi.",
+        "Il catalogo ministeriale la classifica come chiesa parrocchiale e la data tra la seconda metà del IX e la metà del X secolo."
+      ],
+      "fonti": ["MiC", "TC", "WIT"]
+    },
+    "E4": {
+      "indirizzo": "Via Principi Longobardi",
+      "periodo": "X–XI secolo; rifatta nel Settecento",
+      "epoca": "altomedioevo",
+      "storia": [
+        "È la terza delle cappelle palatine accanto al palazzo dei principi.",
+        "Il rifacimento settecentesco ha cancellato gran parte dell'aspetto medievale, e per questo le fonti la datano in modo diverso, tra il X e la fine dell'XI secolo."
+      ],
+      "fonti": ["TC", "WIT", "TCI"]
+    },
+    "E5": {
+      "indirizzo": "Via Gran Priorato di Malta",
+      "periodo": "IX secolo (851 secondo la tradizione); ricostruita nell'Ottocento",
+      "epoca": "altomedioevo",
+      "storia": [
+        "La tradizione la data all'851, il che ne farebbe una delle prime fondazioni della Capua longobarda; Wikipedia si limita a «origini anteriori al X secolo».",
+        "Fu ricostruita nell'Ottocento. L'altare è ricavato da un sarcofago romano.",
+        "Un racconto locale vi ambienta l'uccisione del principe Landenolfo, nel 991 o nel 993."
+      ],
+      "fonti": ["TC", "WIT", "V"]
+    },
+    "E6": {
+      "indirizzo": "Via Gran Priorato di Malta",
+      "periodo": "X – prima metà XI secolo; fase normanna; restauro del primo Settecento",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Chiesa di impianto longobardo, datata al X secolo o alla prima metà dell'XI a seconda delle fonti.",
+        "In età normanna i Benedettini aggiunsero il campanile e due absidi; fu restaurata all'inizio del Settecento.",
+        "Come a San Marcello, l'altare è un sarcofago romano."
+      ],
+      "fonti": ["TC", "WIT"]
+    },
+    "E7": {
+      "indirizzo": "Via Andreozzi",
+      "periodo": "età longobarda; inglobata in un edificio civile nel XVIII o XIX secolo",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Piccola fondazione longobarda, abbandonata come luogo di culto e assorbita in un edificio civile.",
+        "Fu restaurata nel 1948 ed è di nuovo in restauro. I suoi fregi altomedievali sono conservati al Museo Campano."
+      ],
+      "fonti": ["TC", "WIT"]
+    },
+    "E8": {
+      "indirizzo": "Tra via Seminario e piazza San Roberto Bellarmino",
+      "periodo": "XII o XIII secolo (data incerta)",
+      "epoca": "medioevo",
+      "storia": [
+        "Ne restano alcune colonne della navata centrale e l'area dell'abside, riemerse dopo la demolizione di un palazzo.",
+        "Un blog locale la data al 1116 citando una decretale di papa Onorio III, che però regnò dal 1216 al 1227: una delle due informazioni è sbagliata.",
+        "Nell'Ottocento la parrocchia fu aggregata a quella di Ognissanti."
+      ],
+      "fonti": ["WIT", "B"]
+    },
+    "E9": {
+      "indirizzo": "Via Principi Normanni",
+      "periodo": "XI secolo; ricostruita nel Settecento",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Fondazione dell'XI secolo, ricostruita nel XVIII. I suoi affreschi medievali sono oggi al Museo Campano.",
+        "Lo stato attuale dell'edificio non è documentato dalle fonti consultate."
+      ],
+      "fonti": ["WIT"]
+    },
+    "E10": {
+      "indirizzo": "Via Roma, verso l'ex caserma San Vincenzo",
+      "periodo": "X secolo; rifatta nell'Ottocento",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Esisteva già nel X secolo e fu rifatta nell'Ottocento.",
+        "L'annesso convento di San Vincenzo è diventato una caserma. Lo stato della chiesa non è documentato."
+      ],
+      "fonti": ["WIT"]
+    },
+    "E11": {
+      "indirizzo": "Via L. Abenavolo",
+      "periodo": "1108; ristrutturata dai Gesuiti nel 1611",
+      "epoca": "medioevo",
+      "storia": [
+        "Fondata dai Benedettini nel 1108, fu ristrutturata dai Gesuiti nel 1611.",
+        "Il catalogo SIGEC la identifica con l'attuale chiesa dei Santi Filippo e Giacomo.",
+        "Il suo coro ligneo del 1519 si trova oggi nella chiesa dell'Annunziata."
+      ],
+      "fonti": ["WIT", "CG"]
+    },
+    "E12": {
+      "indirizzo": "Piazza dei Giudici",
+      "periodo": "1284/86–1296; campanile del Cinquecento; rifacimento barocco del Settecento",
+      "epoca": "medioevo",
+      "storia": [
+        "Nacque alla fine del Duecento come chiesa e ospedale angioino, sul sito della più antica chiesa di Sant'Erasmo.",
+        "Ebbe un campanile nel Cinquecento e un rifacimento barocco in travertino nel Settecento, opera di G. B. Landini.",
+        "Il convento dei Teatini ospita oggi i Carabinieri. La Madonna lignea di Pietro e Giovanni Alemanno, che le apparteneva, è nel Duomo ed è stata restaurata nel 2026."
+      ],
+      "fonti": ["TC", "WIT", "FSA"]
+    },
+    "E13": {
+      "indirizzo": "Piazza San Tommaso d'Aquino",
+      "periodo": "seconda metà del XIII secolo; fase barocca",
+      "epoca": "medioevo",
+      "storia": [
+        "La tradizione lega la fondazione alla visita di san Tommaso d'Aquino, nella seconda metà del Duecento.",
+        "Fu rifatta in forme barocche. Il monastero annesso fu distrutto dai bombardamenti del 1943."
+      ],
+      "fonti": ["TC", "WIT"]
+    },
+    "E14": {
+      "periodo": "fine XIII secolo",
+      "epoca": "medioevo",
+      "storia": [
+        "La fondò alla fine del Duecento Bartolomeo de Capua, protonotario del Regno, e la affidò ai Benedettini di Montevergine.",
+        "Dal 1795 è sede del seminario. Conserva un pozzo del 1769 e la sepoltura di Giulio Cesare Falco (1611).",
+        "OpenStreetMap la indica come «ex chiesa»: lo stato attuale va verificato."
+      ],
+      "fonti": ["WIT"]
+    },
+    "E15": {
+      "indirizzo": "Via Pier delle Vigne",
+      "periodo": "inizio XIV secolo; restauri del 1747–56",
+      "epoca": "medioevo",
+      "storia": [
+        "Voluta anch'essa da Bartolomeo de Capua all'inizio del Trecento, con un convento agostiniano e un ospedale.",
+        "Il complesso fu restaurato a metà Settecento. La chiesa è aperta al culto."
+      ],
+      "fonti": ["TC", "WIT"]
+    },
+    "E16": {
+      "indirizzo": "Corso Gran Priorato di Malta",
+      "periodo": "XIII secolo",
+      "epoca": "medioevo",
+      "storia": [
+        "Chiesa gotica del Duecento.",
+        "Il convento ospita la sezione musicale del Liceo Garofano; lo stato della chiesa non è documentato."
+      ],
+      "fonti": ["WIT"]
+    },
+    "E17": {
+      "indirizzo": "Piazza San Francesco d'Assisi",
+      "periodo": "1383 o fine XIV secolo; rifatta nel 1510; facciata e campanile del Settecento",
+      "epoca": "medioevo",
+      "storia": [
+        "Chiesa gotica della fine del Trecento, con un chiostro quattro- o cinquecentesco.",
+        "Fu rifatta nel 1510; facciata e campanile sono del Settecento.",
+        "Secondo lo storico settecentesco Granata sorge sul sito della scomparsa chiesa di San Silvestro."
+      ],
+      "fonti": ["TC", "WIT", "B"]
+    },
+    "E18": {
+      "indirizzo": "Via San Martino alla Giudea",
+      "periodo": "fine XIV secolo",
+      "epoca": "medioevo",
+      "storia": [
+        "Edificio gotico nella Giudecca, il quartiere della comunità ebraica, presente in città fino al 1540.",
+        "Non è più una chiesa, ma l'edificio esiste ancora. Il suo uso attuale non è noto."
+      ],
+      "fonti": ["WIT"]
+    },
+    "E19": {
+      "indirizzo": "Piazza Marconi",
+      "periodo": "1531–1574, su una chiesa angioina; interventi del XVII–XVIII secolo",
+      "epoca": "eta_moderna",
+      "storia": [
+        "Costruita tra il 1531 e il 1574 sul sito di una chiesa di età angioina.",
+        "La cupola fu progettata da Domenico Fontana ed eseguita da Ambrogio Attendolo; il soffitto ligneo a cassettoni fu pagato con il lascito di Lucio Paganino.",
+        "Ospita il coro ligneo del 1519 proveniente da San Benedetto.",
+        "Dal 25 marzo 2025 è affidata alla Soprintendenza per i lavori al tamburo e alla lanterna, colpiti da un fulmine, e alla scala elicoidale."
+      ],
+      "fonti": ["TC", "CG"]
+    },
+    "E20": {
+      "periodo": "fondazione del 952; edificio attuale del 1726",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Il monastero risale a una fondazione del 952. La chiesa barocca attuale è di G. B. Nauclerio (1726).",
+        "Il convento fu caserma dal 1812 e oggi ospita il dipartimento universitario di Economia."
+      ],
+      "fonti": ["WIT"]
+    },
+    "E21": {
+      "indirizzo": "Via Roma",
+      "periodo": "forma attuale del XVIII secolo",
+      "epoca": "eta_moderna",
+      "storia": [
+        "Chiesa di forma settecentesca. Il monastero annesso fu unito al Museo Campano nel 1940."
+      ],
+      "fonti": ["TC", "WIT"]
+    },
+    "E22": {
+      "indirizzo": "Via Seggio dei Cavalieri",
+      "periodo": "1697",
+      "epoca": "eta_moderna",
+      "storia": [
+        "Chiesa barocca del 1697, di proprietà della Reale Arciconfraternita dei Bianchi della SS. Carità.",
+        "Le sono annessi il Monte di Pietà (1540) e il conservatorio delle Oblate."
+      ],
+      "fonti": ["TC", "WIT", "MiC2"]
+    },
+    "E23": {
+      "indirizzo": "Via C. Landolfo",
+      "periodo": "XVIII secolo",
+      "epoca": "eta_moderna",
+      "storia": [
+        "Chiesa tardo-barocca con un campanile di scuola vanvitelliana. Prende il nome dalle reliquie della santa.",
+        "Nell'ex convento di San Gabriello si trova una sezione del Museo diocesano."
+      ],
+      "fonti": ["TC", "WIT"]
+    },
+    "E24": {
+      "indirizzo": "Via Convento delle Grazie",
+      "periodo": "XVIII secolo, su una cappella del primo Cinquecento",
+      "epoca": "eta_moderna",
+      "storia": [
+        "È l'ampliamento settecentesco di una cappella che ricordava il sacco di Capua del 1501.",
+        "Potrebbe coincidere con la «Santella» del 1761 citata da Wikipedia, che si richiama allo stesso evento, ma nessuna fonte lo conferma."
+      ],
+      "fonti": ["TC", "WIT"]
+    },
+    "E25": {
+      "periodo": "XVIII secolo (convento del XVII)",
+      "epoca": "eta_moderna",
+      "storia": [
+        "Chiesa settecentesca accanto a un convento del Seicento. Lo stato attuale non è documentato."
+      ],
+      "fonti": ["WIT"]
+    },
+    "E26": {
+      "indirizzo": "Borgo San Giuseppe, a nord di Porta Roma",
+      "periodo": "XVIII secolo",
+      "epoca": "eta_moderna",
+      "storia": [
+        "È il centro del borgo agricolo cresciuto fuori Porta Roma.",
+        "Fu costruita nel Settecento sul sito della più antica chiesa di San Terenziano, sacrificata nel 1557 alle fortificazioni spagnole insieme al suo borgo."
+      ],
+      "fonti": ["WIT", "B"]
+    },
+    "E27": {
+      "indirizzo": "Via Pomerio",
+      "periodo": "1853",
+      "epoca": "contemporanea",
+      "storia": [
+        "Chiesa neoclassica del 1853, tra le più recenti del centro storico. Lo stato attuale non è documentato."
+      ],
+      "fonti": ["WIT"]
+    },
+    "E28": {
+      "indirizzo": "Rione Macello",
+      "periodo": "XX secolo",
+      "epoca": "contemporanea",
+      "storia": [
+        "Chiesa moderna intitolata a san Roberto Bellarmino, arcivescovo di Capua e compatrono dell'arcidiocesi."
+      ],
+      "fonti": ["WIT"]
+    },
+    "E29": {
+      "periodo": "data non nota",
+      "epoca": "ignota",
+      "storia": [
+        "Parrocchia attiva della forania Capua–Bellona. Le fonti consultate non ne indicano la data di costruzione."
+      ],
+      "fonti": ["GC"]
+    },
+    "E30": {
+      "indirizzo": "Fuori Porta Napoli, circa 400 m dalle mura",
+      "periodo": "1228; distrutta nel 1799 e ricostruita nel 1800",
+      "epoca": "medioevo",
+      "storia": [
+        "Il lebbrosario fu fondato nel 1228 da Lazzaro di Raimo, all'epoca di Federico II, sulla vecchia strada per Santa Maria Maggiore. Nel 1490 passò ai Cavalieri di Malta.",
+        "Le truppe francesi di Championnet distrussero il complesso nel 1799. La chiesa fu ricostruita nel 1800; l'ospedale, il vestibolo a quattro colonne e il pozzo sono invece scomparsi."
+      ],
+      "fonti": ["B", "L", "WIT"]
+    },
+    "E31": {
+      "indirizzo": "Via Luigi Baia, Sant'Angelo in Formis",
+      "periodo": "1072–1087, sul tempio di Diana Tifatina; portico e campanile del XII secolo",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Sorge sulle pendici del monte Tifata, sul podio del santuario romano di Diana Tifatina, di cui riusa basamento, pavimento e colonne.",
+        "Dopo una probabile chiesa longobarda dedicata all'Arcangelo, fu concessa a Montecassino. Tra il 1072 e il 1087 l'abate Desiderio, poi papa Vittore III, la ricostruì e la fece affrescare: nell'abside è ritratto con il nimbo quadrato mentre offre il modellino della chiesa.",
+        "Il ciclo di affreschi, con storie del Nuovo e dell'Antico Testamento e il Giudizio in controfacciata, è il testo principale della pittura «bizantino-campana».",
+        "Nel XII secolo furono rifatti il portico e il campanile. È basilica minore e parrocchia, e il monumento più importante del comune."
+      ],
+      "fonti": ["WSA", "IT", "TC", "GC", "FSA2"]
+    },
+    "E32": {
+      "indirizzo": "Via San Iorio, Sant'Angelo in Formis",
+      "periodo": "data non nota",
+      "epoca": "ignota",
+      "storia": [
+        "È la seconda parrocchia della frazione di Sant'Angelo in Formis. Le fonti consultate non ne indicano la data."
+      ],
+      "fonti": ["GC"]
+    },
+    "S1": {
+      "nome": "Santa Maria dei Franchi",
+      "luogo": "slargo su via Seggio dei Cavalieri",
+      "periodo": "età longobarda; scomparsa in data ignota",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Prendeva il nome dalla famiglia longobarda De Franco, che abitava nei pressi. Ne sopravvive solo il nome di uno slargo."
+      ],
+      "fonti": ["A"]
+    },
+    "S2": {
+      "indirizzo": "Via Pomerio (Palazzo San Vincenzo)",
+      "periodo": "IX secolo; soppressione non datata",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Era la sede capuana dell'abbazia di San Vincenzo al Volturno: vi si rifugiò la comunità monastica dopo la distruzione saracena dell'881.",
+        "Verso la metà dell'XI secolo i capuani se ne impadronirono e la cedettero per tre anni a un chierico di nome Lando.",
+        "Accanto sorgeva la chiesa «della Cerva», legata alla leggenda del conte Landone."
+      ],
+      "fonti": ["A", "V"]
+    },
+    "S3": {
+      "nome": "Chiesa «della Cerva»",
+      "luogo": "accanto a San Vincenzo, via Pomerio",
+      "periodo": "date ignote",
+      "epoca": "ignota",
+      "storia": [
+        "La leggenda racconta che il conte Landone catturò una cerva e la prese come presagio favorevole alla fondazione della nuova Capua."
+      ],
+      "fonti": ["A"]
+    },
+    "S4": {
+      "indirizzo": "Palazzo Antignano (Museo Campano), lato via Roma",
+      "periodo": "X secolo; distrutta nel 1594",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Chiesa del X secolo distrutta nel 1594 e in parte inglobata in Palazzo Antignano, oggi sede del Museo Campano.",
+        "Su via Roma si vedono ancora archi acuti tamponati e tre fusti di colonna."
+      ],
+      "fonti": ["A", "R"]
+    },
+    "S5": {
+      "indirizzo": "Via Pier delle Vigne",
+      "periodo": "IX secolo (portale); trasformata in abitazione",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Ne resta un portale di tipo benedettino datato al IX secolo. Nel Duecento apparteneva a Guglielmo Pandone.",
+        "L'interno è diventato un'abitazione; il dislivello con la strada fa pensare a una cripta."
+      ],
+      "fonti": ["A"]
+    },
+    "S6": {
+      "indirizzo": "Vico San Germano, di fronte al campanile del Duomo",
+      "periodo": "IX secolo",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Di questa chiesa resta solo il profilo dell'abside, visibile dal vicolo che ne porta ancora il nome."
+      ],
+      "fonti": ["A"]
+    },
+    "S7": {
+      "indirizzo": "Passaggio tra via Granata e piazza De Renzis",
+      "periodo": "IX secolo; demolita nel Settecento",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Detta anche di Atrepaldi o dei Nobiluomini, aveva un ospizio annesso. La tradizione la attribuisce a Carlo Magno, il blog locale al conte Landone.",
+        "Fu demolita nel Settecento: il passaggio tra via Granata e piazza De Renzis era il portale dell'ospizio.",
+        "Le sue colonne con capitelli longobardi si trovano a Palazzo Fieramosca."
+      ],
+      "fonti": ["A", "R"]
+    },
+    "S8": {
+      "nome": "San Tommaso Apostolo",
+      "luogo": "via San Tommaso",
+      "periodo": "medievale; soppressa intorno al 1500",
+      "epoca": "medioevo",
+      "storia": ["Fu soppressa intorno al 1500. Ne resta il nome della via."],
+      "fonti": ["A"]
+    },
+    "S9": {
+      "nome": "San Pietro Apostolo a Monterone",
+      "luogo": "via Roma, accanto all'edificio scolastico",
+      "periodo": "medievale; demolita intorno al 1420",
+      "epoca": "medioevo",
+      "storia": ["Parrocchia demolita intorno al 1420, insieme alla vicina San Bartolomeo, per costruire il convento dei Padri Antoniani."],
+      "fonti": ["A"]
+    },
+    "S10": {
+      "nome": "San Bartolomeo a Monterone",
+      "luogo": "via Roma, accanto all'edificio scolastico",
+      "periodo": "medievale; demolita intorno al 1420",
+      "epoca": "medioevo",
+      "storia": ["Parrocchia demolita intorno al 1420, insieme alla vicina San Pietro, per costruire il convento dei Padri Antoniani."],
+      "fonti": ["A"]
+    },
+    "S11": {
+      "nome": "Santi Cosma e Damiano a Quadrapane",
+      "luogo": "piazzetta Quadrapane",
+      "periodo": "XI secolo",
+      "epoca": "altomedioevo",
+      "storia": ["Parrocchia dell'XI secolo nella piazzetta che porta il nome della famiglia longobarda Quadrapane. Non ne restano tracce certe."],
+      "fonti": ["B"]
+    },
+    "S12": {
+      "nome": "Sant'Andrea «de Maximilianam»",
+      "luogo": "presso Largo Eboli",
+      "periodo": "1062–1266",
+      "epoca": "medioevo",
+      "storia": ["Piccola parrocchia normanno-sveva di circa cento anime. Divenne oratorio della Confraternita dei Giardinieri e fu poi aggregata a San Lorenzo ad Crucem."],
+      "fonti": ["B"]
+    },
+    "S13": {
+      "nome": "Ognissanti",
+      "luogo": "accanto all'ex convento del Carmine",
+      "periodo": "antica; soppressa a fine Settecento",
+      "epoca": "ignota",
+      "storia": ["Registrata nella Tassa delle Decime, fu unita a San Marcello Piccolo e soppressa alla fine del Settecento. Era addossata al convento carmelitano."],
+      "fonti": ["B"]
+    },
+    "S14": {
+      "indirizzo": "Via Gran Priorato di Malta",
+      "periodo": "XIII secolo",
+      "epoca": "medioevo",
+      "storia": [
+        "Cappella privata a navata unica che Bartolomeo de Capua annesse al suo palazzo nel Duecento.",
+        "Le sue tracce sono rimaste visibili fino a pochi decenni fa. Il palazzo non è stato identificato: il punto sulla mappa è indicativo."
+      ],
+      "fonti": ["B"]
+    },
+    "S15": {
+      "indirizzo": "Sul sito di Santa Caterina",
+      "periodo": "medievale",
+      "epoca": "medioevo",
+      "storia": ["Piccola chiesa che lo storico Granata colloca sul sito dove sorge oggi Santa Caterina."],
+      "fonti": ["B"]
+    },
+    "S16": {
+      "nome": "Santissima Trinità",
+      "luogo": "sito sconosciuto",
+      "periodo": "demolita nel 1734",
+      "epoca": "ignota",
+      "storia": ["Fu demolita nel 1734. Non se ne conosce la posizione."],
+      "fonti": ["B"]
+    },
+    "S17": {
+      "indirizzo": "Via Pier delle Vigne",
+      "periodo": "date ignote",
+      "epoca": "ignota",
+      "storia": ["Chiesa dei Cavalieri di Malta di cui non si conosce il nome. Sopravvive solo la cupola, inglobata in una casa privata non identificata."],
+      "fonti": ["B"]
+    },
+    "S18": {
+      "indirizzo": "Sul sito di San Giuseppe extra moenia",
+      "periodo": "medievale; soppresso nel 1557",
+      "epoca": "medioevo",
+      "storia": [
+        "Chiesa di un borgo fuori Porta Roma. Un blog locale identifica lo stesso sito con un complesso templare (chiesa, ospedale e convento).",
+        "Il borgo e il complesso furono sacrificati nel 1557 alle fortificazioni spagnole; nel Settecento vi sorse San Giuseppe."
+      ],
+      "fonti": ["B", "WIT"]
+    },
+    "S19": {
+      "indirizzo": "Piazza Medaglie d'Oro",
+      "periodo": "danneggiata nel 1943, demolita negli anni Sessanta",
+      "epoca": "ignota",
+      "storia": ["Detta «del Purgatorio», fu danneggiata dai bombardamenti del 1943 e demolita negli anni Sessanta."],
+      "fonti": ["WIT"]
+    },
+    "S20": {
+      "indirizzo": "Tra via Roma e via Asilo Infantile",
+      "periodo": "persa nel 1943",
+      "epoca": "ignota",
+      "storia": [
+        "Chiesa del convento carmelitano, persa nei bombardamenti del 1943. Il convento esiste ancora.",
+        "Accanto sorgeva la parrocchia di Ognissanti."
+      ],
+      "fonti": ["WIT", "B"]
+    },
+    "S21": {
+      "nome": "San Pietro ad Pontem",
+      "luogo": "forse all'imbocco del ponte romano (ipotesi)",
+      "periodo": "persa nel 1943",
+      "epoca": "ignota",
+      "storia": ["Persa nei bombardamenti del 1943. Il nome suggerisce che sorgesse alla testata del ponte romano sul Volturno, ma le fonti non lo dicono."],
+      "fonti": ["WIT"]
+    },
+    "S22": {
+      "nome": "San Vittore",
+      "luogo": "presso piazza dei Giudici",
+      "periodo": "date ignote",
+      "epoca": "ignota",
+      "storia": ["Detta «non più esistente». Potrebbe essere un'altra dedicazione dello stesso sito di Sant'Erasmo e Sant'Eligio."],
+      "fonti": ["WIT"]
+    },
+    "S23": {
+      "indirizzo": "Sul sito di Sant'Eligio",
+      "periodo": "precedente al 1284",
+      "epoca": "medioevo",
+      "storia": ["Chiesa dedicata a sant'Erasmo di Formia, sul cui sito sorse alla fine del Duecento Sant'Eligio."],
+      "fonti": ["WIT"]
+    },
+    "S24": {
+      "nome": "San Nicola alla Giudecca",
+      "luogo": "Giudecca, presso San Martino",
+      "periodo": "medievale",
+      "epoca": "medioevo",
+      "storia": ["Una delle chiese intorno a cui viveva la comunità ebraica, insieme a San Martino. Se ne deduce la scomparsa perché solo San Martino è detta ancora esistente."],
+      "fonti": ["WIT"]
+    },
+    "S25": {
+      "nome": "Sant'Andrea alla Giudecca",
+      "luogo": "Giudecca",
+      "periodo": "medievale",
+      "epoca": "medioevo",
+      "storia": ["Chiesa del quartiere ebraico, probabilmente scomparsa. Potrebbe coincidere con Sant'Andrea «de Maximilianam»."],
+      "fonti": ["WIT"]
+    }
+  }
+}
