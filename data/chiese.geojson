@@ -1,0 +1,1038 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "E1",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.210787,
+     41.109137
+    ]
+   },
+   "properties": {
+    "id": "E1",
+    "nome": "Cattedrale di Maria SS. Assunta (Duomo)",
+    "tipo": "esistente",
+    "stato": "attiva",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/364927723",
+    "wikidata": "Q950002",
+    "commons_categoria": "Cathedral (Capua)",
+    "mappa_proloco_n": "1",
+    "immagine_file": "File:Capua, cattedrale di Santa Maria Assunta - Facciata esterna.jpg",
+    "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Capua%2C_cattedrale_di_Santa_Maria_Assunta_-_Facciata_esterna.jpg?width=1024",
+    "immagine_pagina": "https://commons.wikimedia.org/wiki/File:Capua%2C_cattedrale_di_Santa_Maria_Assunta_-_Facciata_esterna.jpg",
+    "immagine_licenza": "CC BY-SA 4.0",
+    "immagine_autore": "Pufui PcPifpef"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E2",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.212656,
+     41.109999
+    ]
+   },
+   "properties": {
+    "id": "E2",
+    "nome": "San Salvatore Maggiore a Corte",
+    "tipo": "esistente",
+    "stato": "attiva, orari ridotti",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/885531796",
+    "wikidata": "Q112044654",
+    "commons_categoria": "Chiesa di San Salvatore Maggiore a corte (Capua)",
+    "mappa_proloco_n": "10",
+    "immagine_file": "File:San Salvatore maggiore a corte, facciata.jpg",
+    "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/San_Salvatore_maggiore_a_corte%2C_facciata.jpg?width=1024",
+    "immagine_pagina": "https://commons.wikimedia.org/wiki/File:San_Salvatore_maggiore_a_corte%2C_facciata.jpg",
+    "immagine_licenza": "CC BY-SA 4.0",
+    "immagine_autore": "MuMiCaserta"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E3",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.213697,
+     41.109641
+    ]
+   },
+   "properties": {
+    "id": "E3",
+    "nome": "San Michele a Corte",
+    "tipo": "esistente",
+    "stato": "attiva, orari ridotti",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/885532382",
+    "wikidata": "Q118764012",
+    "mappa_proloco_n": "13"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E4",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.213034,
+     41.110409
+    ]
+   },
+   "properties": {
+    "id": "E4",
+    "nome": "San Giovanni a Corte",
+    "tipo": "esistente",
+    "stato": "attiva, orari ridotti",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/885533267",
+    "wikidata": "Q118764007",
+    "mappa_proloco_n": "12"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E5",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.21542,
+     41.10856
+    ]
+   },
+   "properties": {
+    "id": "E5",
+    "nome": "San Marcello Maggiore",
+    "tipo": "esistente",
+    "stato": "attiva, visitabile su richiesta",
+    "precisione": "edificio",
+    "fonte_coord": "Wikidata",
+    "wikidata": "Q118764010",
+    "mappa_proloco_n": "16",
+    "immagine_file": "File:San Marcello Maggiore, Capua - da Bertaux.jpg",
+    "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/San_Marcello_Maggiore%2C_Capua_-_da_Bertaux.jpg?width=1024",
+    "immagine_pagina": "https://commons.wikimedia.org/wiki/File:San_Marcello_Maggiore%2C_Capua_-_da_Bertaux.jpg",
+    "immagine_licenza": "PD-1923; Public domain",
+    "immagine_autore": "Émile Bertaux",
+    "note": "Punto Wikidata, a circa 30 m dalla posizione sulla mappa Pro Loco; non mappata in OSM."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E6",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.21483,
+     41.10889
+    ]
+   },
+   "properties": {
+    "id": "E6",
+    "nome": "Santi Rufo e Carponio",
+    "tipo": "esistente",
+    "stato": "attiva, visitabile su richiesta",
+    "precisione": "edificio",
+    "fonte_coord": "Wikidata",
+    "wikidata": "Q118763996",
+    "commons_categoria": "Santi Rufo e Carponio (Capua)",
+    "mappa_proloco_n": "14",
+    "immagine_file": "File:Capua, chiesa dei Santi Rufo e Carponio - Facciata e campanile.jpg",
+    "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Capua%2C_chiesa_dei_Santi_Rufo_e_Carponio_-_Facciata_e_campanile.jpg?width=1024",
+    "immagine_pagina": "https://commons.wikimedia.org/wiki/File:Capua%2C_chiesa_dei_Santi_Rufo_e_Carponio_-_Facciata_e_campanile.jpg",
+    "immagine_licenza": "CC BY-SA 4.0",
+    "immagine_autore": "Pufui PcPifpef",
+    "note": "Non mappata in OSM."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E7",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.214143,
+     41.107487
+    ]
+   },
+   "properties": {
+    "id": "E7",
+    "nome": "Sant'Angelo in Audoaldis",
+    "tipo": "esistente",
+    "stato": "sconsacrata, inglobata, in restauro",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "node/9418144823",
+    "wikidata": "Q118764020",
+    "commons_categoria": "Sant'Angelo in Audoaldis",
+    "mappa_proloco_n": "22",
+    "immagine_file": "File:Capua, chiesa di Sant'Angelo in Audoaldis - Facciata e campanile.jpg",
+    "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Capua%2C_chiesa_di_Sant%27Angelo_in_Audoaldis_-_Facciata_e_campanile.jpg?width=1024",
+    "immagine_pagina": "https://commons.wikimedia.org/wiki/File:Capua%2C_chiesa_di_Sant%27Angelo_in_Audoaldis_-_Facciata_e_campanile.jpg",
+    "immagine_licenza": "CC BY-SA 4.0",
+    "immagine_autore": "Pufui PcPifpef"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E8",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.211043,
+     41.110493
+    ]
+   },
+   "properties": {
+    "id": "E8",
+    "nome": "San Leucio (rudere)",
+    "tipo": "esistente",
+    "stato": "rudere",
+    "precisione": "strada",
+    "fonte_coord": "OSM (piazza San Roberto Bellarmino)",
+    "note": "Posto al centro di piazza San Roberto Bellarmino, vicino a via Seminario, secondo il blog B. La parrocchia 'Ognissanti e San Leucio' è su Wikidata (Q124298053) come ente, non come edificio. La piazza è in centro, non nel rione Macello dove sta la chiesa moderna di San Roberto Bellarmino."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E9",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.21531,
+     41.10799
+    ]
+   },
+   "properties": {
+    "id": "E9",
+    "nome": "San Salvatore Piccolo",
+    "tipo": "esistente",
+    "stato": "da verificare",
+    "precisione": "edificio",
+    "fonte_coord": "Wikidata",
+    "wikidata": "Q118764016",
+    "mappa_proloco_n": "23",
+    "note": "Punto Wikidata su via Principi Normanni, a circa 20 m dalla posizione sulla mappa Pro Loco."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E10",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.207765,
+     41.112965
+    ]
+   },
+   "properties": {
+    "id": "E10",
+    "nome": "San Leonardo",
+    "tipo": "esistente",
+    "stato": "da verificare",
+    "precisione": "approssimata",
+    "fonte_coord": "mappa Pro Loco",
+    "mappa_proloco_n": "3",
+    "note": "Ricavata dalla mappa Pro Loco (via Roma, estremità ovest, vicino all'ex caserma San Vincenzo). A circa 20 m Wikidata colloca 'Santa Maria in Abate' (Q118764019, via Roma 161 secondo SIGEC): verificare se sono edifici distinti."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E11",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.216432,
+     41.109234
+    ]
+   },
+   "properties": {
+    "id": "E11",
+    "nome": "San Benedetto (oggi Santi Filippo e Giacomo)",
+    "tipo": "esistente",
+    "stato": "attiva, parrocchia",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/885535185",
+    "wikidata": "Q118763995",
+    "mappa_proloco_n": "15",
+    "note": "Il catalogo SIGEC (ICCD13700820) indica la stessa chiesa come S. Benedetto, Chiesa dei Gesuiti, SS. Filippo e Giacomo, Immacolata, in via L. Abenavolo; OSM e Wikidata la chiamano Santi Filippo e Giacomo."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E12",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.211218,
+     41.107658
+    ]
+   },
+   "properties": {
+    "id": "E12",
+    "nome": "Sant'Eligio",
+    "tipo": "esistente",
+    "stato": "chiusa per restauro",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/259942868",
+    "wikidata": "Q118764022",
+    "commons_categoria": "Sant'Eligio (Capua)",
+    "mappa_proloco_n": "20",
+    "immagine_file": "File:Capua, chiesa di Sant'Eligio - Esterno.jpg",
+    "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Capua%2C_chiesa_di_Sant%27Eligio_-_Esterno.jpg?width=1024",
+    "immagine_pagina": "https://commons.wikimedia.org/wiki/File:Capua%2C_chiesa_di_Sant%27Eligio_-_Esterno.jpg",
+    "immagine_licenza": "CC BY-SA 4.0",
+    "immagine_autore": "Pufui PcPifpef"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E13",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.212958,
+     41.109195
+    ]
+   },
+   "properties": {
+    "id": "E13",
+    "nome": "San Domenico",
+    "tipo": "esistente",
+    "stato": "attiva, visitabile su richiesta",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/364936348",
+    "wikidata": "Q118764005",
+    "commons_categoria": "San Domenico (Capua)",
+    "mappa_proloco_n": "11",
+    "immagine_file": "File:Church of San Domenico Capua.jpg",
+    "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Church_of_San_Domenico_Capua.jpg?width=1024",
+    "immagine_pagina": "https://commons.wikimedia.org/wiki/File:Church_of_San_Domenico_Capua.jpg",
+    "immagine_licenza": "CC BY-SA 4.0",
+    "immagine_autore": "Tery14"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E14",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.210812,
+     41.110242
+    ]
+   },
+   "properties": {
+    "id": "E14",
+    "nome": "Santa Maria di Montevergine",
+    "tipo": "esistente",
+    "stato": "da verificare (OSM: 'ex chiesa')",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/1220300259",
+    "wikidata": "Q118764004",
+    "mappa_proloco_n": "5",
+    "note": "OSM la etichetta 'ex Chiesa di Montevergine'."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E15",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.21387,
+     41.107689
+    ]
+   },
+   "properties": {
+    "id": "E15",
+    "nome": "Maddalena",
+    "tipo": "esistente",
+    "stato": "attiva",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "node/11303256668",
+    "wikidata": "Q118764000",
+    "commons_categoria": "Santa Maria Maddalena (Capua)",
+    "mappa_proloco_n": "21",
+    "immagine_file": "File:Capua chiesa.jpg",
+    "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Capua_chiesa.jpg?width=1024",
+    "immagine_pagina": "https://commons.wikimedia.org/wiki/File:Capua_chiesa.jpg",
+    "immagine_licenza": "CC BY-SA 2.0",
+    "immagine_autore": "Daniele Testa"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E16",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.214839,
+     41.108402
+    ]
+   },
+   "properties": {
+    "id": "E16",
+    "nome": "Gesù Gonfalone",
+    "tipo": "esistente",
+    "stato": "da verificare",
+    "precisione": "approssimata",
+    "fonte_coord": "mappa Pro Loco",
+    "wikidata": "Q118764002",
+    "mappa_proloco_n": "8",
+    "note": "Coordinate Wikidata errate (puntano a circa 800 m, presso San Lazzaro): uso la posizione della mappa Pro Loco, su corso Gran Priorato di Malta all'angolo con via Pier delle Vigne."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E17",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.207518,
+     41.113908
+    ]
+   },
+   "properties": {
+    "id": "E17",
+    "nome": "Santa Caterina",
+    "tipo": "esistente",
+    "stato": "attiva, visitabile su richiesta",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/1220300247",
+    "wikidata": "Q3672900",
+    "mappa_proloco_n": "2"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E18",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.20992,
+     41.11166
+    ]
+   },
+   "properties": {
+    "id": "E18",
+    "nome": "San Martino alla Giudea (ex)",
+    "tipo": "esistente",
+    "stato": "sconsacrata, uso ignoto",
+    "precisione": "edificio",
+    "fonte_coord": "Wikidata",
+    "wikidata": "Q118764011",
+    "mappa_proloco_n": "4",
+    "note": "Punto Wikidata in via S. Martino alla Giudea, a circa 30 m dalla posizione sulla mappa Pro Loco."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E19",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.212717,
+     41.107141
+    ]
+   },
+   "properties": {
+    "id": "E19",
+    "nome": "SS. Annunziata",
+    "tipo": "esistente",
+    "stato": "chiusa per lavori (da verificare)",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/259942288",
+    "wikidata": "Q55179225",
+    "commons_categoria": "Santissima Annunziata (Capua)",
+    "mappa_proloco_n": "19",
+    "immagine_file": "File:Annunziata-Capua.jpg",
+    "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Annunziata-Capua.jpg?width=1024",
+    "immagine_pagina": "https://commons.wikimedia.org/wiki/File:Annunziata-Capua.jpg",
+    "immagine_licenza": "CC BY-SA 4.0",
+    "immagine_autore": "Giuseppe.albano-photo.account",
+    "note": "Su Wikidata l'elemento ha un comune (P131) sbagliato."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E20",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.217441,
+     41.108519
+    ]
+   },
+   "properties": {
+    "id": "E20",
+    "nome": "Santa Maria delle Dame Monache",
+    "tipo": "esistente",
+    "stato": "da verificare",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/1219870783",
+    "wikidata": "Q118764017",
+    "commons_categoria": "Santa Maria delle Dame Monache (Capua)",
+    "mappa_proloco_n": "17",
+    "immagine_file": "File:Church of Santa Maria delle Dame Monache, Capua.jpg",
+    "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Church_of_Santa_Maria_delle_Dame_Monache%2C_Capua.jpg?width=1024",
+    "immagine_pagina": "https://commons.wikimedia.org/wiki/File:Church_of_Santa_Maria_delle_Dame_Monache%2C_Capua.jpg",
+    "immagine_licenza": "CC BY-SA 4.0",
+    "immagine_autore": "Tery14",
+    "note": "Le coordinate Wikidata sono spostate di circa 200 m; OSM coincide con la mappa Pro Loco."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E21",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.211945,
+     41.111057
+    ]
+   },
+   "properties": {
+    "id": "E21",
+    "nome": "Concezione",
+    "tipo": "esistente",
+    "stato": "attiva, visitabile su richiesta",
+    "precisione": "approssimata",
+    "fonte_coord": "mappa Pro Loco",
+    "wikidata": "Q118763999",
+    "mappa_proloco_n": "45",
+    "immagine_file": "File:Church of the Conception Capua.jpg",
+    "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Church_of_the_Conception_Capua.jpg?width=1024",
+    "immagine_pagina": "https://commons.wikimedia.org/wiki/File:Church_of_the_Conception_Capua.jpg",
+    "immagine_licenza": "CC BY-SA 4.0",
+    "immagine_autore": "Tery14",
+    "note": "La mappa Pro Loco la pone all'angolo tra via Roma e via O. Salomone, all'estremità ovest del Museo Campano; Wikidata la mette circa 110 m più a est. Da verificare."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E22",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.212796,
+     41.107742
+    ]
+   },
+   "properties": {
+    "id": "E22",
+    "nome": "Carità (SS. Carità dei Bianchi)",
+    "tipo": "esistente",
+    "stato": "attiva, visitabile su richiesta",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "node/11303264570",
+    "wikidata": "Q118763998",
+    "mappa_proloco_n": "18",
+    "immagine_file": "File:Capua, chiesa di Santa Maria della Carità - Facciata.jpg",
+    "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Capua%2C_chiesa_di_Santa_Maria_della_Carit%C3%A0_-_Facciata.jpg?width=1024",
+    "immagine_pagina": "https://commons.wikimedia.org/wiki/File:Capua%2C_chiesa_di_Santa_Maria_della_Carit%C3%A0_-_Facciata.jpg",
+    "immagine_licenza": "CC BY-SA 4.0",
+    "immagine_autore": "Pufui PcPifpef"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E23",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.212395,
+     41.110505
+    ]
+   },
+   "properties": {
+    "id": "E23",
+    "nome": "Santa Placida",
+    "tipo": "esistente",
+    "stato": "attiva, visitabile su richiesta",
+    "precisione": "approssimata",
+    "fonte_coord": "mappa Pro Loco",
+    "mappa_proloco_n": "9",
+    "note": "Non trovata in OSM né in Wikidata con questo nome. Wikidata ha una 'chiesa di San Gabriello' (Q118764006) a circa 35 m, cioè presso l'ex convento di San Gabriello annesso: potrebbe essere lo stesso edificio."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E24",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.210525,
+     41.11025
+    ]
+   },
+   "properties": {
+    "id": "E24",
+    "nome": "Santa Maria delle Grazie",
+    "tipo": "esistente",
+    "stato": "attiva, visitabile su richiesta",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/1220300260",
+    "wikidata": "Q118764018",
+    "commons_categoria": "Santa Maria delle Grazie (Capua)",
+    "mappa_proloco_n": "6",
+    "immagine_file": "File:Capua - 4025933537.jpg",
+    "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Capua_-_4025933537.jpg?width=1024",
+    "immagine_pagina": "https://commons.wikimedia.org/wiki/File:Capua_-_4025933537.jpg",
+    "immagine_licenza": "CC BY 2.0",
+    "immagine_autore": "Shadowgate",
+    "note": "OSM indica via Conte Landone, il report via Convento delle Grazie 10. Wikidata ha un elemento separato 'chiesa de La Santella' (Q118763994) a circa 120 m: l'identificazione Grazie = Santella resta dubbia."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E25",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.21215,
+     41.11127
+    ]
+   },
+   "properties": {
+    "id": "E25",
+    "nome": "San Raffaele",
+    "tipo": "esistente",
+    "stato": "da verificare",
+    "precisione": "edificio",
+    "fonte_coord": "Wikidata",
+    "wikidata": "Q118764014",
+    "mappa_proloco_n": "7",
+    "note": "Punto Wikidata a circa 50 m dalla posizione sulla mappa Pro Loco. Nello stesso punto Wikidata ha anche 'chiesa di San Girolamo' (Q118764008)."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E26",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.200605,
+     41.11221
+    ]
+   },
+   "properties": {
+    "id": "E26",
+    "nome": "San Giuseppe extra moenia",
+    "tipo": "esistente",
+    "stato": "attiva",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/1099877723",
+    "wikidata": "Q118764009",
+    "commons_categoria": "San Giuseppe (Capua)"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E27",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.211795,
+     41.111951
+    ]
+   },
+   "properties": {
+    "id": "E27",
+    "nome": "Santa Margherita (da Cortona)",
+    "tipo": "esistente",
+    "stato": "da verificare",
+    "precisione": "approssimata",
+    "fonte_coord": "mappa Pro Loco",
+    "mappa_proloco_n": "III",
+    "note": "Solo dalla mappa Pro Loco (via Pomerio); non in OSM né in Wikidata."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E28",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.228296,
+     41.10763
+    ]
+   },
+   "properties": {
+    "id": "E28",
+    "nome": "San Roberto Bellarmino",
+    "tipo": "esistente",
+    "stato": "attiva",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/805906124",
+    "wikidata": "Q118764015"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E29",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.21995,
+     41.093695
+    ]
+   },
+   "properties": {
+    "id": "E29",
+    "nome": "Sacro Cuore di Gesù",
+    "tipo": "esistente",
+    "stato": "attiva, parrocchia",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/1017204095",
+    "wikidata": "Q118763997",
+    "note": "OSM: Strada Statale 7 bis."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E30",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.220921,
+     41.101639
+    ]
+   },
+   "properties": {
+    "id": "E30",
+    "nome": "San Lazzaro extra moenia",
+    "tipo": "esistente",
+    "stato": "attiva o da verificare",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/932919297",
+    "wikidata": "Q118764024",
+    "note": "OSM: via San Lazzaro di Raimo."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E31",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.260715,
+     41.118248
+    ]
+   },
+   "properties": {
+    "id": "E31",
+    "nome": "Basilica di Sant'Angelo in Formis",
+    "tipo": "esistente",
+    "stato": "attiva: basilica minore, parrocchia",
+    "frazione": "Sant'Angelo in Formis",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/363301676",
+    "wikidata": "Q118763989",
+    "commons_categoria": "San Michele Arcangelo (Sant'Angelo in Formis, Capua)",
+    "mappa_proloco_n": "42",
+    "immagine_file": "File:Sant'Angelo-in-Formis-front.jpg",
+    "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sant%27Angelo-in-Formis-front.jpg?width=1024",
+    "immagine_pagina": "https://commons.wikimedia.org/wiki/File:Sant%27Angelo-in-Formis-front.jpg",
+    "immagine_licenza": "CC BY-SA 3.0; GFDL",
+    "immagine_autore": "Sten Porse",
+    "note": "L'abbazia ha un elemento Wikidata distinto (Q3603264)."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E32",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.252266,
+     41.125917
+    ]
+   },
+   "properties": {
+    "id": "E32",
+    "nome": "Sant'Antonio di Padova",
+    "tipo": "esistente",
+    "stato": "attiva, parrocchia",
+    "frazione": "Sant'Angelo in Formis",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/932627476",
+    "wikidata": "Q118764021",
+    "note": "OSM: 'Chiesa di Sant'Antonio', via San Iorio; Nominatim conferma il comune di Capua."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "S2",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.207618,
+     41.113265
+    ]
+   },
+   "properties": {
+    "id": "S2",
+    "nome": "San Vincenzo (sede capuana di San Vincenzo al Volturno)",
+    "tipo": "scomparsa",
+    "stato": "scomparsa",
+    "precisione": "approssimata",
+    "fonte_coord": "mappa Pro Loco",
+    "mappa_proloco_n": "II",
+    "note": "Sul sito dell'ex caserma San Vincenzo (n. II della mappa Pro Loco), via Pomerio."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "S4",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.212853,
+     41.110928
+    ]
+   },
+   "properties": {
+    "id": "S4",
+    "nome": "San Lorenzo ad Crucem",
+    "tipo": "scomparsa",
+    "stato": "scomparsa, resti nel palazzo",
+    "precisione": "approssimata",
+    "fonte_coord": "OSM (Museo Campano)",
+    "osm_id": "node/11307724021",
+    "mappa_proloco_n": "24",
+    "note": "Resti inglobati in Palazzo Antignano, oggi Museo Campano, sul lato di via Roma. Il punto è quello del museo."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "S5",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.214151,
+     41.107848
+    ]
+   },
+   "properties": {
+    "id": "S5",
+    "nome": "Santa Maria Materdomini",
+    "tipo": "scomparsa",
+    "stato": "scomparsa, resta il portale",
+    "precisione": "strada",
+    "fonte_coord": "mappa Pro Loco (via Pier delle Vigne)",
+    "note": "Civico ignoto: punto a metà di via Pier delle Vigne, che in OSM non ha nome."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "S6",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.211858,
+     41.109052
+    ]
+   },
+   "properties": {
+    "id": "S6",
+    "nome": "San Germano",
+    "tipo": "scomparsa",
+    "stato": "scomparsa, resta il profilo dell'abside",
+    "precisione": "strada",
+    "fonte_coord": "OSM (vico San Germano)",
+    "note": "Il vicolo di fronte al campanile del Duomo si chiama ancora vico San Germano."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "S7",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.211712,
+     41.108441
+    ]
+   },
+   "properties": {
+    "id": "S7",
+    "nome": "San Giovanni a Landepaldi",
+    "tipo": "scomparsa",
+    "stato": "scomparsa, restano un passaggio e le colonne",
+    "precisione": "strada",
+    "fonte_coord": "OSM (vico Paolo Bottoni)",
+    "note": "Passaggio tra via F. Granata e piazza De Renzis."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "S14",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.214435,
+     41.108806
+    ]
+   },
+   "properties": {
+    "id": "S14",
+    "nome": "San Nicola a Logoteta",
+    "tipo": "scomparsa",
+    "stato": "scomparsa, tracce sotto un edificio",
+    "precisione": "strada",
+    "fonte_coord": "OSM (corso Gran Priorato di Malta)",
+    "note": "Palazzo di Bartolomeo de Capua non identificato: punto al centro del corso."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "S15",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.207518,
+     41.113908
+    ]
+   },
+   "properties": {
+    "id": "S15",
+    "nome": "San Silvestro",
+    "tipo": "scomparsa",
+    "stato": "scomparsa, sostituita",
+    "precisione": "sito",
+    "fonte_coord": "OSM (Santa Caterina)",
+    "mappa_proloco_n": "2",
+    "note": "Stesso sito di Santa Caterina (E17)."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "S17",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.214151,
+     41.107848
+    ]
+   },
+   "properties": {
+    "id": "S17",
+    "nome": "Chiesa dei Cavalieri di Malta in via Pier delle Vigne",
+    "tipo": "scomparsa",
+    "stato": "scomparsa, resta la cupola in una casa",
+    "precisione": "strada",
+    "fonte_coord": "mappa Pro Loco (via Pier delle Vigne)",
+    "note": "Casa non identificata: stesso punto di S5."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "S18",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.200605,
+     41.11221
+    ]
+   },
+   "properties": {
+    "id": "S18",
+    "nome": "San Terenziano / complesso templare",
+    "tipo": "scomparsa",
+    "stato": "scomparsa, sostituita",
+    "precisione": "sito",
+    "fonte_coord": "OSM (San Giuseppe)",
+    "note": "Stesso sito di San Giuseppe extra moenia (E26)."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "S19",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.213398,
+     41.106794
+    ]
+   },
+   "properties": {
+    "id": "S19",
+    "nome": "Santa Maria del Suffragio (Purgatorio)",
+    "tipo": "scomparsa",
+    "stato": "scomparsa",
+    "precisione": "strada",
+    "fonte_coord": "OSM (piazza Medaglie d'Oro)",
+    "note": "Demolita negli anni '60 in piazza Medaglie d'Oro."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "S20",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.211357,
+     41.111898
+    ]
+   },
+   "properties": {
+    "id": "S20",
+    "nome": "Chiesa del Carmine",
+    "tipo": "scomparsa",
+    "stato": "scomparsa (1943), resta il convento",
+    "precisione": "approssimata",
+    "fonte_coord": "mappa Pro Loco",
+    "mappa_proloco_n": "44",
+    "note": "Nuovo dato: la mappa Pro Loco segna l'ex convento del Carmine (n. 44) tra via Roma e via Asilo Infantile. Il report non la localizzava."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "S23",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.211218,
+     41.107658
+    ]
+   },
+   "properties": {
+    "id": "S23",
+    "nome": "Sant'Erasmo (di Formia)",
+    "tipo": "scomparsa",
+    "stato": "scomparsa, sostituita",
+    "precisione": "sito",
+    "fonte_coord": "OSM (Sant'Eligio)",
+    "mappa_proloco_n": "20",
+    "note": "Stesso sito di Sant'Eligio (E12)."
+   }
+  }
+ ]
+}
