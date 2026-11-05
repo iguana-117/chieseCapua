@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chiese di Capua</title>
+  <meta name="description" content="Mappa interattiva delle chiese di Capua, esistenti e scomparse, con storia, periodo e foto.">
+  <link rel="stylesheet" href="vendor/leaflet-1.9.4/leaflet.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <h1>Chiese di Capua</h1>
+      <p class="tagline">Esistenti e scomparse, dal IX secolo a oggi</p>
+    </div>
+    <nav class="topnav" aria-label="Vai a">
+      <button type="button" class="btn-ghost" data-vista="centro">Centro storico</button>
+      <button type="button" class="btn-ghost" data-vista="formis">Sant'Angelo in Formis</button>
+      <button type="button" class="btn-ghost" id="apri-info">Informazioni</button>
+    </nav>
+  </header>
+
+  <main class="layout">
+    <aside class="pannello" id="pannello" aria-label="Elenco e schede delle chiese">
+      <section id="vista-elenco">
+        <div class="filtri">
+          <label class="cerca">
+            <span class="sr-only">Cerca una chiesa</span>
+            <input type="search" id="cerca" placeholder="Cerca per nome, via o santo…" autocomplete="off">
+          </label>
+          <fieldset class="chips" id="filtro-tipo">
+            <legend class="sr-only">Tipo</legend>
+            <label class="chip chip-esistente"><input type="checkbox" value="esistente" checked><span>Esistenti</span></label>
+            <label class="chip chip-scomparsa"><input type="checkbox" value="scomparsa" checked><span>Scomparse</span></label>
+          </fieldset>
+          <fieldset class="chips chips-epoca" id="filtro-epoca">
+            <legend>Epoca di fondazione</legend>
+          </fieldset>
+          <p class="conteggio" id="conteggio" aria-live="polite"></p>
+        </div>
+        <div id="elenco" class="elenco"></div>
+      </section>
+
+      <section id="vista-scheda" hidden>
+        <button type="button" class="indietro" id="indietro">← Tutte le chiese</button>
+        <article id="scheda" class="scheda"></article>
+      </section>
+    </aside>
+
+    <div class="mappa-wrap">
+      <div id="mappa" role="region" aria-label="Mappa delle chiese"></div>
+      <div class="legenda" aria-hidden="true">
+        <span><i class="pin pin-esistente"></i>Esistente</span>
+        <span><i class="pin pin-scomparsa"></i>Scomparsa</span>
+        <span><i class="pin pin-esistente approx"></i>Posizione approssimata</span>
+      </div>
+    </div>
+  </main>
+
+  <dialog id="info" class="info">
+    <form method="dialog" class="info-chiudi"><button aria-label="Chiudi">✕</button></form>
+    <h2>Il progetto</h2>
+    <p>Questa mappa raccoglie le chiese del comune di Capua: quelle ancora in piedi e quelle scomparse, demolite o ridotte a tracce dentro altri edifici. Molte chiese di oggi sorgono sul sito di una più antica, e un solo luogo racconta così due storie.</p>
+    <h3>Quattro ondate di distruzione</h3>
+    <ul>
+      <li>la riorganizzazione delle parrocchie medievali tra Quattrocento e Settecento;</li>
+      <li>le fortificazioni spagnole del 1557;</li>
+      <li>le truppe francesi nel 1799;</li>
+      <li>i bombardamenti del 9 settembre 1943 e le demolizioni del dopoguerra.</li>
+    </ul>
+    <h3>I dati sono provvisori</h3>
+    <p>Le schede riassumono fonti pubblicate (Wikipedia, il catalogo dei Beni Culturali, Turismo Capua, il blog L'Agorà del Sapere e altre), citate in fondo a ogni scheda. Per le chiese scomparse la fonte principale è divulgativa: vanno lette come ipotesi documentate. Alcune posizioni sono approssimate e lo stato attuale di diverse chiese è da verificare. Segnalazioni e correzioni sono benvenute.</p>
+    <h3>Licenze</h3>
+    <ul>
+      <li>Mappa di base e coordinate: © <a href="https://www.openstreetmap.org/copyright">contributori di OpenStreetMap</a>, licenza ODbL.</li>
+      <li>Identificativi Wikidata: CC0.</li>
+      <li>Foto: Wikimedia Commons, con autore e licenza indicati su ogni scheda.</li>
+      <li>Mappa realizzata con <a href="https://leafletjs.com">Leaflet</a>.</li>
+    </ul>
+  </dialog>
+
+  <script src="vendor/leaflet-1.9.4/leaflet.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
