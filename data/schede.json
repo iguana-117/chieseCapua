@@ -353,13 +353,15 @@
       "fonti": ["WSA", "IT", "TC", "GC", "FSA2"]
     },
     "E32": {
-      "indirizzo": "Via San Iorio, Sant'Angelo in Formis",
-      "periodo": "data non nota",
-      "epoca": "ignota",
+      "indirizzo": "Via IV Novembre, località San Iorio, Sant'Angelo in Formis",
+      "periodo": "cappella del 1766; ricostruita nell'Ottocento; parrocchia dal 1927",
+      "epoca": "contemporanea",
       "storia": [
-        "È la seconda parrocchia della frazione di Sant'Angelo in Formis. Le fonti consultate non ne indicano la data."
+        "Nasce dalla cappella di San Iorio, costruita intorno al 1766 da padre Bonaventura da Casanova sulle rovine di un tempio del dio Volturno. Distrutta da un incendio, fu ricostruita dagli abitanti nell'Ottocento.",
+        "Secondo la scheda BeWeB qui Garibaldi firmò, il 15 ottobre 1860, il decreto di annessione del Regno delle Due Sicilie al Regno d'Italia.",
+        "Nel 1906 la statua di san Francesco fu sostituita da quella di sant'Antonio, che dà il nome alla chiesa. Ampliata nel 1920 e negli anni Cinquanta, è parrocchia dal 1927: la seconda della frazione."
       ],
-      "fonti": ["GC"]
+      "fonti": ["BW", "GC"]
     },
     "E33": {
       "indirizzo": "Via Roma, presso piazza Tiberio",
