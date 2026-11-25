@@ -572,20 +572,21 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     14.212395,
-     41.110505
+     14.21225,
+     41.110631
     ]
    },
    "properties": {
     "id": "E23",
-    "nome": "Santa Placida",
+    "nome": "Santa Placida (San Gabriello)",
     "tipo": "esistente",
     "stato": "attiva, visitabile su richiesta",
-    "precisione": "approssimata",
-    "fonte_coord": "mappa Pro Loco",
+    "precisione": "edificio",
+    "fonte_coord": "BeWeB",
+    "wikidata": "Q118764006",
+    "beweb": "54939",
     "mappa_proloco_n": "9",
-    "note": "Non trovata in OSM né in Wikidata con questo nome. Wikidata ha una 'chiesa di San Gabriello' (Q118764006) a circa 35 m, cioè presso l'ex convento di San Gabriello annesso: potrebbe essere lo stesso edificio.",
-    "beweb": "54939"
+    "note": "BeWeB la censisce come chiesa di San Gabriello, «meglio conosciuta come Santa Placida», in via Duomo; Wikidata ha lo stesso edificio come «chiesa di San Gabriello» (Q118764006). Le coordinate BeWeB sono a circa 20 m dal punto ricavato prima dalla mappa Pro Loco."
    }
   },
   {
