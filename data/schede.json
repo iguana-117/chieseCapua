@@ -170,14 +170,16 @@
       "fonti": ["TC", "WIT"]
     },
     "E14": {
-      "periodo": "fine XIII secolo",
+      "indirizzo": "Via Seminario",
+      "periodo": "fine XIII secolo; ampliata e decorata nel Settecento",
       "epoca": "medioevo",
       "storia": [
         "La fondò alla fine del Duecento Bartolomeo de Capua, protonotario del Regno, e la affidò ai Benedettini di Montevergine.",
+        "L'altare maggiore è di Bernardino Landini (1656). Nel Settecento la chiesa fu ampliata e rivestita di stucchi da Domenico e Nicola Farinari (1754); ha tele di Paolo De Majo e, dal 1821, la Madonna di Montevergine di Benedetto Troisi.",
         "Dal 1795 è sede del seminario. Conserva un pozzo del 1769 e la sepoltura di Giulio Cesare Falco (1611).",
-        "OpenStreetMap la indica come «ex chiesa»: lo stato attuale va verificato."
+        "OpenStreetMap la indica come «ex chiesa», ma BeWeB la censisce come chiesa sussidiaria in uso."
       ],
-      "fonti": ["WIT"]
+      "fonti": ["BW", "WIT"]
     },
     "E15": {
       "indirizzo": "Via Pier delle Vigne",
