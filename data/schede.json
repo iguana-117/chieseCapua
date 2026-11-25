@@ -270,14 +270,14 @@
       "fonti": ["BW", "TC", "WIT"]
     },
     "E24": {
-      "indirizzo": "Via Convento delle Grazie",
+      "indirizzo": "Via Conte Landone (via Convento delle Grazie 10 secondo Turismo Capua)",
       "periodo": "XVIII secolo, su una cappella del primo Cinquecento",
       "epoca": "eta_moderna",
       "storia": [
         "È l'ampliamento settecentesco di una cappella che ricordava il sacco di Capua del 1501.",
-        "Potrebbe coincidere con la «Santella» del 1761 citata da Wikipedia, che si richiama allo stesso evento, ma nessuna fonte lo conferma."
+        "Il report ipotizzava che fosse la «Santella» del 1761 citata da Wikipedia, ma BeWeB censisce la Santella come chiesa distinta, in via Riviera Casilina."
       ],
-      "fonti": ["TC", "WIT"]
+      "fonti": ["BW", "TC", "WIT"]
     },
     "E25": {
       "periodo": "XVIII secolo (convento del XVII)",
