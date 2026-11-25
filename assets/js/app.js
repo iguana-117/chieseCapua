@@ -260,7 +260,7 @@
       h += '<figure><img src="' + esc(img) + '" alt="' + esc(c.nome) + '" loading="lazy">' +
         '<figcaption>Foto: <a href="' + esc(c.immagine_pagina) + '" target="_blank" rel="noopener">' +
         esc(c.immagine_autore || "autore su Commons") + "</a>, " + esc(c.immagine_licenza) +
-        ", via Wikimedia Commons</figcaption></figure>";
+        ", via " + esc(c.immagine_fonte || "Wikimedia Commons") + "</figcaption></figure>";
     }
 
     var cat = categoriaStato(c);
@@ -302,6 +302,7 @@
     var link = [];
     if (c.osm_id) link.push(['https://www.openstreetmap.org/' + c.osm_id, "OpenStreetMap"]);
     if (c.wikidata) link.push(["https://www.wikidata.org/wiki/" + c.wikidata, "Wikidata"]);
+    if (c.beweb) link.push(["https://www.beweb.chiesacattolica.it/edificidiculto/edificio/" + encodeURIComponent(c.beweb) + "/", "Scheda BeWeB (CEI)"]);
     if (c.commons_categoria) link.push(["https://commons.wikimedia.org/wiki/Category:" + encodeURIComponent(c.commons_categoria.replace(/ /g, "_")), "Foto su Commons"]);
     if (c.localizzata) link.push(["https://www.openstreetmap.org/?mlat=" + c.lat + "&mlon=" + c.lon + "#map=19/" + c.lat + "/" + c.lon, "Apri la posizione"]);
     if (link.length) {
