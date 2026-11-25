@@ -105,9 +105,10 @@
       "epoca": "altomedioevo",
       "storia": [
         "Piccola fondazione longobarda, abbandonata come luogo di culto e assorbita in un edificio civile.",
-        "Fu restaurata nel 1948 ed è di nuovo in restauro. I suoi fregi altomedievali sono conservati al Museo Campano."
+        "Fu restaurata nel 1948 ed è di nuovo in restauro. I suoi fregi altomedievali sono conservati al Museo Campano.",
+        "BeWeB la elenca ancora tra gli edifici di culto della diocesi, come chiesa vescovile (scheda in lavorazione)."
       ],
-      "fonti": ["TC", "WIT"]
+      "fonti": ["TC", "WIT", "BW"]
     },
     "E8": {
       "indirizzo": "Tra via Seminario e piazza San Roberto Bellarmino",
@@ -243,22 +244,25 @@
       "fonti": ["TC", "CG", "BW"]
     },
     "E20": {
+      "indirizzo": "Largo S. Maestrato di S. Lazzaro",
       "periodo": "fondazione del 952; edificio attuale del 1726",
       "epoca": "altomedioevo",
       "storia": [
         "Il monastero risale a una fondazione del 952. La chiesa barocca attuale è di G. B. Nauclerio (1726).",
-        "Il convento fu caserma dal 1812 e oggi ospita il dipartimento universitario di Economia."
+        "Il convento fu caserma dal 1812 e oggi ospita il dipartimento universitario di Economia.",
+        "BeWeB la censisce come chiesa di proprietà comunale (scheda ancora in lavorazione)."
       ],
-      "fonti": ["WIT"]
+      "fonti": ["WIT", "BW"]
     },
     "E21": {
-      "indirizzo": "Via Roma",
+      "indirizzo": "Via Roma 68",
       "periodo": "forma attuale del XVIII secolo",
       "epoca": "eta_moderna",
       "storia": [
-        "Chiesa di forma settecentesca. Il monastero annesso fu unito al Museo Campano nel 1940."
+        "Chiesa di forma settecentesca. Il monastero annesso fu unito al Museo Campano nel 1940.",
+        "È sede della parrocchia di Ognissanti."
       ],
-      "fonti": ["TC", "WIT"]
+      "fonti": ["TC", "WIT", "BW"]
     },
     "E22": {
       "indirizzo": "Via Seggio dei Cavalieri",
@@ -293,12 +297,14 @@
       "fonti": ["BW", "TC", "WIT"]
     },
     "E25": {
+      "indirizzo": "Via Roma",
       "periodo": "XVIII secolo (convento del XVII)",
       "epoca": "eta_moderna",
       "storia": [
-        "Chiesa settecentesca accanto a un convento del Seicento. Lo stato attuale non è documentato."
+        "Chiesa settecentesca accanto a un convento del Seicento. Lo stato attuale non è documentato.",
+        "BeWeB la censisce come cappella conventuale della parrocchia di Ognissanti (scheda ancora in lavorazione)."
       ],
-      "fonti": ["WIT"]
+      "fonti": ["WIT", "BW"]
     },
     "E26": {
       "indirizzo": "Borgo San Giuseppe, a nord di Porta Roma",
