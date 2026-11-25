@@ -294,13 +294,14 @@
     },
     "E26": {
       "indirizzo": "Borgo San Giuseppe, a nord di Porta Roma",
-      "periodo": "XVIII secolo",
+      "periodo": "1762–1767",
       "epoca": "eta_moderna",
       "storia": [
         "È il centro del borgo agricolo cresciuto fuori Porta Roma.",
-        "Fu costruita nel Settecento sul sito della più antica chiesa di San Terenziano, sacrificata nel 1557 alle fortificazioni spagnole insieme al suo borgo."
+        "Fu costruita nel Settecento sul sito della più antica chiesa di San Terenziano, sacrificata nel 1557 alle fortificazioni spagnole insieme al suo borgo.",
+        "La prima pietra fu posta il 2 maggio 1762 e la parrocchia fu eretta nel 1767. Durante il colera del 1837–40 il terreno intorno servì da cimitero pubblico. Colpita dalle bombe nella Seconda guerra mondiale, riaprì nel 1945."
       ],
-      "fonti": ["WIT", "B"]
+      "fonti": ["BW", "WIT", "B"]
     },
     "E27": {
       "indirizzo": "Via Pomerio",
