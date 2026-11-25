@@ -117,13 +117,15 @@
     },
     "E9": {
       "indirizzo": "Via Principi Normanni",
-      "periodo": "XI secolo; ricostruita nel Settecento",
+      "periodo": "fine X secolo; rifatta nel 1164 e in età barocca",
       "epoca": "altomedioevo",
       "storia": [
-        "Fondazione dell'XI secolo, ricostruita nel XVIII. I suoi affreschi medievali sono oggi al Museo Campano.",
-        "Lo stato attuale dell'edificio non è documentato dalle fonti consultate."
+        "Costruita alla fine del X secolo, fu ceduta nel 1116 al monastero di San Giovanni delle Monache e rifatta nel 1164, come ricorda l'epigrafe in caratteri normanni sull'ingresso.",
+        "In origine aveva tre navate; i rifacimenti barocchi, già descritti in un inventario del 1720, l'hanno ridotta a navata unica con facciata settecentesca.",
+        "Nell'abside c'era un affresco di scuola giottesca attribuito a Pietro Cavallini: ritrovato nel 1912, fu staccato nel 1954 ed è al Museo Campano.",
+        "È chiesa sussidiaria della parrocchia dei Santi Filippo e Giacomo."
       ],
-      "fonti": ["WIT"]
+      "fonti": ["BW", "WIT"]
     },
     "E10": {
       "indirizzo": "Via Roma, verso l'ex caserma San Vincenzo",
