@@ -20,6 +20,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/364927723",
     "wikidata": "Q950002",
+    "beweb": "75386",
     "commons_categoria": "Cathedral (Capua)",
     "mappa_proloco_n": "1",
     "immagine_file": "File:Capua, cattedrale di Santa Maria Assunta - Facciata esterna.jpg",
@@ -48,6 +49,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/885531796",
     "wikidata": "Q112044654",
+    "beweb": "18331",
     "commons_categoria": "Chiesa di San Salvatore Maggiore a corte (Capua)",
     "mappa_proloco_n": "10",
     "immagine_file": "File:San Salvatore maggiore a corte, facciata.jpg",
@@ -76,6 +78,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/885532382",
     "wikidata": "Q118764012",
+    "beweb": "18330",
     "mappa_proloco_n": "13"
    }
   },
@@ -98,6 +101,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/885533267",
     "wikidata": "Q118764007",
+    "beweb": "18326",
     "mappa_proloco_n": "12"
    }
   },
@@ -146,6 +150,7 @@
     "precisione": "edificio",
     "fonte_coord": "Wikidata",
     "wikidata": "Q118763996",
+    "beweb": "18317",
     "commons_categoria": "Santi Rufo e Carponio (Capua)",
     "mappa_proloco_n": "14",
     "immagine_file": "File:Capua, chiesa dei Santi Rufo e Carponio - Facciata e campanile.jpg",
@@ -222,6 +227,7 @@
     "precisione": "edificio",
     "fonte_coord": "Wikidata",
     "wikidata": "Q118764016",
+    "beweb": "18332",
     "mappa_proloco_n": "23",
     "note": "Punto Wikidata su via Principi Normanni, a circa 20 m dalla posizione sulla mappa Pro Loco."
    }
@@ -266,6 +272,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/885535185",
     "wikidata": "Q118763995",
+    "beweb": "54919",
     "mappa_proloco_n": "15",
     "note": "Il catalogo SIGEC (ICCD13700820) indica la stessa chiesa come S. Benedetto, Chiesa dei Gesuiti, SS. Filippo e Giacomo, Immacolata, in via L. Abenavolo; OSM e Wikidata la chiamano Santi Filippo e Giacomo."
    }
@@ -345,6 +352,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/1220300259",
     "wikidata": "Q118764004",
+    "beweb": "18323",
     "mappa_proloco_n": "5",
     "note": "OSM la etichetta 'ex Chiesa di Montevergine'."
    }
@@ -368,6 +376,7 @@
     "fonte_coord": "OSM",
     "osm_id": "node/11303256668",
     "wikidata": "Q118764000",
+    "beweb": "18319",
     "commons_categoria": "Santa Maria Maddalena (Capua)",
     "mappa_proloco_n": "21",
     "immagine_file": "File:Capua chiesa.jpg",
@@ -462,6 +471,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/259942288",
     "wikidata": "Q55179225",
+    "beweb": "69123",
     "commons_categoria": "Santissima Annunziata (Capua)",
     "mappa_proloco_n": "19",
     "immagine_file": "File:Annunziata-Capua.jpg",
@@ -547,6 +557,7 @@
     "fonte_coord": "OSM",
     "osm_id": "node/11303264570",
     "wikidata": "Q118763998",
+    "beweb": "18320",
     "mappa_proloco_n": "18",
     "immagine_file": "File:Capua, chiesa di Santa Maria della Carità - Facciata.jpg",
     "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Capua%2C_chiesa_di_Santa_Maria_della_Carit%C3%A0_-_Facciata.jpg?width=1024",
@@ -573,7 +584,8 @@
     "precisione": "approssimata",
     "fonte_coord": "mappa Pro Loco",
     "mappa_proloco_n": "9",
-    "note": "Non trovata in OSM né in Wikidata con questo nome. Wikidata ha una 'chiesa di San Gabriello' (Q118764006) a circa 35 m, cioè presso l'ex convento di San Gabriello annesso: potrebbe essere lo stesso edificio."
+    "note": "Non trovata in OSM né in Wikidata con questo nome. Wikidata ha una 'chiesa di San Gabriello' (Q118764006) a circa 35 m, cioè presso l'ex convento di San Gabriello annesso: potrebbe essere lo stesso edificio.",
+    "beweb": "54939"
    }
   },
   {
@@ -646,6 +658,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/1099877723",
     "wikidata": "Q118764009",
+    "beweb": "18312",
     "commons_categoria": "San Giuseppe (Capua)"
    }
   },
@@ -688,7 +701,8 @@
     "precisione": "edificio",
     "fonte_coord": "OSM",
     "osm_id": "way/805906124",
-    "wikidata": "Q118764015"
+    "wikidata": "Q118764015",
+    "beweb": "65289"
    }
   },
   {
@@ -710,6 +724,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/1017204095",
     "wikidata": "Q118763997",
+    "beweb": "18309",
     "note": "OSM: Strada Statale 7 bis."
    }
   },
@@ -732,6 +747,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/932919297",
     "wikidata": "Q118764024",
+    "beweb": "18335",
     "note": "OSM: via San Lazzaro di Raimo."
    }
   },
@@ -755,6 +771,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/363301676",
     "wikidata": "Q118763989",
+    "beweb": "18308",
     "commons_categoria": "San Michele Arcangelo (Sant'Angelo in Formis, Capua)",
     "mappa_proloco_n": "42",
     "immagine_file": "File:Sant'Angelo-in-Formis-front.jpg",
@@ -785,6 +802,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/932627476",
     "wikidata": "Q118764021",
+    "beweb": "18316",
     "note": "OSM: 'Chiesa di Sant'Antonio', via San Iorio; Nominatim conferma il comune di Capua."
    }
   },
