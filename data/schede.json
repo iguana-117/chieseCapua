@@ -40,7 +40,11 @@
         "Il bombardamento del 9 settembre 1943 la distrusse quasi del tutto. La ricostruzione del 1949–57 ha conservato il quadriportico, le colonne antiche e il campanile medievale.",
         "Custodisce l'Assunta di Solimena e, nella cripta, il Cristo morto di Matteo Bottiglieri. È basilica minore dal 1827 e sede del Museo diocesano dal 1992."
       ],
-      "fonti": ["WEN", "WIT", "TC", "GC", "BW"]
+      "fonti": ["WEN", "WIT", "TC", "GC", "BW"],
+      "bibliografia": [
+        "G. Jannelli, Sacra guida ovvero descrizione storica artistica letteraria della chiesa cattedrale di Capua, Stab. tip. G. Gioja, 1858, p. 14",
+        "F. Granata, Storia sacra della Chiesa metropolitana di Capua, Stamperia Simoniana, Napoli 1766"
+      ]
     },
     "E2": {
       "indirizzo": "Via Principi Longobardi",
@@ -63,7 +67,10 @@
         "Il catalogo ministeriale la classifica come chiesa parrocchiale e la data tra la seconda metà del IX e la metà del X secolo.",
         "Nella cripta, raggiungibile da due scalette laterali, nel 1871 e nel 1876 furono scoperte tracce di affreschi del IX–X secolo, oggi quasi del tutto perdute. La chiesa è stata restaurata nel 2010."
       ],
-      "fonti": ["MiC", "TC", "WIT", "BW"]
+      "fonti": ["MiC", "TC", "WIT", "BW"],
+      "bibliografia": [
+        "Arcidiocesi di Capua, Indirizzario della Chiesa di Capua, 2018, p. 11"
+      ]
     },
     "E4": {
       "indirizzo": "Via Principi Longobardi",
@@ -97,7 +104,10 @@
         "Come a San Marcello, l'altare è un sarcofago romano.",
         "Fu donata a Montecassino nel 1053. I restauri del 1910 hanno liberato le colonne e ripristinato la copertura a capriate; quelli del 1970 hanno ritrovato le basi delle absidi laterali benedettine, demolite nel Settecento."
       ],
-      "fonti": ["TC", "WIT", "BW"]
+      "fonti": ["TC", "WIT", "BW"],
+      "bibliografia": [
+        "G. Pane, A. Filangieri, Capua. Architettura e arte. Catalogo delle opere, Arti grafiche Salafia, 1990"
+      ]
     },
     "E7": {
       "indirizzo": "Via Andreozzi",
@@ -131,7 +141,10 @@
         "Nell'abside c'era un affresco di scuola giottesca attribuito a Pietro Cavallini: ritrovato nel 1912, fu staccato nel 1954 ed è al Museo Campano.",
         "È chiesa sussidiaria della parrocchia dei Santi Filippo e Giacomo."
       ],
-      "fonti": ["BW", "WIT"]
+      "fonti": ["BW", "WIT"],
+      "bibliografia": [
+        "G. Pane, A. Filangieri, Capua. Architettura e arte. Catalogo delle opere, Arti grafiche Salafia, 1990, p. 153"
+      ]
     },
     "E10": {
       "indirizzo": "Via Roma, verso l'ex caserma San Vincenzo",
@@ -154,7 +167,11 @@
         "BeWeB e il catalogo SIGEC la identificano con l'attuale parrocchia dei Santi Filippo e Giacomo.",
         "Il suo coro ligneo del 1519 si trova oggi nella chiesa dell'Annunziata."
       ],
-      "fonti": ["BW", "WIT", "CG"]
+      "fonti": ["BW", "WIT", "CG"],
+      "bibliografia": [
+        "Arcidiocesi di Capua, Annuario della Chiesa di Capua, 1989, p. 141",
+        "G. Pane, A. Filangieri, Capua. Architettura e arte. Catalogo delle opere, Arti grafiche Salafia, 1990"
+      ]
     },
     "E12": {
       "indirizzo": "Piazza dei Giudici",
@@ -187,7 +204,11 @@
         "Dal 1795 è sede del seminario. Conserva un pozzo del 1769 e la sepoltura di Giulio Cesare Falco (1611).",
         "OpenStreetMap la indica come «ex chiesa», ma BeWeB la censisce come chiesa sussidiaria in uso."
       ],
-      "fonti": ["BW", "WIT"]
+      "fonti": ["BW", "WIT"],
+      "bibliografia": [
+        "I. Brock, P. Giuliani, C. Moisescu, Il centro antico di Capua. Metodi di analisi per la pianificazione architettonico-urbanistica, Marsilio, 1973",
+        "De Luca, Il contributo dell'archidiocesi di Capua alla vita religiosa e culturale del Meridione, 1967"
+      ]
     },
     "E15": {
       "indirizzo": "Via Pier delle Vigne",
@@ -197,7 +218,11 @@
         "Voluta anch'essa da Bartolomeo de Capua all'inizio del Trecento, con un convento agostiniano e un ospedale.",
         "La licenza di costruzione è del 22 novembre 1300. Tra il 1747 e il 1749 ebbe facciata, campanile e interno nuovi. Danneggiata nel 1943 e dal terremoto del 1980, è stata riaperta al culto il 3 aprile 2011 dopo un restauro."
       ],
-      "fonti": ["BW", "TC", "WIT"]
+      "fonti": ["BW", "TC", "WIT"],
+      "bibliografia": [
+        "G. Jannelli, Sacra guida ovvero descrizione storica artistica letteraria della chiesa cattedrale di Capua, Stab. tip. G. Gioja, 1858, p. 141",
+        "G. Pane, A. Filangieri, Capua. Architettura e arte. Catalogo delle opere, Arti grafiche Salafia, 1990"
+      ]
     },
     "E16": {
       "indirizzo": "Via Pier delle Vigne, all'angolo con corso Gran Priorato di Malta",
@@ -242,7 +267,10 @@
         "Dopo i danni del 1943 fu restaurata e riconsacrata nel 1978; nel 2021–22 sono state consolidate le murature e rifatte le coperture.",
         "Dal 25 marzo 2025 è affidata alla Soprintendenza per i lavori al tamburo e alla lanterna, colpiti da un fulmine, e alla scala elicoidale."
       ],
-      "fonti": ["TC", "CG", "BW"]
+      "fonti": ["TC", "CG", "BW"],
+      "bibliografia": [
+        "G. Pane, A. Filangieri, Capua. Architettura e arte. Catalogo delle opere, Arti grafiche Salafia, 1990"
+      ]
     },
     "E20": {
       "indirizzo": "Largo S. Maestrato di S. Lazzaro",
@@ -274,7 +302,10 @@
         "Le sono annessi il Monte di Pietà (1540) e il conservatorio delle Oblate.",
         "Le schede CEI la attribuiscono a maestranze napoletane vicine a Domenico Antonio Vaccaro. È stata restaurata dalla Soprintendenza nel 1990 e con fondi CEI nel 2014–15."
       ],
-      "fonti": ["TC", "WIT", "MiC2", "BW"]
+      "fonti": ["TC", "WIT", "MiC2", "BW"],
+      "bibliografia": [
+        "G. Pane, A. Filangieri, Capua. Architettura e arte. Catalogo delle opere, Arti grafiche Salafia, 1990, vol. II, p. 461"
+      ]
     },
     "E23": {
       "indirizzo": "Via Duomo",
@@ -316,7 +347,10 @@
         "Fu costruita nel Settecento sul sito della più antica chiesa di San Terenziano, sacrificata nel 1557 alle fortificazioni spagnole insieme al suo borgo.",
         "La prima pietra fu posta il 2 maggio 1762 e la parrocchia fu eretta nel 1767. Durante il colera del 1837–40 il terreno intorno servì da cimitero pubblico. Colpita dalle bombe nella Seconda guerra mondiale, riaprì nel 1945."
       ],
-      "fonti": ["BW", "WIT", "B"]
+      "fonti": ["BW", "WIT", "B"],
+      "bibliografia": [
+        "F. Provvisto, Le origini della Chiesa e della Parrocchia di San Giuseppe in Capua, Tip. Solari, 1996"
+      ]
     },
     "E27": {
       "indirizzo": "Via Pomerio",
@@ -336,7 +370,10 @@
         "La prima pietra fu benedetta il 25 marzo 2007; la chiesa fu consacrata il 20 dicembre 2009 dall'arcivescovo Bruno Schettino.",
         "Dalla parrocchia dipendono la Cappella della Morte e la Cappella di San Cristoforo."
       ],
-      "fonti": ["BW", "WIT"]
+      "fonti": ["BW", "WIT"],
+      "bibliografia": [
+        "Diocesi di Capua, Annuario diocesano 2015, p. 10"
+      ]
     },
     "E29": {
       "indirizzo": "Via San Tammaro, rione Santagata",
@@ -346,7 +383,10 @@
         "La volle don Umberto d'Aquino per il rione Carlo Santagata, cresciuto con le case popolari. Dopo circa dieci anni di lavori fu dedicata al Sacro Cuore il 2 febbraio 1958 dall'arcivescovo Salvatore Baccarini.",
         "È parrocchia dal 1965. Ampliata con un corpo laterale nel 1989, è stata riunita in un unico volume nel 2014–16. Non ha campanile."
       ],
-      "fonti": ["BW", "GC"]
+      "fonti": ["BW", "GC"],
+      "bibliografia": [
+        "Arcidiocesi di Capua, Annuario della Chiesa di Capua, 1989, p. 139"
+      ]
     },
     "E30": {
       "indirizzo": "Fuori Porta Napoli, circa 400 m dalle mura",
@@ -357,7 +397,11 @@
         "Le truppe francesi di Championnet distrussero il complesso nel 1799. La chiesa fu ricostruita nel 1800; l'ospedale, il vestibolo a quattro colonne e il pozzo sono invece scomparsi.",
         "La ricostruzione del 1800 fu voluta da Ferdinando IV; la chiesa è stata consolidata e restaurata nel 2000."
       ],
-      "fonti": ["B", "L", "WIT", "BW"]
+      "fonti": ["B", "L", "WIT", "BW"],
+      "bibliografia": [
+        "U. D'Aquino, Santuario di San Lazzaro in Capua, 1968",
+        "L. Brandi, Il gran Magistero di San Lazzaro in Capua, Edizioni Pro Loco, 2007"
+      ]
     },
     "E31": {
       "indirizzo": "Via Luigi Baia, Sant'Angelo in Formis",
@@ -370,7 +414,10 @@
         "Il monastero fu soppresso nel 1417 e la chiesa passò ad abati commendatari, tra cui Roberto Bellarmino. Dal 1828 chiesa e monastero appartengono all'arcidiocesi di Capua.",
         "Nel XII secolo furono rifatti il portico e il campanile. È basilica minore e parrocchia, e il monumento più importante del comune."
       ],
-      "fonti": ["WSA", "IT", "TC", "GC", "FSA2", "BW"]
+      "fonti": ["WSA", "IT", "TC", "GC", "FSA2", "BW"],
+      "bibliografia": [
+        "F. Duonnolo, Come un roveto ardente. La teologia visiva della Basilica benedettina di Sant'Angelo in Formis, Libreria Editrice Vaticana, 2016"
+      ]
     },
     "E32": {
       "indirizzo": "Via IV Novembre, località San Iorio, Sant'Angelo in Formis",
@@ -381,7 +428,10 @@
         "Secondo la scheda BeWeB qui Garibaldi firmò, il 15 ottobre 1860, il decreto di annessione del Regno delle Due Sicilie al Regno d'Italia.",
         "Nel 1906 la statua di san Francesco fu sostituita da quella di sant'Antonio, che dà il nome alla chiesa. Ampliata nel 1920 e negli anni Cinquanta, è parrocchia dal 1927: la seconda della frazione."
       ],
-      "fonti": ["BW", "GC"]
+      "fonti": ["BW", "GC"],
+      "bibliografia": [
+        "Arcidiocesi di Capua, Annuario della Chiesa di Capua, 1989, p. 151"
+      ]
     },
     "E33": {
       "indirizzo": "Via Roma, presso piazza Tiberio",
@@ -392,7 +442,11 @@
         "Nonostante i rifacimenti, soprattutto ottocenteschi, conserva l'aula unica medievale con abside piatta. All'interno ci sono un soffitto a cassettoni in legno dorato con tele, una cantoria intagliata del Quattrocento e una pala di G. Sarnelli con sant'Anna.",
         "Da qui provengono la Madonna del Popolo attribuita a Marco Cardisco (1530), oggi nel Duomo di Sessa Aurunca, e il Polittico della Croce di Cristoforo Scacco, al Museo Campano."
       ],
-      "fonti": ["BW"]
+      "fonti": ["BW"],
+      "bibliografia": [
+        "Pro Loco di Capua, Capua. Itinerario monumentale nell'ambiente urbano, Arti grafiche Salafia, 1986",
+        "G. Pane, A. Filangieri, Capua. Architettura e arte. Catalogo delle opere, Arti grafiche Salafia, 1990, vol. I"
+      ]
     },
     "E34": {
       "indirizzo": "Via Giuseppe Garibaldi",
@@ -403,7 +457,10 @@
         "La nuova chiesa fu costruita nel 1965 nel rione di via Garibaldi, fuori dal centro storico. Inaugurata nel 1968, fu consacrata solo nel 1996, a lavori finiti.",
         "I mosaici dorati dell'abside (la Creazione, 1996) e del presbiterio (2015–16) sono della Domus Dei."
       ],
-      "fonti": ["BW"]
+      "fonti": ["BW"],
+      "bibliografia": [
+        "Arcidiocesi di Capua, Annuario della Chiesa di Capua, 1989, p. 147"
+      ]
     },
     "E35": {
       "indirizzo": "Via Tombe dei Garibaldini, Sant'Angelo in Formis",
@@ -424,7 +481,11 @@
         "Fu distrutta durante la battaglia del Volturno, nell'ottobre 1860, e ricostruita a fine Ottocento, come ricorda una lapide del 1910.",
         "È un'aula semplice senza decorazioni. Sull'altare c'è un affresco della Madonna del latte, detta qui Madonna delle Grazie; cappella e dipinto sono stati restaurati nel 1990–91."
       ],
-      "fonti": ["BW"]
+      "fonti": ["BW"],
+      "bibliografia": [
+        "G. Bova, Le pergamene sveve della Mater Ecclesia Capuana, Edizioni scientifiche italiane, 2001, p. 88",
+        "D. De Rosa, L. Fusco, La Cappella della Morte in Capua, Edizioni Pro Loco, 2014"
+      ]
     },
     "E37": {
       "indirizzo": "Piazza Landolfo 1, accanto al Duomo",
@@ -435,7 +496,11 @@
         "Dal 1992, anno della visita di Giovanni Paolo II, ospita il Museo diocesano: capitelli del X–XIII secolo, stemmi, dipinti del Tre e Quattrocento (tra cui una Madonna con il Bambino tra i santi Stefano e Lucia di Antoniazzo Romano), argenti e i pannelli ottocenteschi del coro del Duomo.",
         "Dalla cappella si scende alla cripta di Santo Stefano."
       ],
-      "fonti": ["BW"]
+      "fonti": ["BW"],
+      "bibliografia": [
+        "G. Ceraso, Il Duomo di Capua. Metropoli e basilica, Progresso, 1915, p. 90",
+        "U. D'Aquino, La Cattedrale di Capua, Tipografia dell'Abbazia di Casamari, 1977, p. 6"
+      ]
     },
     "E38": {
       "indirizzo": "Corso Appio, presso piazza dei Giudici",
