@@ -1,5 +1,5 @@
 {
-  "_info": "Testi delle schede, scritti a partire dal report 'Chiese di Capua esistenti e scomparse' (novembre 2026). Le coordinate e le foto stanno in chiese.geojson; qui ci sono storia, periodo e fonti, collegati per id. Le voci senza coordinate (chiese scomparse non localizzate) compaiono solo nell'elenco.",
+  "_info": "Testi delle schede, scritti a partire dal report 'Chiese di Capua esistenti e scomparse' (novembre 2026) e aggiornati con le schede CEI di BeWeB e Chiese Italiane. Le coordinate e le foto stanno in chiese.geojson; qui ci sono storia, periodo e fonti, collegati per id. Le voci senza coordinate (chiese scomparse non localizzate) compaiono solo nell'elenco.",
   "epoche": {
     "altomedioevo": "Longobarda e normanna (IX–XI sec.)",
     "medioevo": "Medievale (XII–XV sec.)",
@@ -24,7 +24,9 @@
     "CG": { "nome": "Ministero della Cultura, lavori all'Annunziata (2025)", "url": "https://cultura.gov.it/evento/la-soprintendenza-archeologia-belle-arti-e-paesaggio-per-le-province-di-caserta-e-benevento-avvia-i-lavori-alla-chiesa-dellannunziata-di-capua" },
     "FSA": { "nome": "Finestre sull'Arte, Madonna lignea di Sant'Eligio", "url": "https://www.finestresullarte.info/arte-antica/capua-restaurata-madonna-lignea-pietro-e-giovanni-alemanno" },
     "FSA2": { "nome": "Finestre sull'Arte, appello per Sant'Angelo in Formis (2018)", "url": "https://www.finestresullarte.info/attualita/touring-club-appello-per-sant-angelo-in-formis" },
-    "IT": { "nome": "italia.it, Basilica di Sant'Angelo in Formis", "url": "https://www.italia.it/it/campania/capua/basilica-di-s-angelo-in-formis" }
+    "IT": { "nome": "italia.it, Basilica di Sant'Angelo in Formis", "url": "https://www.italia.it/it/campania/capua/basilica-di-s-angelo-in-formis" },
+    "BW": { "nome": "BeWeB, censimento CEI dei beni architettonici della diocesi di Capua", "url": "https://www.beweb.chiesacattolica.it/UI/page.jsp?action=ricerca/risultati&view=elenco&locale=it&ambito=CEIA&liberaluogo=capua&dominio=2&localizzazione=civile&comune=CAPUA" },
+    "CI": { "nome": "Chiese Italiane (CEI), diocesi di Capua", "url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/index.jsp" }
   },
   "schede": {
     "E1": {
