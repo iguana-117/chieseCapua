@@ -407,6 +407,64 @@
       ],
       "fonti": ["BW"]
     },
+    "E38": {
+      "indirizzo": "Corso Appio, presso piazza dei Giudici",
+      "periodo": "data non nota",
+      "epoca": "ignota",
+      "storia": [
+        "Chiesa sussidiaria della parrocchia del Duomo (Maria SS. Assunta). La scheda BeWeB è ancora in lavorazione: per ora ne dà solo il tipo, l'indirizzo e la parrocchia."
+      ],
+      "fonti": ["BW"]
+    },
+    "E39": {
+      "indirizzo": "Via Roma",
+      "periodo": "data non nota",
+      "epoca": "ignota",
+      "storia": [
+        "Chiesa sussidiaria della parrocchia di Ognissanti. La scheda BeWeB è ancora in lavorazione: per ora ne dà solo il tipo, l'indirizzo e la parrocchia."
+      ],
+      "fonti": ["BW"]
+    },
+    "E40": {
+      "indirizzo": "Via Riviera Casilina",
+      "periodo": "data non nota",
+      "epoca": "ignota",
+      "storia": [
+        "Chiesa della confraternita della Santella, la stessa che nel Cinquecento fece costruire la Cappella della Morte in ricordo del sacco del 1501. La scheda BeWeB è ancora in lavorazione: per ora ne dà solo il tipo, l'indirizzo e la parrocchia.",
+        "BeWeB la distingue da Santa Maria delle Grazie, con cui il report ipotizzava che coincidesse: sono due chiese diverse."
+      ],
+      "fonti": ["BW"]
+    },
+    "E41": {
+      "indirizzo": "Via Martiri di Nassirya",
+      "periodo": "data non nota",
+      "epoca": "ignota",
+      "storia": [
+        "Cappella sussidiaria della parrocchia di San Roberto Bellarmino. La scheda BeWeB è ancora in lavorazione: per ora ne dà solo il tipo, l'indirizzo e la parrocchia."
+      ],
+      "fonti": ["BW"]
+    },
+    "E42": {
+      "indirizzo": "Viale IV Novembre, Sant'Angelo in Formis",
+      "periodo": "data non nota",
+      "epoca": "ignota",
+      "storia": [
+        "Cappella sussidiaria della parrocchia di Sant'Antonio di Padova, nella cui chiesa c'è anche una statua della Madonna della Scafa. La scheda BeWeB è ancora in lavorazione: per ora ne dà solo il tipo, l'indirizzo e la parrocchia."
+      ],
+      "fonti": ["BW"]
+    },
+    "E43": {
+      "nome": "San Bartolomeo ad Arco Aloisio",
+      "stato": "da verificare (BeWeB: chiesa vescovile)",
+      "luogo": "Corso Gran Priorato di Malta",
+      "periodo": "data non nota",
+      "epoca": "ignota",
+      "storia": [
+        "Chiesa vescovile della parrocchia del Duomo, in corso Gran Priorato di Malta. La scheda BeWeB è ancora in lavorazione: per ora ne dà solo il tipo, l'indirizzo e la parrocchia.",
+        "Wikidata ha una «Cappella di San Bartolomeo» con coordinate presso San Lazzaro, fuori dal centro: non corrispondono all'indirizzo BeWeB, per questo la chiesa non è ancora sulla mappa."
+      ],
+      "fonti": ["BW"]
+    },
     "S1": {
       "nome": "Santa Maria dei Franchi",
       "luogo": "slargo su via Seggio dei Cavalieri",

@@ -1003,6 +1003,113 @@
   },
   {
    "type": "Feature",
+   "id": "E38",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.21187,
+     41.10761
+    ]
+   },
+   "properties": {
+    "id": "E38",
+    "nome": "Ave Gratia Plena",
+    "tipo": "esistente",
+    "stato": "da verificare (BeWeB: chiesa sussidiaria)",
+    "precisione": "approssimata",
+    "fonte_coord": "Wikidata",
+    "wikidata": "Q118764001",
+    "note": "Punto Wikidata presso piazza dei Giudici, coerente con l'indirizzo BeWeB (corso Appio); non verificato su OSM."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E39",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.21214,
+     41.11127
+    ]
+   },
+   "properties": {
+    "id": "E39",
+    "nome": "San Girolamo",
+    "tipo": "esistente",
+    "stato": "da verificare (BeWeB: chiesa sussidiaria)",
+    "precisione": "approssimata",
+    "fonte_coord": "Wikidata",
+    "wikidata": "Q118764008",
+    "note": "Wikidata le dà le stesse coordinate di San Raffaele (E25): la posizione esatta lungo via Roma va verificata."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E40",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.20978,
+     41.11116
+    ]
+   },
+   "properties": {
+    "id": "E40",
+    "nome": "La Santella",
+    "tipo": "esistente",
+    "stato": "da verificare (BeWeB: chiesa di confraternita)",
+    "precisione": "approssimata",
+    "fonte_coord": "Wikidata",
+    "wikidata": "Q118763994",
+    "note": "Punto Wikidata, coerente con l'indirizzo BeWeB (via Riviera Casilina); non verificato su OSM."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E41",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.225079,
+     41.102348
+    ]
+   },
+   "properties": {
+    "id": "E41",
+    "nome": "Cappella di San Cristoforo",
+    "tipo": "esistente",
+    "stato": "da verificare (BeWeB: cappella sussidiaria)",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/932919295",
+    "wikidata": "Q118763992",
+    "note": "BeWeB la assegna alla parrocchia di San Roberto Bellarmino, con indirizzo via Martiri di Nassirya."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E42",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.25093,
+     41.12211
+    ]
+   },
+   "properties": {
+    "id": "E42",
+    "nome": "Cappella Madonna della Scafa",
+    "tipo": "esistente",
+    "stato": "da verificare (BeWeB: cappella sussidiaria)",
+    "frazione": "Sant'Angelo in Formis",
+    "precisione": "approssimata",
+    "fonte_coord": "Wikidata",
+    "wikidata": "Q118763993",
+    "note": "Punto Wikidata in viale IV Novembre; non verificato su OSM."
+   }
+  },
+  {
+   "type": "Feature",
    "id": "S2",
    "geometry": {
     "type": "Point",
