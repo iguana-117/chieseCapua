@@ -259,14 +259,15 @@
       "fonti": ["TC", "WIT", "MiC2"]
     },
     "E23": {
-      "indirizzo": "Via C. Landolfo",
-      "periodo": "XVIII secolo",
+      "indirizzo": "Via Duomo",
+      "periodo": "XVI secolo; ricostruita nel 1734–56; campanile vanvitelliano (1761)",
       "epoca": "eta_moderna",
       "storia": [
-        "Chiesa tardo-barocca con un campanile di scuola vanvitelliana. Prende il nome dalle reliquie della santa.",
-        "Nell'ex convento di San Gabriello si trova una sezione del Museo diocesano."
+        "È la chiesa del monastero carmelitano di San Gabriello, fondato nel Cinquecento. Prende il nome di Santa Placida dalle reliquie della santa, custodite qui dal 1752.",
+        "Fu ricostruita tra il 1734 e il 1756 con l'appoggio della regina Maria Amalia di Sassonia, moglie di Carlo di Borbone, legata alla priora suor Maria Angela (Angiola Marrapese). Dal 1761 seguì i lavori Luigi Vanvitelli: suo è quasi certamente il campanile, con la cella ellittica e le volute.",
+        "Ha una facciata tardo-barocca a stucchi e un'aula unica con coretti e matronei. All'inizio del Novecento il convento passò al Comune; nell'ex convento si trova una sezione del Museo diocesano."
       ],
-      "fonti": ["TC", "WIT"]
+      "fonti": ["BW", "TC", "WIT"]
     },
     "E24": {
       "indirizzo": "Via Convento delle Grazie",
