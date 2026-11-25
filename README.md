@@ -43,6 +43,6 @@ In *Settings → Pages* del repository scegliere *Deploy from a branch*, ramo `m
 
 - Mappa di base e coordinate da OSM: © contributori di OpenStreetMap, [ODbL](https://opendatacommons.org/licenses/odbl/).
 - Dati Wikidata: CC0.
-- Foto: Wikimedia Commons e, dove Commons non ne ha, BeWeB (© Diocesi di Capua, CC BY-NC-SA 4.0, uso non commerciale), con autore e licenza indicati in ogni scheda.
+- Foto: Wikimedia Commons e, dove Commons non ne ha, BeWeB (foto di Rosaria Barone per il censimento CEI della diocesi di Capua, CC BY-NC-SA 4.0, uso non commerciale), con autore e licenza indicati in ogni scheda.
 - Schede CEI: [BeWeB](https://www.beweb.chiesacattolica.it) e [Chiese Italiane](https://chieseitaliane.chiesacattolica.it/chieseitaliane/index.jsp), Ufficio nazionale per i beni culturali ecclesiastici della CEI.
 - Testi delle schede: riassunti a partire dalle fonti citate in ogni scheda. Testi e immagini della mappa turistica Pro Loco non sono stati riprodotti.
