@@ -139,7 +139,8 @@
       "epoca": "altomedioevo",
       "storia": [
         "Esisteva già nel X secolo e fu rifatta nell'Ottocento.",
-        "L'annesso convento di San Vincenzo è diventato una caserma. Lo stato della chiesa non è documentato."
+        "L'annesso convento di San Vincenzo è diventato una caserma. Lo stato della chiesa non è documentato.",
+        "A una trentina di metri BeWeB censisce Santa Maria in Abate, con una storia molto simile (fondazione altomedievale, legame con San Vincenzo, rifacimento ottocentesco): potrebbero essere la stessa chiesa."
       ],
       "fonti": ["WIT"]
     },
@@ -677,8 +678,8 @@
       "luogo": "forse all'imbocco del ponte romano (ipotesi)",
       "periodo": "persa nel 1943",
       "epoca": "ignota",
-      "storia": ["Persa nei bombardamenti del 1943. Il nome suggerisce che sorgesse alla testata del ponte romano sul Volturno, ma le fonti non lo dicono."],
-      "fonti": ["WIT"]
+      "storia": ["Persa nei bombardamenti del 1943. Il nome suggerisce che sorgesse alla testata del ponte romano sul Volturno, ma le fonti non lo dicono. La parrocchia continua nella chiesa di San Pietro Apostolo, costruita nel 1965 in via Garibaldi."],
+      "fonti": ["WIT", "BW"]
     },
     "S22": {
       "nome": "San Vittore",
