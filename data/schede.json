@@ -193,14 +193,15 @@
       "fonti": ["TC", "WIT"]
     },
     "E16": {
-      "indirizzo": "Corso Gran Priorato di Malta",
+      "indirizzo": "Via Pier delle Vigne, all'angolo con corso Gran Priorato di Malta",
       "periodo": "XIII secolo",
       "epoca": "medioevo",
       "storia": [
         "Chiesa gotica del Duecento.",
-        "Il convento ospita la sezione musicale del Liceo Garofano; lo stato della chiesa non è documentato."
+        "Il convento ospita la sezione musicale del Liceo Garofano; lo stato della chiesa non è documentato.",
+        "BeWeB la chiama «Gesù Piccolo o Gesù Confalone» e la censisce come chiesa di proprietà comunale in via Pier delle Vigne (scheda ancora in lavorazione)."
       ],
-      "fonti": ["WIT"]
+      "fonti": ["BW", "WIT"]
     },
     "E17": {
       "indirizzo": "Piazza San Francesco d'Assisi",
