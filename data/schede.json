@@ -312,13 +312,15 @@
       "fonti": ["WIT"]
     },
     "E28": {
-      "indirizzo": "Rione Macello",
-      "periodo": "XX secolo",
+      "indirizzo": "Via Martiri di Nassirya, rione Macello",
+      "periodo": "2007–2009",
       "epoca": "contemporanea",
       "storia": [
-        "Chiesa moderna intitolata a san Roberto Bellarmino, arcivescovo di Capua e compatrono dell'arcidiocesi."
+        "Chiesa moderna intitolata a san Roberto Bellarmino, arcivescovo di Capua e compatrono dell'arcidiocesi.",
+        "La prima pietra fu benedetta il 25 marzo 2007; la chiesa fu consacrata il 20 dicembre 2009 dall'arcivescovo Bruno Schettino.",
+        "Dalla parrocchia dipendono la Cappella della Morte e la Cappella di San Cristoforo."
       ],
-      "fonti": ["WIT"]
+      "fonti": ["BW", "WIT"]
     },
     "E29": {
       "indirizzo": "Via San Tammaro, rione Santagata",
