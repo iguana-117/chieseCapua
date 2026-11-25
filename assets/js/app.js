@@ -319,6 +319,11 @@
       }).join("") + "</ul>";
     }
 
+    if (c.bibliografia && c.bibliografia.length) {
+      h += '<h3>Bibliografia</h3><p class="nota-bibl">Testi citati dal censimento CEI delle chiese della diocesi.</p>' +
+        '<ul class="fonti">' + c.bibliografia.map(function (t) { return "<li>" + esc(t) + "</li>"; }).join("") + "</ul>";
+    }
+
     if (c.note) {
       h += "<details><summary>Note sui dati</summary><p>" + esc(c.note) + "</p></details>";
     }
