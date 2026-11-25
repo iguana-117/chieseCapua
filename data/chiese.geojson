@@ -864,6 +864,145 @@
   },
   {
    "type": "Feature",
+   "id": "E33",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.208139,
+     41.112931
+    ]
+   },
+   "properties": {
+    "id": "E33",
+    "nome": "Santa Maria in Abate (Sant'Anna)",
+    "tipo": "esistente",
+    "stato": "attiva, chiesa sussidiaria",
+    "precisione": "edificio",
+    "fonte_coord": "BeWeB",
+    "wikidata": "Q118764019",
+    "beweb": "54921",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=54921&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/54921/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Diocesi di Capua",
+    "immagine_fonte": "BeWeB (CEI)",
+    "note": "Coordinate BeWeB, a circa 30 m dal punto di San Leonardo (E10), che viene dalla mappa Pro Loco. Le due schede si somigliano (fondazione altomedievale, legame con San Vincenzo, rifacimento ottocentesco): potrebbe trattarsi dello stesso edificio, da verificare."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E34",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.214716,
+     41.102732
+    ]
+   },
+   "properties": {
+    "id": "E34",
+    "nome": "San Pietro Apostolo",
+    "tipo": "esistente",
+    "stato": "attiva, parrocchia",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/1197087395",
+    "wikidata": "Q118764013",
+    "beweb": "18314",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=18314&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18314/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Diocesi di Capua",
+    "immagine_fonte": "BeWeB (CEI)",
+    "note": "Il punto BeWeB è a pochi metri dal poligono OSM."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E35",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.252162,
+     41.112148
+    ]
+   },
+   "properties": {
+    "id": "E35",
+    "nome": "Maria SS. del Carmelo",
+    "tipo": "esistente",
+    "stato": "attiva, chiesa sussidiaria",
+    "frazione": "Sant'Angelo in Formis",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/931397730",
+    "wikidata": "Q118764003",
+    "beweb": "18322",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=18322&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18322/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Diocesi di Capua",
+    "immagine_fonte": "BeWeB (CEI)",
+    "note": "Il punto BeWeB è a pochi metri dal poligono OSM."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E36",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.236472,
+     41.112613
+    ]
+   },
+   "properties": {
+    "id": "E36",
+    "nome": "Cappella della Morte",
+    "tipo": "esistente",
+    "stato": "attiva, cappella sussidiaria",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/781074095",
+    "wikidata": "Q118763991",
+    "beweb": "65290",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=65290&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/65290/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Diocesi di Capua",
+    "immagine_fonte": "BeWeB (CEI)",
+    "note": "Il punto BeWeB è a pochi metri dal poligono OSM."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E37",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.211167,
+     41.109167
+    ]
+   },
+   "properties": {
+    "id": "E37",
+    "nome": "Cappella del Corpo di Cristo (Museo diocesano)",
+    "tipo": "esistente",
+    "stato": "attiva, sede del Museo diocesano",
+    "precisione": "edificio",
+    "fonte_coord": "BeWeB",
+    "wikidata": "Q118763990",
+    "beweb": "77037",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=77037&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/77037/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Diocesi di Capua",
+    "immagine_fonte": "BeWeB (CEI)",
+    "note": "Fa parte del complesso del Duomo (E1); coordinate BeWeB, coincidenti con Wikidata."
+   }
+  },
+  {
+   "type": "Feature",
    "id": "S2",
    "geometry": {
     "type": "Point",

@@ -353,6 +353,60 @@
       ],
       "fonti": ["GC"]
     },
+    "E33": {
+      "indirizzo": "Via Roma, presso piazza Tiberio",
+      "periodo": "IX secolo; rimaneggiata nella seconda metà dell'Ottocento",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Detta anche chiesa di Sant'Anna, fu sede parrocchiale fin dalla fondazione, nel IX secolo. Il nome ricorda l'abbazia benedettina di San Vincenzo al Volturno, da cui dipendeva.",
+        "Nonostante i rifacimenti, soprattutto ottocenteschi, conserva l'aula unica medievale con abside piatta. All'interno ci sono un soffitto a cassettoni in legno dorato con tele, una cantoria intagliata del Quattrocento e una pala di G. Sarnelli con sant'Anna.",
+        "Da qui provengono la Madonna del Popolo attribuita a Marco Cardisco (1530), oggi nel Duomo di Sessa Aurunca, e il Polittico della Croce di Cristoforo Scacco, al Museo Campano."
+      ],
+      "fonti": ["BW"]
+    },
+    "E34": {
+      "indirizzo": "Via Giuseppe Garibaldi",
+      "periodo": "1965–1968; consacrata nel 1996",
+      "epoca": "contemporanea",
+      "storia": [
+        "È l'erede della parrocchia di San Pietro ad Pontem, che prendeva il nome dal vicino ponte romano sul Volturno e fu distrutta dai bombardamenti della Seconda guerra mondiale.",
+        "La nuova chiesa fu costruita nel 1965 nel rione di via Garibaldi, fuori dal centro storico. Inaugurata nel 1968, fu consacrata solo nel 1996, a lavori finiti.",
+        "I mosaici dorati dell'abside (la Creazione, 1996) e del presbiterio (2015–16) sono della Domus Dei."
+      ],
+      "fonti": ["BW"]
+    },
+    "E35": {
+      "indirizzo": "Via Tombe dei Garibaldini, Sant'Angelo in Formis",
+      "periodo": "1990–1994",
+      "epoca": "contemporanea",
+      "storia": [
+        "Chiesa moderna voluta dal parroco di Sant'Angelo in Formis, don Francesco Paradiso, su un terreno donato. Il progetto è dell'architetto Pasquale Rocchio.",
+        "I lavori iniziarono nel 1990 e la chiesa fu consacrata nel 1994. La facciata a capanna, in mattoni chiari e rossi, ha sopra il portale un mosaico della Madonna del Carmelo."
+      ],
+      "fonti": ["BW"]
+    },
+    "E36": {
+      "indirizzo": "Via provinciale per Sant'Angelo in Formis, località Ponticello",
+      "periodo": "anni Venti del Cinquecento; ricostruita a fine Ottocento",
+      "epoca": "eta_moderna",
+      "storia": [
+        "Ricorda il sacco di Capua del 24 luglio 1501 e i soldati uccisi in località Ponticello. La confraternita della Santella la fece costruire sul posto negli anni Venti del Cinquecento.",
+        "Fu distrutta durante la battaglia del Volturno, nell'ottobre 1860, e ricostruita a fine Ottocento, come ricorda una lapide del 1910.",
+        "È un'aula semplice senza decorazioni. Sull'altare c'è un affresco della Madonna del latte, detta qui Madonna delle Grazie; cappella e dipinto sono stati restaurati nel 1990–91."
+      ],
+      "fonti": ["BW"]
+    },
+    "E37": {
+      "indirizzo": "Piazza Landolfo 1, accanto al Duomo",
+      "periodo": "parte del Duomo (856); ricostruita dopo il 1943; museo dal 1992",
+      "epoca": "altomedioevo",
+      "storia": [
+        "Cappella addossata alla cattedrale, di cui condivide la storia: distrutta nel bombardamento del 9 settembre 1943, fu ricostruita con il Duomo.",
+        "Dal 1992, anno della visita di Giovanni Paolo II, ospita il Museo diocesano: capitelli del X–XIII secolo, stemmi, dipinti del Tre e Quattrocento (tra cui una Madonna con il Bambino tra i santi Stefano e Lucia di Antoniazzo Romano), argenti e i pannelli ottocenteschi del coro del Duomo.",
+        "Dalla cappella si scende alla cripta di Santo Stefano."
+      ],
+      "fonti": ["BW"]
+    },
     "S1": {
       "nome": "Santa Maria dei Franchi",
       "luogo": "slargo su via Seggio dei Cavalieri",
