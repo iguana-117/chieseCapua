@@ -36,10 +36,11 @@
       "storia": [
         "Secondo la tradizione la fondò nell'856 il vescovo Landulfo, quando la città si trasferì sull'ansa del Volturno. In origine era dedicata ai santi Stefano e Agata.",
         "Fu rifatta nel X secolo e di nuovo alla fine dell'XI sotto l'arcivescovo Erveo; seguirono un rinnovamento settecentesco e i lavori di Federico Travaglini (1854–57).",
+        "Papa Giovanni XIII la consacrò nel 966, quando Capua divenne sede metropolitana; fu riconsacrata nel 1255 da Alessandro IV e nel 1724, dopo il restauro del cardinale Niccolò Caracciolo.",
         "Il bombardamento del 9 settembre 1943 la distrusse quasi del tutto. La ricostruzione del 1949–57 ha conservato il quadriportico, le colonne antiche e il campanile medievale.",
         "Custodisce l'Assunta di Solimena e, nella cripta, il Cristo morto di Matteo Bottiglieri. È basilica minore dal 1827 e sede del Museo diocesano dal 1992."
       ],
-      "fonti": ["WEN", "WIT", "TC", "GC"]
+      "fonti": ["WEN", "WIT", "TC", "GC", "BW"]
     },
     "E2": {
       "indirizzo": "Via Principi Longobardi",
@@ -48,9 +49,10 @@
       "storia": [
         "È la maggiore delle cappelle palatine «ad curtim», legate al palazzo dei principi longobardi da un passaggio coperto e costruite con materiali romani di reimpiego.",
         "La tradizione locale ne attribuisce la fondazione ad Adelgrima, vedova del gastaldo Landenolfo; esisteva comunque almeno dalla fine del IX secolo.",
+        "Le schede CEI datano la fondazione al 960, con la principessa Adelgrima, il cui sarcofago fu poi portato nel Duomo; il campanile romanico in pietra e tufo è del XII secolo. Danneggiata nel 1943, fu ricostruita nel 1946 e restaurata nel 1988.",
         "Rimasta chiusa per anni, è stata riaperta nel 2020 dai volontari del Touring Club Italiano."
       ],
-      "fonti": ["TC", "WIT", "TCI"]
+      "fonti": ["TC", "WIT", "TCI", "BW"]
     },
     "E3": {
       "indirizzo": "Via San Michele a Corte",
@@ -58,9 +60,10 @@
       "epoca": "altomedioevo",
       "storia": [
         "Detta «Cappella dei Principi», era la cappella privata della corte longobarda, dedicata all'Arcangelo Michele, patrono dei Longobardi.",
-        "Il catalogo ministeriale la classifica come chiesa parrocchiale e la data tra la seconda metà del IX e la metà del X secolo."
+        "Il catalogo ministeriale la classifica come chiesa parrocchiale e la data tra la seconda metà del IX e la metà del X secolo.",
+        "Nella cripta, raggiungibile da due scalette laterali, nel 1871 e nel 1876 furono scoperte tracce di affreschi del IX–X secolo, oggi quasi del tutto perdute. La chiesa è stata restaurata nel 2010."
       ],
-      "fonti": ["MiC", "TC", "WIT"]
+      "fonti": ["MiC", "TC", "WIT", "BW"]
     },
     "E4": {
       "indirizzo": "Via Principi Longobardi",
@@ -68,9 +71,10 @@
       "epoca": "altomedioevo",
       "storia": [
         "È la terza delle cappelle palatine accanto al palazzo dei principi.",
-        "Il rifacimento settecentesco ha cancellato gran parte dell'aspetto medievale, e per questo le fonti la datano in modo diverso, tra il X e la fine dell'XI secolo."
+        "Il rifacimento settecentesco ha cancellato gran parte dell'aspetto medievale, e per questo le fonti la datano in modo diverso, tra il X e la fine dell'XI secolo.",
+        "Secondo la tradizione riportata da BeWeB era dedicata a san Giovanni Battista; un capitello del IX secolo è conservato in sacrestia, e frammenti di una transenna longobarda trovati qui sono al Museo Campano. Ha una tempera del 1644 con Cristo alla fontana."
       ],
-      "fonti": ["TC", "WIT", "TCI"]
+      "fonti": ["TC", "WIT", "TCI", "BW"]
     },
     "E5": {
       "indirizzo": "Via Gran Priorato di Malta",
@@ -90,9 +94,10 @@
       "storia": [
         "Chiesa di impianto longobardo, datata al X secolo o alla prima metà dell'XI a seconda delle fonti.",
         "In età normanna i Benedettini aggiunsero il campanile e due absidi; fu restaurata all'inizio del Settecento.",
-        "Come a San Marcello, l'altare è un sarcofago romano."
+        "Come a San Marcello, l'altare è un sarcofago romano.",
+        "Fu donata a Montecassino nel 1053. I restauri del 1910 hanno liberato le colonne e ripristinato la copertura a capriate; quelli del 1970 hanno ritrovato le basi delle absidi laterali benedettine, demolite nel Settecento."
       ],
-      "fonti": ["TC", "WIT"]
+      "fonti": ["TC", "WIT", "BW"]
     },
     "E7": {
       "indirizzo": "Via Andreozzi",
@@ -184,13 +189,13 @@
     },
     "E15": {
       "indirizzo": "Via Pier delle Vigne",
-      "periodo": "inizio XIV secolo; restauri del 1747–56",
+      "periodo": "1300; rifatta nel 1747–49; cappelle restaurate nel 1753–56",
       "epoca": "medioevo",
       "storia": [
         "Voluta anch'essa da Bartolomeo de Capua all'inizio del Trecento, con un convento agostiniano e un ospedale.",
-        "Il complesso fu restaurato a metà Settecento. La chiesa è aperta al culto."
+        "La licenza di costruzione è del 22 novembre 1300. Tra il 1747 e il 1749 ebbe facciata, campanile e interno nuovi. Danneggiata nel 1943 e dal terremoto del 1980, è stata riaperta al culto il 3 aprile 2011 dopo un restauro."
       ],
-      "fonti": ["TC", "WIT"]
+      "fonti": ["BW", "TC", "WIT"]
     },
     "E16": {
       "indirizzo": "Via Pier delle Vigne, all'angolo con corso Gran Priorato di Malta",
@@ -232,9 +237,10 @@
         "Costruita tra il 1531 e il 1574 sul sito di una chiesa di età angioina.",
         "La cupola fu progettata da Domenico Fontana ed eseguita da Ambrogio Attendolo; il soffitto ligneo a cassettoni fu pagato con il lascito di Lucio Paganino.",
         "Ospita il coro ligneo del 1519 proveniente da San Benedetto.",
+        "Dopo i danni del 1943 fu restaurata e riconsacrata nel 1978; nel 2021–22 sono state consolidate le murature e rifatte le coperture.",
         "Dal 25 marzo 2025 è affidata alla Soprintendenza per i lavori al tamburo e alla lanterna, colpiti da un fulmine, e alla scala elicoidale."
       ],
-      "fonti": ["TC", "CG"]
+      "fonti": ["TC", "CG", "BW"]
     },
     "E20": {
       "periodo": "fondazione del 952; edificio attuale del 1726",
@@ -260,9 +266,10 @@
       "epoca": "eta_moderna",
       "storia": [
         "Chiesa barocca del 1697, di proprietà della Reale Arciconfraternita dei Bianchi della SS. Carità.",
-        "Le sono annessi il Monte di Pietà (1540) e il conservatorio delle Oblate."
+        "Le sono annessi il Monte di Pietà (1540) e il conservatorio delle Oblate.",
+        "Le schede CEI la attribuiscono a maestranze napoletane vicine a Domenico Antonio Vaccaro. È stata restaurata dalla Soprintendenza nel 1990 e con fondi CEI nel 2014–15."
       ],
-      "fonti": ["TC", "WIT", "MiC2"]
+      "fonti": ["TC", "WIT", "MiC2", "BW"]
     },
     "E23": {
       "indirizzo": "Via Duomo",
@@ -340,9 +347,10 @@
       "epoca": "medioevo",
       "storia": [
         "Il lebbrosario fu fondato nel 1228 da Lazzaro di Raimo, all'epoca di Federico II, sulla vecchia strada per Santa Maria Maggiore. Nel 1490 passò ai Cavalieri di Malta.",
-        "Le truppe francesi di Championnet distrussero il complesso nel 1799. La chiesa fu ricostruita nel 1800; l'ospedale, il vestibolo a quattro colonne e il pozzo sono invece scomparsi."
+        "Le truppe francesi di Championnet distrussero il complesso nel 1799. La chiesa fu ricostruita nel 1800; l'ospedale, il vestibolo a quattro colonne e il pozzo sono invece scomparsi.",
+        "La ricostruzione del 1800 fu voluta da Ferdinando IV; la chiesa è stata consolidata e restaurata nel 2000."
       ],
-      "fonti": ["B", "L", "WIT"]
+      "fonti": ["B", "L", "WIT", "BW"]
     },
     "E31": {
       "indirizzo": "Via Luigi Baia, Sant'Angelo in Formis",
@@ -352,9 +360,10 @@
         "Sorge sulle pendici del monte Tifata, sul podio del santuario romano di Diana Tifatina, di cui riusa basamento, pavimento e colonne.",
         "Dopo una probabile chiesa longobarda dedicata all'Arcangelo, fu concessa a Montecassino. Tra il 1072 e il 1087 l'abate Desiderio, poi papa Vittore III, la ricostruì e la fece affrescare: nell'abside è ritratto con il nimbo quadrato mentre offre il modellino della chiesa.",
         "Il ciclo di affreschi, con storie del Nuovo e dell'Antico Testamento e il Giudizio in controfacciata, è il testo principale della pittura «bizantino-campana».",
+        "Il monastero fu soppresso nel 1417 e la chiesa passò ad abati commendatari, tra cui Roberto Bellarmino. Dal 1828 chiesa e monastero appartengono all'arcidiocesi di Capua.",
         "Nel XII secolo furono rifatti il portico e il campanile. È basilica minore e parrocchia, e il monumento più importante del comune."
       ],
-      "fonti": ["WSA", "IT", "TC", "GC", "FSA2"]
+      "fonti": ["WSA", "IT", "TC", "GC", "FSA2", "BW"]
     },
     "E32": {
       "indirizzo": "Via IV Novembre, località San Iorio, Sant'Angelo in Formis",
