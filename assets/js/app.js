@@ -260,7 +260,7 @@
       h += '<figure><img src="' + esc(img) + '" alt="' + esc(c.nome) + '" loading="lazy">' +
         '<figcaption>Foto: <a href="' + esc(c.immagine_pagina) + '" target="_blank" rel="noopener">' +
         esc(c.immagine_autore || "autore su Commons") + "</a>, " + esc(c.immagine_licenza) +
-        ", via Wikimedia Commons</figcaption></figure>";
+        ", via " + esc(c.immagine_fonte || "Wikimedia Commons") + "</figcaption></figure>";
     }
 
     var cat = categoriaStato(c);
@@ -302,6 +302,8 @@
     var link = [];
     if (c.osm_id) link.push(['https://www.openstreetmap.org/' + c.osm_id, "OpenStreetMap"]);
     if (c.wikidata) link.push(["https://www.wikidata.org/wiki/" + c.wikidata, "Wikidata"]);
+    if (c.beweb) link.push(["https://www.beweb.chiesacattolica.it/edificidiculto/edificio/" + encodeURIComponent(c.beweb) + "/", "Scheda BeWeB (CEI)"]);
+    if (c.beweb) link.push(["https://chieseitaliane.chiesacattolica.it/chieseitaliane/schedacc.jsp?sinteticabool=true&sintetica=false&sercd=" + encodeURIComponent(c.beweb), "Scheda del censimento CEI (Chiese Italiane)"]);
     if (c.commons_categoria) link.push(["https://commons.wikimedia.org/wiki/Category:" + encodeURIComponent(c.commons_categoria.replace(/ /g, "_")), "Foto su Commons"]);
     if (c.localizzata) link.push(["https://www.openstreetmap.org/?mlat=" + c.lat + "&mlon=" + c.lon + "#map=19/" + c.lat + "/" + c.lon, "Apri la posizione"]);
     if (link.length) {
@@ -315,6 +317,11 @@
         var f = stato.fonti[k];
         return f ? '<li><a href="' + esc(f.url) + '" target="_blank" rel="noopener">' + esc(f.nome) + "</a></li>" : "";
       }).join("") + "</ul>";
+    }
+
+    if (c.bibliografia && c.bibliografia.length) {
+      h += '<h3>Bibliografia</h3><p class="nota-bibl">Testi citati dal censimento CEI delle chiese della diocesi.</p>' +
+        '<ul class="fonti">' + c.bibliografia.map(function (t) { return "<li>" + esc(t) + "</li>"; }).join("") + "</ul>";
     }
 
     if (c.note) {

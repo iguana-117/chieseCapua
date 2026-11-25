@@ -20,6 +20,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/364927723",
     "wikidata": "Q950002",
+    "beweb": "75386",
     "commons_categoria": "Cathedral (Capua)",
     "mappa_proloco_n": "1",
     "immagine_file": "File:Capua, cattedrale di Santa Maria Assunta - Facciata esterna.jpg",
@@ -48,6 +49,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/885531796",
     "wikidata": "Q112044654",
+    "beweb": "18331",
     "commons_categoria": "Chiesa di San Salvatore Maggiore a corte (Capua)",
     "mappa_proloco_n": "10",
     "immagine_file": "File:San Salvatore maggiore a corte, facciata.jpg",
@@ -76,7 +78,13 @@
     "fonte_coord": "OSM",
     "osm_id": "way/885532382",
     "wikidata": "Q118764012",
-    "mappa_proloco_n": "13"
+    "beweb": "18330",
+    "mappa_proloco_n": "13",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=18330&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18330/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2018",
+    "immagine_fonte": "BeWeB (CEI)"
    }
   },
   {
@@ -98,7 +106,13 @@
     "fonte_coord": "OSM",
     "osm_id": "way/885533267",
     "wikidata": "Q118764007",
-    "mappa_proloco_n": "12"
+    "beweb": "18326",
+    "mappa_proloco_n": "12",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=18326&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18326/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2018",
+    "immagine_fonte": "BeWeB (CEI)"
    }
   },
   {
@@ -146,6 +160,7 @@
     "precisione": "edificio",
     "fonte_coord": "Wikidata",
     "wikidata": "Q118763996",
+    "beweb": "18317",
     "commons_categoria": "Santi Rufo e Carponio (Capua)",
     "mappa_proloco_n": "14",
     "immagine_file": "File:Capua, chiesa dei Santi Rufo e Carponio - Facciata e campanile.jpg",
@@ -218,11 +233,17 @@
     "id": "E9",
     "nome": "San Salvatore Piccolo",
     "tipo": "esistente",
-    "stato": "da verificare",
+    "stato": "attiva, chiesa sussidiaria",
     "precisione": "edificio",
     "fonte_coord": "Wikidata",
     "wikidata": "Q118764016",
+    "beweb": "18332",
     "mappa_proloco_n": "23",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=18332&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18332/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2016",
+    "immagine_fonte": "BeWeB (CEI)",
     "note": "Punto Wikidata su via Principi Normanni, a circa 20 m dalla posizione sulla mappa Pro Loco."
    }
   },
@@ -266,7 +287,13 @@
     "fonte_coord": "OSM",
     "osm_id": "way/885535185",
     "wikidata": "Q118763995",
+    "beweb": "54919",
     "mappa_proloco_n": "15",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=54919&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/54919/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2016",
+    "immagine_fonte": "BeWeB (CEI)",
     "note": "Il catalogo SIGEC (ICCD13700820) indica la stessa chiesa come S. Benedetto, Chiesa dei Gesuiti, SS. Filippo e Giacomo, Immacolata, in via L. Abenavolo; OSM e Wikidata la chiamano Santi Filippo e Giacomo."
    }
   },
@@ -340,12 +367,18 @@
     "id": "E14",
     "nome": "Santa Maria di Montevergine",
     "tipo": "esistente",
-    "stato": "da verificare (OSM: 'ex chiesa')",
+    "stato": "attiva, chiesa sussidiaria",
     "precisione": "edificio",
     "fonte_coord": "OSM",
     "osm_id": "way/1220300259",
     "wikidata": "Q118764004",
+    "beweb": "18323",
     "mappa_proloco_n": "5",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=18323&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18323/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2016",
+    "immagine_fonte": "BeWeB (CEI)",
     "note": "OSM la etichetta 'ex Chiesa di Montevergine'."
    }
   },
@@ -368,6 +401,7 @@
     "fonte_coord": "OSM",
     "osm_id": "node/11303256668",
     "wikidata": "Q118764000",
+    "beweb": "18319",
     "commons_categoria": "Santa Maria Maddalena (Capua)",
     "mappa_proloco_n": "21",
     "immagine_file": "File:Capua chiesa.jpg",
@@ -433,9 +467,9 @@
    },
    "properties": {
     "id": "E18",
-    "nome": "San Martino alla Giudea (ex)",
+    "nome": "San Martino alla Giudea",
     "tipo": "esistente",
-    "stato": "sconsacrata, uso ignoto",
+    "stato": "da verificare (BeWeB: chiesa sussidiaria)",
     "precisione": "edificio",
     "fonte_coord": "Wikidata",
     "wikidata": "Q118764011",
@@ -462,6 +496,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/259942288",
     "wikidata": "Q55179225",
+    "beweb": "69123",
     "commons_categoria": "Santissima Annunziata (Capua)",
     "mappa_proloco_n": "19",
     "immagine_file": "File:Annunziata-Capua.jpg",
@@ -547,6 +582,7 @@
     "fonte_coord": "OSM",
     "osm_id": "node/11303264570",
     "wikidata": "Q118763998",
+    "beweb": "18320",
     "mappa_proloco_n": "18",
     "immagine_file": "File:Capua, chiesa di Santa Maria della Carità - Facciata.jpg",
     "immagine_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Capua%2C_chiesa_di_Santa_Maria_della_Carit%C3%A0_-_Facciata.jpg?width=1024",
@@ -561,19 +597,26 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     14.212395,
-     41.110505
+     14.21225,
+     41.110631
     ]
    },
    "properties": {
     "id": "E23",
-    "nome": "Santa Placida",
+    "nome": "Santa Placida (San Gabriello)",
     "tipo": "esistente",
     "stato": "attiva, visitabile su richiesta",
-    "precisione": "approssimata",
-    "fonte_coord": "mappa Pro Loco",
+    "precisione": "edificio",
+    "fonte_coord": "BeWeB",
+    "wikidata": "Q118764006",
+    "beweb": "54939",
     "mappa_proloco_n": "9",
-    "note": "Non trovata in OSM né in Wikidata con questo nome. Wikidata ha una 'chiesa di San Gabriello' (Q118764006) a circa 35 m, cioè presso l'ex convento di San Gabriello annesso: potrebbe essere lo stesso edificio."
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=54939&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/54939/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2018",
+    "immagine_fonte": "BeWeB (CEI)",
+    "note": "BeWeB la censisce come chiesa di San Gabriello, «meglio conosciuta come Santa Placida», in via Duomo; Wikidata ha lo stesso edificio come «chiesa di San Gabriello» (Q118764006). Le coordinate BeWeB sono a circa 20 m dal punto ricavato prima dalla mappa Pro Loco."
    }
   },
   {
@@ -646,7 +689,13 @@
     "fonte_coord": "OSM",
     "osm_id": "way/1099877723",
     "wikidata": "Q118764009",
-    "commons_categoria": "San Giuseppe (Capua)"
+    "beweb": "18312",
+    "commons_categoria": "San Giuseppe (Capua)",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=18312&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18312/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2016",
+    "immagine_fonte": "BeWeB (CEI)"
    }
   },
   {
@@ -688,7 +737,13 @@
     "precisione": "edificio",
     "fonte_coord": "OSM",
     "osm_id": "way/805906124",
-    "wikidata": "Q118764015"
+    "wikidata": "Q118764015",
+    "beweb": "65289",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=65289&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/65289/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2016",
+    "immagine_fonte": "BeWeB (CEI)"
    }
   },
   {
@@ -710,6 +765,12 @@
     "fonte_coord": "OSM",
     "osm_id": "way/1017204095",
     "wikidata": "Q118763997",
+    "beweb": "18309",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=18309&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18309/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2016",
+    "immagine_fonte": "BeWeB (CEI)",
     "note": "OSM: Strada Statale 7 bis."
    }
   },
@@ -732,6 +793,12 @@
     "fonte_coord": "OSM",
     "osm_id": "way/932919297",
     "wikidata": "Q118764024",
+    "beweb": "18335",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=18335&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18335/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2016",
+    "immagine_fonte": "BeWeB (CEI)",
     "note": "OSM: via San Lazzaro di Raimo."
    }
   },
@@ -755,6 +822,7 @@
     "fonte_coord": "OSM",
     "osm_id": "way/363301676",
     "wikidata": "Q118763989",
+    "beweb": "18308",
     "commons_categoria": "San Michele Arcangelo (Sant'Angelo in Formis, Capua)",
     "mappa_proloco_n": "42",
     "immagine_file": "File:Sant'Angelo-in-Formis-front.jpg",
@@ -785,7 +853,259 @@
     "fonte_coord": "OSM",
     "osm_id": "way/932627476",
     "wikidata": "Q118764021",
+    "beweb": "18316",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=18316&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18316/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2016",
+    "immagine_fonte": "BeWeB (CEI)",
     "note": "OSM: 'Chiesa di Sant'Antonio', via San Iorio; Nominatim conferma il comune di Capua."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E33",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.208139,
+     41.112931
+    ]
+   },
+   "properties": {
+    "id": "E33",
+    "nome": "Santa Maria in Abate (Sant'Anna)",
+    "tipo": "esistente",
+    "stato": "attiva, chiesa sussidiaria",
+    "precisione": "edificio",
+    "fonte_coord": "BeWeB",
+    "wikidata": "Q118764019",
+    "beweb": "54921",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=54921&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/54921/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2016",
+    "immagine_fonte": "BeWeB (CEI)",
+    "note": "Coordinate BeWeB, a circa 30 m dal punto di San Leonardo (E10), che viene dalla mappa Pro Loco. Le due schede si somigliano (fondazione altomedievale, legame con San Vincenzo, rifacimento ottocentesco): potrebbe trattarsi dello stesso edificio, da verificare."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E34",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.214716,
+     41.102732
+    ]
+   },
+   "properties": {
+    "id": "E34",
+    "nome": "San Pietro Apostolo",
+    "tipo": "esistente",
+    "stato": "attiva, parrocchia",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/1197087395",
+    "wikidata": "Q118764013",
+    "beweb": "18314",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=18314&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18314/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2016",
+    "immagine_fonte": "BeWeB (CEI)",
+    "note": "Il punto BeWeB è a pochi metri dal poligono OSM."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E35",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.252162,
+     41.112148
+    ]
+   },
+   "properties": {
+    "id": "E35",
+    "nome": "Maria SS. del Carmelo",
+    "tipo": "esistente",
+    "stato": "attiva, chiesa sussidiaria",
+    "frazione": "Sant'Angelo in Formis",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/931397730",
+    "wikidata": "Q118764003",
+    "beweb": "18322",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=18322&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18322/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2016",
+    "immagine_fonte": "BeWeB (CEI)",
+    "note": "Il punto BeWeB è a pochi metri dal poligono OSM."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E36",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.236472,
+     41.112613
+    ]
+   },
+   "properties": {
+    "id": "E36",
+    "nome": "Cappella della Morte",
+    "tipo": "esistente",
+    "stato": "attiva, cappella sussidiaria",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/781074095",
+    "wikidata": "Q118763991",
+    "beweb": "65290",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=65290&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/65290/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2016",
+    "immagine_fonte": "BeWeB (CEI)",
+    "note": "Il punto BeWeB è a pochi metri dal poligono OSM."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E37",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.211167,
+     41.109167
+    ]
+   },
+   "properties": {
+    "id": "E37",
+    "nome": "Cappella del Corpo di Cristo (Museo diocesano)",
+    "tipo": "esistente",
+    "stato": "attiva, sede del Museo diocesano",
+    "precisione": "edificio",
+    "fonte_coord": "BeWeB",
+    "wikidata": "Q118763990",
+    "beweb": "77037",
+    "immagine_url": "https://www.beweb.chiesacattolica.it/VisualizzaImmagine.do?sercd=77037&tipo=M5&prog=1&statoinv=V&contesto=chiese",
+    "immagine_pagina": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/77037/",
+    "immagine_licenza": "CC BY-NC-SA 4.0",
+    "immagine_autore": "Rosaria Barone, 2016",
+    "immagine_fonte": "BeWeB (CEI)",
+    "note": "Fa parte del complesso del Duomo (E1); coordinate BeWeB, coincidenti con Wikidata."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E38",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.21187,
+     41.10761
+    ]
+   },
+   "properties": {
+    "id": "E38",
+    "nome": "Ave Gratia Plena",
+    "tipo": "esistente",
+    "stato": "da verificare (BeWeB: chiesa sussidiaria)",
+    "precisione": "approssimata",
+    "fonte_coord": "Wikidata",
+    "wikidata": "Q118764001",
+    "note": "Punto Wikidata presso piazza dei Giudici, coerente con l'indirizzo BeWeB (corso Appio); non verificato su OSM."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E39",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.21214,
+     41.11127
+    ]
+   },
+   "properties": {
+    "id": "E39",
+    "nome": "San Girolamo",
+    "tipo": "esistente",
+    "stato": "da verificare (BeWeB: chiesa sussidiaria)",
+    "precisione": "approssimata",
+    "fonte_coord": "Wikidata",
+    "wikidata": "Q118764008",
+    "note": "Wikidata le dà le stesse coordinate di San Raffaele (E25): la posizione esatta lungo via Roma va verificata."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E40",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.20978,
+     41.11116
+    ]
+   },
+   "properties": {
+    "id": "E40",
+    "nome": "La Santella",
+    "tipo": "esistente",
+    "stato": "da verificare (BeWeB: chiesa di confraternita)",
+    "precisione": "approssimata",
+    "fonte_coord": "Wikidata",
+    "wikidata": "Q118763994",
+    "note": "Punto Wikidata, coerente con l'indirizzo BeWeB (via Riviera Casilina); non verificato su OSM."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E41",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.225079,
+     41.102348
+    ]
+   },
+   "properties": {
+    "id": "E41",
+    "nome": "Cappella di San Cristoforo",
+    "tipo": "esistente",
+    "stato": "da verificare (BeWeB: cappella sussidiaria)",
+    "precisione": "edificio",
+    "fonte_coord": "OSM",
+    "osm_id": "way/932919295",
+    "wikidata": "Q118763992",
+    "note": "BeWeB la assegna alla parrocchia di San Roberto Bellarmino, con indirizzo via Martiri di Nassirya."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "E42",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.25093,
+     41.12211
+    ]
+   },
+   "properties": {
+    "id": "E42",
+    "nome": "Cappella Madonna della Scafa",
+    "tipo": "esistente",
+    "stato": "da verificare (BeWeB: cappella sussidiaria)",
+    "frazione": "Sant'Angelo in Formis",
+    "precisione": "approssimata",
+    "fonte_coord": "Wikidata",
+    "wikidata": "Q118763993",
+    "note": "Punto Wikidata in viale IV Novembre; non verificato su OSM."
    }
   },
   {

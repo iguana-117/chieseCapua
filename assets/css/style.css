@@ -206,6 +206,7 @@ a { color: var(--terracotta-scuro); }
   color: var(--tenue); margin: 20px 0 8px;
 }
 .scheda ul.fonti, .scheda ul.link { margin: 0; padding-left: 18px; font-size: .88rem; }
+.scheda p.nota-bibl { margin: 0 0 6px; font-size: .82rem; color: var(--tenue); }
 .scheda ul.link { list-style: none; padding: 0; display: flex; gap: 8px; flex-wrap: wrap; }
 .scheda ul.link a {
   display: inline-block; text-decoration: none;

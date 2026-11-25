@@ -11,11 +11,11 @@ Sito web per esplorare le chiese di Capua, esistenti e scomparse, su una mappa i
 | `index.html` | La pagina |
 | `assets/css/style.css` | Lo stile |
 | `assets/js/app.js` | Mappa, filtri, elenco e schede |
-| `data/chiese.geojson` | Coordinate, stato, identificativi e foto (vedi `data/README.md`) |
+| `data/chiese.geojson` | Coordinate, stato, identificativi (OSM, Wikidata, BeWeB) e foto (vedi `data/README.md`) |
 | `data/schede.json` | Storia, periodo, epoca e fonti di ogni chiesa |
 | `vendor/leaflet-1.9.4/` | Copia di Leaflet (licenza BSD-2) |
 
-Il sito unisce i due file di dati per `id` (E1–E32 per le esistenti, S1–S25 per le scomparse).
+Il sito unisce i due file di dati per `id` (E1–E43 per le esistenti, S1–S25 per le scomparse).
 
 ## Aggiornare i dati
 
@@ -43,5 +43,6 @@ In *Settings → Pages* del repository scegliere *Deploy from a branch*, ramo `m
 
 - Mappa di base e coordinate da OSM: © contributori di OpenStreetMap, [ODbL](https://opendatacommons.org/licenses/odbl/).
 - Dati Wikidata: CC0.
-- Foto: Wikimedia Commons, con autore e licenza indicati in ogni scheda.
+- Foto: Wikimedia Commons e, dove Commons non ne ha, BeWeB (foto di Rosaria Barone per il censimento CEI della diocesi di Capua, CC BY-NC-SA 4.0, uso non commerciale), con autore e licenza indicati in ogni scheda.
+- Schede CEI: [BeWeB](https://www.beweb.chiesacattolica.it) e [Chiese Italiane](https://chieseitaliane.chiesacattolica.it/chieseitaliane/index.jsp), Ufficio nazionale per i beni culturali ecclesiastici della CEI.
 - Testi delle schede: riassunti a partire dalle fonti citate in ogni scheda. Testi e immagini della mappa turistica Pro Loco non sono stati riprodotti.
