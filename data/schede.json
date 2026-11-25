@@ -219,9 +219,9 @@
       "epoca": "medioevo",
       "storia": [
         "Edificio gotico nella Giudecca, il quartiere della comunità ebraica, presente in città fino al 1540.",
-        "Non è più una chiesa, ma l'edificio esiste ancora. Il suo uso attuale non è noto."
+        "Il report la considerava sconsacrata, ma BeWeB la censisce come chiesa sussidiaria della parrocchia di Ognissanti (scheda ancora in lavorazione): l'uso attuale va verificato."
       ],
-      "fonti": ["WIT"]
+      "fonti": ["BW", "WIT"]
     },
     "E19": {
       "indirizzo": "Piazza Marconi",

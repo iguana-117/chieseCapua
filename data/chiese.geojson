@@ -467,9 +467,9 @@
    },
    "properties": {
     "id": "E18",
-    "nome": "San Martino alla Giudea (ex)",
+    "nome": "San Martino alla Giudea",
     "tipo": "esistente",
-    "stato": "sconsacrata, uso ignoto",
+    "stato": "da verificare (BeWeB: chiesa sussidiaria)",
     "precisione": "edificio",
     "fonte_coord": "Wikidata",
     "wikidata": "Q118764011",
