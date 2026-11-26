@@ -1,5 +1,5 @@
 {
-  "_info": "Testi delle schede, scritti a partire dal report 'Chiese di Capua esistenti e scomparse' (novembre 2026) e aggiornati con le schede CEI di BeWeB e Chiese Italiane. Le coordinate e le foto stanno in chiese.geojson; qui ci sono storia, periodo e fonti, collegati per id. Le voci senza coordinate (chiese scomparse non localizzate) compaiono solo nell'elenco.",
+  "_info": "Testi delle schede, scritti a partire dal report 'Chiese di Capua esistenti e scomparse' (novembre 2026) e aggiornati con le schede CEI di BeWeB e Chiese Italiane e con le schede «Capua sacra» di Capua il Luogo della Lingua. Le coordinate e le foto stanno in chiese.geojson; qui ci sono storia, periodo e fonti, collegati per id. Le voci senza coordinate (chiese scomparse non localizzate) compaiono solo nell'elenco.",
   "epoche": {
     "altomedioevo": "Longobarda e normanna (IX–XI sec.)",
     "medioevo": "Medievale (XII–XV sec.)",

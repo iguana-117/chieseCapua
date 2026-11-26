@@ -45,4 +45,5 @@ In *Settings → Pages* del repository scegliere *Deploy from a branch*, ramo `m
 - Dati Wikidata: CC0.
 - Foto: Wikimedia Commons e, dove Commons non ne ha, BeWeB (foto di Rosaria Barone per il censimento CEI della diocesi di Capua, CC BY-NC-SA 4.0, uso non commerciale), con autore e licenza indicati in ogni scheda.
 - Schede CEI: [BeWeB](https://www.beweb.chiesacattolica.it) e [Chiese Italiane](https://chieseitaliane.chiesacattolica.it/chieseitaliane/index.jsp), Ufficio nazionale per i beni culturali ecclesiastici della CEI.
+- Schede «[Capua sacra](https://www.capuailluogodellalingua.it/capua-sacra/)» del festival Capua il Luogo della Lingua (associazione Architempo), con due articoli dello stesso sito: notizie storiche riassunte e citate scheda per scheda, senza riprodurne testi o foto.
 - Testi delle schede: riassunti a partire dalle fonti citate in ogni scheda. Testi e immagini della mappa turistica Pro Loco non sono stati riprodotti.
