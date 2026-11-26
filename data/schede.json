@@ -26,7 +26,10 @@
     "FSA2": { "nome": "Finestre sull'Arte, appello per Sant'Angelo in Formis (2018)", "url": "https://www.finestresullarte.info/attualita/touring-club-appello-per-sant-angelo-in-formis" },
     "IT": { "nome": "italia.it, Basilica di Sant'Angelo in Formis", "url": "https://www.italia.it/it/campania/capua/basilica-di-s-angelo-in-formis" },
     "BW": { "nome": "BeWeB, censimento CEI dei beni architettonici della diocesi di Capua", "url": "https://www.beweb.chiesacattolica.it/UI/page.jsp?action=ricerca/risultati&view=elenco&locale=it&ambito=CEIA&liberaluogo=capua&dominio=2&localizzazione=civile&comune=CAPUA" },
-    "CI": { "nome": "Chiese Italiane (CEI), diocesi di Capua", "url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/index.jsp" }
+    "CI": { "nome": "Chiese Italiane (CEI), diocesi di Capua", "url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/index.jsp" },
+    "CS": { "nome": "Capua il Luogo della Lingua, «Capua sacra» (schede delle chiese)", "url": "https://www.capuailluogodellalingua.it/capua-sacra/" },
+    "CSE": { "nome": "D. De Rosa, «Capua: Sant'Eligio chiesa e “cimiterium”», Capua il Luogo della Lingua (2021)", "url": "https://www.capuailluogodellalingua.it/2021/09/28/capua-santeligio-chiesa-e-cimiterium/" },
+    "CST": { "nome": "Capua il Luogo della Lingua, «Passeggiata in riviera sul Volturno con il Touring Club» (2021)", "url": "https://www.capuailluogodellalingua.it/2021/09/03/capua-passeggiata-in-riviera-sul-volturno-con-il-touring-club/" }
   },
   "schede": {
     "E1": {
