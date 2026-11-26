@@ -328,9 +328,11 @@
       "epoca": "eta_moderna",
       "storia": [
         "È l'ampliamento settecentesco di una cappella che ricordava il sacco di Capua del 1501.",
-        "Il report ipotizzava che fosse la «Santella» del 1761 citata da Wikipedia, ma BeWeB censisce la Santella come chiesa distinta, in via Riviera Casilina."
+        "Secondo il Granata, ripreso da Capua sacra, in origine c'era una piccola cappella con un'immagine della Vergine all'ingresso della Porta Grande, circondata da case. In una abitava una donna molto devota, Camilla Santella, da cui la chiesa ha preso il nome popolare di «la Santella». Durante il sacco del 1501 la Vergine avrebbe fatto cessare la strage, e i cittadini ampliarono la chiesa per ringraziamento. Nel 1556 la primitiva chiesa, detta di Santa Maria della Pietà, divenne grancia dell'Annunziata.",
+        "L'edificio attuale è settecentesco: una pianta centrale con tre cappelle e un'alta cupola con falso lanternino, raro a Capua. Gli stucchi, affini a quelli del cappellone di San Paride nella cattedrale di Teano, fanno pensare ad allievi di Domenico Antonio Vaccaro, che potrebbero averne completato il progetto dopo la sua morte (1745).",
+        "Capua sacra la chiama «Santa Maria delle Grazie, vulgo la Santella», e l'itinerario del Touring Club pubblicato sullo stesso sito la colloca accanto al fiume, vicino al ponte romano e di fronte a Montevergine: è la posizione di questo edificio. BeWeB ha una scheda separata, «La Santella» in via Riviera Casilina (E40), che è probabilmente la stessa chiesa."
       ],
-      "fonti": ["BW", "TC", "WIT"]
+      "fonti": ["BW", "TC", "WIT", "CS", "CST"]
     },
     "E25": {
       "indirizzo": "Via Roma",
@@ -530,9 +532,10 @@
       "epoca": "ignota",
       "storia": [
         "Chiesa della confraternita della Santella, la stessa che nel Cinquecento fece costruire la Cappella della Morte in ricordo del sacco del 1501. La scheda BeWeB è ancora in lavorazione: per ora ne dà solo il tipo, l'indirizzo e la parrocchia.",
-        "BeWeB la distingue da Santa Maria delle Grazie, con cui il report ipotizzava che coincidesse: sono due chiese diverse."
+        "BeWeB la elenca separatamente da Santa Maria delle Grazie (E24), ma Capua sacra e l'itinerario del Touring Club danno i due nomi alla stessa chiesa, accanto al fiume e di fronte a Montevergine, dove via Riviera Casilina incontra via Conte Landone. Probabilmente è una sola chiesa censita due volte.",
+        "Il punto Wikidata è circa 120 m più a nord-ovest, dove OpenStreetMap non ha nessun edificio di culto."
       ],
-      "fonti": ["BW"]
+      "fonti": ["BW", "CS", "CST"]
     },
     "E41": {
       "indirizzo": "Via Martiri di Nassirya",
