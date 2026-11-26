@@ -84,9 +84,10 @@
       "storia": [
         "È la terza delle cappelle palatine accanto al palazzo dei principi.",
         "Il rifacimento settecentesco ha cancellato gran parte dell'aspetto medievale, e per questo le fonti la datano in modo diverso, tra il X e la fine dell'XI secolo.",
+        "Secondo Capua sacra la chiesa è orientata al contrario rispetto alla pianta originaria, come mostra la piccola abside della cripta. Lì si venerava san Sebastiano, le cui reliquie furono poi portate nel Duomo. La cripta, un ampio salone voltato, conserva la struttura del IX secolo e resti di affreschi.",
         "Secondo la tradizione riportata da BeWeB era dedicata a san Giovanni Battista; un capitello del IX secolo è conservato in sacrestia, e frammenti di una transenna longobarda trovati qui sono al Museo Campano. Ha una tempera del 1644 con Cristo alla fontana."
       ],
-      "fonti": ["TC", "WIT", "TCI", "BW"]
+      "fonti": ["TC", "WIT", "TCI", "BW", "CS"]
     },
     "E5": {
       "indirizzo": "Via Gran Priorato di Malta",
