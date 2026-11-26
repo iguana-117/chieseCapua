@@ -597,13 +597,15 @@
     },
     "S4": {
       "indirizzo": "Palazzo Antignano (Museo Campano), lato via Roma",
-      "periodo": "X secolo; distrutta nel 1594",
+      "periodo": "X secolo; sconsacrata nel 1594",
       "epoca": "altomedioevo",
       "storia": [
-        "Chiesa del X secolo distrutta nel 1594 e in parte inglobata in Palazzo Antignano, oggi sede del Museo Campano.",
-        "Su via Roma si vedono ancora archi acuti tamponati e tre fusti di colonna."
+        "Chiesa rettoria di fondazione longobarda (X secolo). Fu sconsacrata nel 1594 e incorporata nell'ampliamento di Palazzo Antignano, oggi sede del Museo Campano.",
+        "Le fonti consultate prima la davano per distrutta, ma secondo Capua sacra l'aula, un tempo affrescata, si conserva ancora a destra dell'Arco Antignano e ospita materiali del museo.",
+        "Su via Roma si vedono ancora archi acuti tamponati e tre fusti di colonna.",
+        "Nel 1340, secondo Capua sacra, i beni della chiesa erano tenuti in fitto dal Boccaccio."
       ],
-      "fonti": ["A", "R"]
+      "fonti": ["A", "R", "CS"]
     },
     "S5": {
       "indirizzo": "Via Pier delle Vigne",

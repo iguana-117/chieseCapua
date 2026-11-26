@@ -1142,13 +1142,13 @@
    "properties": {
     "id": "S4",
     "nome": "San Lorenzo ad Crucem",
-    "tipo": "scomparsa",
-    "stato": "scomparsa, resti nel palazzo",
+    "tipo": "esistente",
+    "stato": "sconsacrata, inglobata nel Museo Campano",
     "precisione": "approssimata",
     "fonte_coord": "OSM (Museo Campano)",
     "osm_id": "node/11307724021",
     "mappa_proloco_n": "24",
-    "note": "Resti inglobati in Palazzo Antignano, oggi Museo Campano, sul lato di via Roma. Il punto è quello del museo."
+    "note": "Sconsacrata nel 1594. L'aula è inglobata in Palazzo Antignano, oggi Museo Campano, a destra dell'Arco Antignano (Capua sacra). Il punto è quello del museo."
    }
   },
   {
