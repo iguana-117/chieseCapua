@@ -114,14 +114,15 @@
     },
     "E7": {
       "indirizzo": "Via Andreozzi",
-      "periodo": "età longobarda; inglobata in un edificio civile nel XVIII o XIX secolo",
+      "periodo": "età longobarda; tre navate del XII secolo, portico e campanile del XIII; sconsacrata nel 1790",
       "epoca": "altomedioevo",
       "storia": [
-        "Piccola fondazione longobarda, abbandonata come luogo di culto e assorbita in un edificio civile.",
-        "Fu restaurata nel 1948 ed è di nuovo in restauro. I suoi fregi altomedievali sono conservati al Museo Campano.",
+        "Fondazione longobarda della famiglia Audoaldis, da cui il nome, fuori dalle mura del primo nucleo cittadino; entrò nell'abitato con l'ampliamento normanno delle mura. Era dedicata all'arcangelo Michele.",
+        "L'impianto a tre navate è del XII secolo, il portico a quattro arcate e il campanile del secolo successivo; il portale centrale, romanico, conserva il distico dedicatorio. Sconsacrata nel 1790, fu inglobata in un edificio civile dopo il 1860.",
+        "I lavori del 1948–68 hanno tolto le aggiunte successive e rimesso in vista il pavimento in tessere marmoree policrome, un frammento di affresco nell'abside e due capitelli accanto al portale. È di nuovo in restauro; i suoi fregi altomedievali sono conservati al Museo Campano.",
         "BeWeB la elenca ancora tra gli edifici di culto della diocesi, come chiesa vescovile (scheda in lavorazione)."
       ],
-      "fonti": ["TC", "WIT", "BW"]
+      "fonti": ["TC", "WIT", "BW", "CS"]
     },
     "E8": {
       "indirizzo": "Tra via Seminario e piazza San Roberto Bellarmino",
