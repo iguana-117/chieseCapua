@@ -200,9 +200,10 @@
       "epoca": "medioevo",
       "storia": [
         "La tradizione lega la fondazione alla visita di san Tommaso d'Aquino, nella seconda metà del Duecento.",
-        "Fu rifatta in forme barocche. Il monastero annesso fu distrutto dai bombardamenti del 1943."
+        "Fu rifatta in forme barocche. Il monastero annesso fu distrutto dai bombardamenti del 1943.",
+        "Dall'inizio dell'Ottocento al 1947 rimase in grave degrado. Sorge al limite sud dell'area del palazzo dei principi longobardi: il campanile era con buona probabilità una delle quattro torri angolari del palazzo."
       ],
-      "fonti": ["TC", "WIT"]
+      "fonti": ["TC", "WIT", "CS"]
     },
     "E14": {
       "indirizzo": "Via Seminario",
