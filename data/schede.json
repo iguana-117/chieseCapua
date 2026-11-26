@@ -245,10 +245,12 @@
       "epoca": "medioevo",
       "storia": [
         "Chiesa gotica della fine del Trecento, con un chiostro quattro- o cinquecentesco.",
-        "Fu rifatta nel 1510; facciata e campanile sono del Settecento.",
-        "Secondo lo storico settecentesco Granata sorge sul sito della scomparsa chiesa di San Silvestro."
+        "Secondo Capua sacra fu costruita con il convento nel 1383, al posto della chiesa di San Nicola ad Flumen, nel luogo detto della Limata, e nel 1420 passò ai Francescani. Di questa fase restano strutture angioine nel presbiterio e l'abside poligonale, simile a quella di Donnaregina Vecchia a Napoli.",
+        "Fu rifatta nel 1510: si aggiunsero le navate laterali e il chiostro prese la forma attuale, con ventidue colonne doriche su piedistalli che portano gli stemmi delle famiglie finanziatrici. Facciata e campanile sono del Settecento.",
+        "Secondo lo storico settecentesco Granata sorge sul sito della scomparsa chiesa di San Silvestro; Capua sacra nomina invece San Nicola ad Flumen.",
+        "Il monastero è oggi in gran parte un collegio femminile, una delle poche comunità religiose ancora attive in città."
       ],
-      "fonti": ["TC", "WIT", "B"]
+      "fonti": ["TC", "WIT", "B", "CS"]
     },
     "E18": {
       "indirizzo": "Via San Martino alla Giudea",
