@@ -519,12 +519,13 @@
     },
     "E39": {
       "indirizzo": "Via Roma",
-      "periodo": "data non nota",
-      "epoca": "ignota",
+      "periodo": "impianto longobardo; dedicata a san Girolamo dopo il 1627",
+      "epoca": "altomedioevo",
       "storia": [
-        "Chiesa sussidiaria della parrocchia di Ognissanti. La scheda BeWeB è ancora in lavorazione: per ora ne dà solo il tipo, l'indirizzo e la parrocchia."
+        "Chiesa sussidiaria della parrocchia di Ognissanti. La scheda BeWeB è ancora in lavorazione: per ora ne dà solo il tipo, l'indirizzo e la parrocchia.",
+        "Capua sacra la descrive come l'antica parrocchia dei Santi Nazario e Celso, di impianto longobardo, dedicata a san Girolamo quando fu annessa al vicino convento benedettino fondato nel 1627 da Lelio De Tommasi. Capua sacra non dà l'indirizzo: che sia la San Girolamo di via Roma censita da BeWeB è probabile ma va confermato."
       ],
-      "fonti": ["BW"]
+      "fonti": ["BW", "CS"]
     },
     "E40": {
       "indirizzo": "Via Riviera Casilina",
