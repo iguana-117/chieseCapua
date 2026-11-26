@@ -306,9 +306,10 @@
       "epoca": "eta_moderna",
       "storia": [
         "Chiesa di forma settecentesca. Il monastero annesso fu unito al Museo Campano nel 1940.",
+        "Le era annesso un conservatorio, accanto al palazzo dei duchi di San Cipriano e al Seggio di Antignano. La facciata a due ordini ha nicchie con statue di Virtù del tardo Settecento; gli stucchi del presbiterio ricordano i modi di Domenico Antonio Vaccaro.",
         "È sede della parrocchia di Ognissanti."
       ],
-      "fonti": ["TC", "WIT", "BW"]
+      "fonti": ["TC", "WIT", "BW", "CS"]
     },
     "E22": {
       "indirizzo": "Via Seggio dei Cavalieri",
