@@ -252,13 +252,14 @@
     },
     "E18": {
       "indirizzo": "Via San Martino alla Giudea",
-      "periodo": "fine XIV secolo",
+      "periodo": "fine XIV secolo (fondazione nel VI secolo secondo Capua sacra)",
       "epoca": "medioevo",
       "storia": [
         "Edificio gotico nella Giudecca, il quartiere della comunità ebraica, presente in città fino al 1540.",
+        "Capua sacra la dice invece fondata nel VI secolo, tre secoli prima della città longobarda, quando c'era ancora il borgo di Casilinum; il quartiere fu abitato dagli ebrei dall'età longobarda fino alla metà circa del Cinquecento. Le fonti non conciliano le due date: l'edificio gotico potrebbe essere il rifacimento di una chiesa più antica.",
         "Il report la considerava sconsacrata, ma BeWeB la censisce come chiesa sussidiaria della parrocchia di Ognissanti (scheda ancora in lavorazione): l'uso attuale va verificato."
       ],
-      "fonti": ["BW", "WIT"]
+      "fonti": ["BW", "WIT", "CS"]
     },
     "E19": {
       "indirizzo": "Piazza Marconi",
