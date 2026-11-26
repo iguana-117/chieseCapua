@@ -91,14 +91,15 @@
     },
     "E5": {
       "indirizzo": "Via Gran Priorato di Malta",
-      "periodo": "IX secolo (851 secondo la tradizione); ricostruita nell'Ottocento",
+      "periodo": "IX secolo (841 o 851 secondo le fonti); ricostruita entro il 1859",
       "epoca": "altomedioevo",
       "storia": [
-        "La tradizione la data all'851, il che ne farebbe una delle prime fondazioni della Capua longobarda; Wikipedia si limita a «origini anteriori al X secolo».",
-        "Fu ricostruita nell'Ottocento. L'altare è ricavato da un sarcofago romano.",
+        "La tradizione la data all'851, il che ne farebbe una delle prime fondazioni della Capua longobarda; Wikipedia si limita a «origini anteriori al X secolo». Capua sacra indica invece l'841.",
+        "In età normanna una delle tre navate fu eliminata per prolungare la strada. Distrutta a metà Ottocento, nel 1859 aveva già la forma attuale a navata unica. L'altare è ricavato da un sarcofago romano.",
+        "Il portale laterale longobardo ha una lunetta affrescata con la Vergine e i santi Stefano e Lorenzo e stipiti scolpiti nel XII secolo con il sacrificio di Isacco e le storie di Sansone; l'architrave, del VII secolo, viene dal sarcofago di Audoaldo, conte di Capua antica.",
         "Un racconto locale vi ambienta l'uccisione del principe Landenolfo, nel 991 o nel 993."
       ],
-      "fonti": ["TC", "WIT", "V"]
+      "fonti": ["TC", "WIT", "V", "CS"]
     },
     "E6": {
       "indirizzo": "Via Gran Priorato di Malta",
