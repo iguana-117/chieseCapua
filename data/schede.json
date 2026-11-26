@@ -179,14 +179,15 @@
     },
     "E12": {
       "indirizzo": "Piazza dei Giudici",
-      "periodo": "1284/86–1296; campanile del Cinquecento; rifacimento barocco del Settecento",
+      "periodo": "1284–1296; campanile del 1514–24; rifatta nel 1732–47",
       "epoca": "medioevo",
       "storia": [
-        "Nacque alla fine del Duecento come chiesa e ospedale angioino, sul sito della più antica chiesa di Sant'Erasmo.",
-        "Ebbe un campanile nel Cinquecento e un rifacimento barocco in travertino nel Settecento, opera di G. B. Landini.",
+        "Fu fondata tra il 1284 e il 1296 con l'ospedale dei Pellegrini, accanto a una delle porte principali della città, detta dei Capuani e poi di Sant'Eligio, sul sito della più antica chiesa di Sant'Erasmo. Un'iscrizione del 1296 nomina Andrea di Caiazzo amministratore della fabbrica per la confraternita, che raccolse le elemosine; i lavori furono probabilmente promossi dal governo cittadino con il contributo dei re angioini.",
+        "Il campanile fu costruito probabilmente tra il 1514 e il 1524; ne restano parti nella facciata su via Mazzocchi, il cui disegno è stato attribuito a Giuliano da Maiano. Nel 1574 la chiesa passò ai Teatini.",
+        "Il rifacimento barocco in travertino, opera di G. B. Landini, durò dal 1732 al 1747. Dentro ci sono due organi pensili, l'altare maggiore in commesso marmoreo del secondo Settecento e una pala di scuola di Solimena con l'Immacolata tra i santi Eligio e Carlo Borromeo. Sotto il pavimento c'era un cimitero per i cittadini.",
         "Il convento dei Teatini ospita oggi i Carabinieri. La Madonna lignea di Pietro e Giovanni Alemanno, che le apparteneva, è nel Duomo ed è stata restaurata nel 2026."
       ],
-      "fonti": ["TC", "WIT", "FSA"]
+      "fonti": ["TC", "WIT", "FSA", "CS", "CSE"]
     },
     "E13": {
       "indirizzo": "Piazza San Tommaso d'Aquino",
@@ -773,7 +774,7 @@
       "periodo": "precedente al 1284",
       "epoca": "medioevo",
       "storia": ["Chiesa dedicata a sant'Erasmo di Formia, sul cui sito sorse alla fine del Duecento Sant'Eligio."],
-      "fonti": ["WIT"]
+      "fonti": ["WIT", "CSE"]
     },
     "S24": {
       "nome": "San Nicola alla Giudecca",
