@@ -631,7 +631,7 @@
    },
    "properties": {
     "id": "E24",
-    "nome": "Santa Maria delle Grazie",
+    "nome": "Santa Maria delle Grazie (la Santella)",
     "tipo": "esistente",
     "stato": "attiva, visitabile su richiesta",
     "precisione": "edificio",
@@ -1034,7 +1034,7 @@
    },
    "properties": {
     "id": "E39",
-    "nome": "San Girolamo",
+    "nome": "San Girolamo (già Santi Nazario e Celso)",
     "tipo": "esistente",
     "stato": "da verificare (BeWeB: chiesa sussidiaria)",
     "precisione": "approssimata",
@@ -1057,11 +1057,11 @@
     "id": "E40",
     "nome": "La Santella",
     "tipo": "esistente",
-    "stato": "da verificare (BeWeB: chiesa di confraternita)",
+    "stato": "da verificare (probabilmente è Santa Maria delle Grazie, E24)",
     "precisione": "approssimata",
     "fonte_coord": "Wikidata",
     "wikidata": "Q118763994",
-    "note": "Punto Wikidata, coerente con l'indirizzo BeWeB (via Riviera Casilina); non verificato su OSM."
+    "note": "Punto Wikidata in via Riviera Casilina, circa 120 m a nord-ovest di Santa Maria delle Grazie (E24); OSM non ha edifici di culto in quel punto."
    }
   },
   {
@@ -1142,13 +1142,13 @@
    "properties": {
     "id": "S4",
     "nome": "San Lorenzo ad Crucem",
-    "tipo": "scomparsa",
-    "stato": "scomparsa, resti nel palazzo",
+    "tipo": "esistente",
+    "stato": "sconsacrata, inglobata nel Museo Campano",
     "precisione": "approssimata",
     "fonte_coord": "OSM (Museo Campano)",
     "osm_id": "node/11307724021",
     "mappa_proloco_n": "24",
-    "note": "Resti inglobati in Palazzo Antignano, oggi Museo Campano, sul lato di via Roma. Il punto è quello del museo."
+    "note": "Sconsacrata nel 1594. L'aula è inglobata in Palazzo Antignano, oggi Museo Campano, a destra dell'Arco Antignano (Capua sacra). Il punto è quello del museo."
    }
   },
   {

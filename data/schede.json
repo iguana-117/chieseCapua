@@ -1,5 +1,5 @@
 {
-  "_info": "Testi delle schede, scritti a partire dal report 'Chiese di Capua esistenti e scomparse' (novembre 2026) e aggiornati con le schede CEI di BeWeB e Chiese Italiane. Le coordinate e le foto stanno in chiese.geojson; qui ci sono storia, periodo e fonti, collegati per id. Le voci senza coordinate (chiese scomparse non localizzate) compaiono solo nell'elenco.",
+  "_info": "Testi delle schede, scritti a partire dal report 'Chiese di Capua esistenti e scomparse' (novembre 2026) e aggiornati con le schede CEI di BeWeB e Chiese Italiane e con le schede «Capua sacra» di Capua il Luogo della Lingua. Le coordinate e le foto stanno in chiese.geojson; qui ci sono storia, periodo e fonti, collegati per id. Le voci senza coordinate (chiese scomparse non localizzate) compaiono solo nell'elenco.",
   "epoche": {
     "altomedioevo": "Longobarda e normanna (IX–XI sec.)",
     "medioevo": "Medievale (XII–XV sec.)",
@@ -26,7 +26,10 @@
     "FSA2": { "nome": "Finestre sull'Arte, appello per Sant'Angelo in Formis (2018)", "url": "https://www.finestresullarte.info/attualita/touring-club-appello-per-sant-angelo-in-formis" },
     "IT": { "nome": "italia.it, Basilica di Sant'Angelo in Formis", "url": "https://www.italia.it/it/campania/capua/basilica-di-s-angelo-in-formis" },
     "BW": { "nome": "BeWeB, censimento CEI dei beni architettonici della diocesi di Capua", "url": "https://www.beweb.chiesacattolica.it/UI/page.jsp?action=ricerca/risultati&view=elenco&locale=it&ambito=CEIA&liberaluogo=capua&dominio=2&localizzazione=civile&comune=CAPUA" },
-    "CI": { "nome": "Chiese Italiane (CEI), diocesi di Capua", "url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/index.jsp" }
+    "CI": { "nome": "Chiese Italiane (CEI), diocesi di Capua", "url": "https://chieseitaliane.chiesacattolica.it/chieseitaliane/index.jsp" },
+    "CS": { "nome": "Capua il Luogo della Lingua, «Capua sacra» (schede delle chiese)", "url": "https://www.capuailluogodellalingua.it/capua-sacra/" },
+    "CSE": { "nome": "D. De Rosa, «Capua: Sant'Eligio chiesa e “cimiterium”», Capua il Luogo della Lingua (2021)", "url": "https://www.capuailluogodellalingua.it/2021/09/28/capua-santeligio-chiesa-e-cimiterium/" },
+    "CST": { "nome": "Capua il Luogo della Lingua, «Passeggiata in riviera sul Volturno con il Touring Club» (2021)", "url": "https://www.capuailluogodellalingua.it/2021/09/03/capua-passeggiata-in-riviera-sul-volturno-con-il-touring-club/" }
   },
   "schede": {
     "E1": {
@@ -37,10 +40,11 @@
         "Secondo la tradizione la fondò nell'856 il vescovo Landulfo, quando la città si trasferì sull'ansa del Volturno. In origine era dedicata ai santi Stefano e Agata.",
         "Fu rifatta nel X secolo e di nuovo alla fine dell'XI sotto l'arcivescovo Erveo; seguirono un rinnovamento settecentesco e i lavori di Federico Travaglini (1854–57).",
         "Papa Giovanni XIII la consacrò nel 966, quando Capua divenne sede metropolitana; fu riconsacrata nel 1255 da Alessandro IV e nel 1724, dopo il restauro del cardinale Niccolò Caracciolo.",
+        "Il campanile fu elevato nell'861, rifatto in età normanna e consolidato dopo il terremoto del 1456; è monumento nazionale dal 1873. Nella cripta l'arcivescovo Cinzio della Pigna costruì nel 1288 un tempietto simile al Santo Sepolcro di Gerusalemme, e tra il 1489 e il 1491 Giordano Caetani fece erigere la Torre di San Paolino per custodire il tesoro.",
         "Il bombardamento del 9 settembre 1943 la distrusse quasi del tutto. La ricostruzione del 1949–57 ha conservato il quadriportico, le colonne antiche e il campanile medievale.",
         "Custodisce l'Assunta di Solimena e, nella cripta, il Cristo morto di Matteo Bottiglieri. È basilica minore dal 1827 e sede del Museo diocesano dal 1992."
       ],
-      "fonti": ["WEN", "WIT", "TC", "GC", "BW"],
+      "fonti": ["WEN", "WIT", "TC", "GC", "BW", "CS"],
       "bibliografia": [
         "G. Jannelli, Sacra guida ovvero descrizione storica artistica letteraria della chiesa cattedrale di Capua, Stab. tip. G. Gioja, 1858, p. 14",
         "F. Granata, Storia sacra della Chiesa metropolitana di Capua, Stamperia Simoniana, Napoli 1766"
@@ -64,10 +68,11 @@
       "epoca": "altomedioevo",
       "storia": [
         "Detta «Cappella dei Principi», era la cappella privata della corte longobarda, dedicata all'Arcangelo Michele, patrono dei Longobardi.",
+        "Nel 1121 un diploma del principe Giordano II la chiama ancora «Cappella Nostra».",
         "Il catalogo ministeriale la classifica come chiesa parrocchiale e la data tra la seconda metà del IX e la metà del X secolo.",
         "Nella cripta, raggiungibile da due scalette laterali, nel 1871 e nel 1876 furono scoperte tracce di affreschi del IX–X secolo, oggi quasi del tutto perdute. La chiesa è stata restaurata nel 2010."
       ],
-      "fonti": ["MiC", "TC", "WIT", "BW"],
+      "fonti": ["MiC", "TC", "WIT", "BW", "CS"],
       "bibliografia": [
         "Arcidiocesi di Capua, Indirizzario della Chiesa di Capua, 2018, p. 11"
       ]
@@ -79,20 +84,22 @@
       "storia": [
         "È la terza delle cappelle palatine accanto al palazzo dei principi.",
         "Il rifacimento settecentesco ha cancellato gran parte dell'aspetto medievale, e per questo le fonti la datano in modo diverso, tra il X e la fine dell'XI secolo.",
+        "Secondo Capua sacra la chiesa è orientata al contrario rispetto alla pianta originaria, come mostra la piccola abside della cripta. Lì si venerava san Sebastiano, le cui reliquie furono poi portate nel Duomo. La cripta, un ampio salone voltato, conserva la struttura del IX secolo e resti di affreschi.",
         "Secondo la tradizione riportata da BeWeB era dedicata a san Giovanni Battista; un capitello del IX secolo è conservato in sacrestia, e frammenti di una transenna longobarda trovati qui sono al Museo Campano. Ha una tempera del 1644 con Cristo alla fontana."
       ],
-      "fonti": ["TC", "WIT", "TCI", "BW"]
+      "fonti": ["TC", "WIT", "TCI", "BW", "CS"]
     },
     "E5": {
       "indirizzo": "Via Gran Priorato di Malta",
-      "periodo": "IX secolo (851 secondo la tradizione); ricostruita nell'Ottocento",
+      "periodo": "IX secolo (841 o 851 secondo le fonti); ricostruita entro il 1859",
       "epoca": "altomedioevo",
       "storia": [
-        "La tradizione la data all'851, il che ne farebbe una delle prime fondazioni della Capua longobarda; Wikipedia si limita a «origini anteriori al X secolo».",
-        "Fu ricostruita nell'Ottocento. L'altare è ricavato da un sarcofago romano.",
+        "La tradizione la data all'851, il che ne farebbe una delle prime fondazioni della Capua longobarda; Wikipedia si limita a «origini anteriori al X secolo». Capua sacra indica invece l'841.",
+        "In età normanna una delle tre navate fu eliminata per prolungare la strada. Distrutta a metà Ottocento, nel 1859 aveva già la forma attuale a navata unica. L'altare è ricavato da un sarcofago romano.",
+        "Il portale laterale longobardo ha una lunetta affrescata con la Vergine e i santi Stefano e Lorenzo e stipiti scolpiti nel XII secolo con il sacrificio di Isacco e le storie di Sansone; l'architrave, del VII secolo, viene dal sarcofago di Audoaldo, conte di Capua antica.",
         "Un racconto locale vi ambienta l'uccisione del principe Landenolfo, nel 991 o nel 993."
       ],
-      "fonti": ["TC", "WIT", "V"]
+      "fonti": ["TC", "WIT", "V", "CS"]
     },
     "E6": {
       "indirizzo": "Via Gran Priorato di Malta",
@@ -101,24 +108,25 @@
       "storia": [
         "Chiesa di impianto longobardo, datata al X secolo o alla prima metà dell'XI a seconda delle fonti.",
         "In età normanna i Benedettini aggiunsero il campanile e due absidi; fu restaurata all'inizio del Settecento.",
-        "Come a San Marcello, l'altare è un sarcofago romano.",
-        "Fu donata a Montecassino nel 1053. I restauri del 1910 hanno liberato le colonne e ripristinato la copertura a capriate; quelli del 1970 hanno ritrovato le basi delle absidi laterali benedettine, demolite nel Settecento."
+        "Come a San Marcello, l'altare è un sarcofago romano, che prima stava nel cortile di San Marcello. Il restauro del 1641 aggiunse sedici nicchie per le reliquie dei martiri capuani, trovate sotto l'altare maggiore.",
+        "Fu donata a Montecassino nel 1053, l'anno in cui Capua sacra ne pone la fondazione. I restauri del 1910 hanno liberato le colonne e ripristinato la copertura a capriate; quelli del 1970 hanno ritrovato le basi delle absidi laterali benedettine, demolite nel Settecento."
       ],
-      "fonti": ["TC", "WIT", "BW"],
+      "fonti": ["TC", "WIT", "BW", "CS"],
       "bibliografia": [
         "G. Pane, A. Filangieri, Capua. Architettura e arte. Catalogo delle opere, Arti grafiche Salafia, 1990"
       ]
     },
     "E7": {
       "indirizzo": "Via Andreozzi",
-      "periodo": "età longobarda; inglobata in un edificio civile nel XVIII o XIX secolo",
+      "periodo": "età longobarda; tre navate del XII secolo, portico e campanile del XIII; sconsacrata nel 1790",
       "epoca": "altomedioevo",
       "storia": [
-        "Piccola fondazione longobarda, abbandonata come luogo di culto e assorbita in un edificio civile.",
-        "Fu restaurata nel 1948 ed è di nuovo in restauro. I suoi fregi altomedievali sono conservati al Museo Campano.",
+        "Fondazione longobarda della famiglia Audoaldis, da cui il nome, fuori dalle mura del primo nucleo cittadino; entrò nell'abitato con l'ampliamento normanno delle mura. Era dedicata all'arcangelo Michele.",
+        "L'impianto a tre navate è del XII secolo, il portico a quattro arcate e il campanile del secolo successivo; il portale centrale, romanico, conserva il distico dedicatorio. Sconsacrata nel 1790, fu inglobata in un edificio civile dopo il 1860.",
+        "I lavori del 1948–68 hanno tolto le aggiunte successive e rimesso in vista il pavimento in tessere marmoree policrome, un frammento di affresco nell'abside e due capitelli accanto al portale. È di nuovo in restauro; i suoi fregi altomedievali sono conservati al Museo Campano.",
         "BeWeB la elenca ancora tra gli edifici di culto della diocesi, come chiesa vescovile (scheda in lavorazione)."
       ],
-      "fonti": ["TC", "WIT", "BW"]
+      "fonti": ["TC", "WIT", "BW", "CS"]
     },
     "E8": {
       "indirizzo": "Tra via Seminario e piazza San Roberto Bellarmino",
@@ -164,10 +172,11 @@
       "storia": [
         "Un'epigrafe riportata dal Granata data la fondazione della chiesa e del monastero benedettino al 1084, per opera dell'abate Desiderio di Montecassino. La chiesa fu ricostruita e consacrata nel 1108.",
         "Divenuta abbazia commendataria nel Duecento, fu rifatta quasi del tutto dal 1602 e affidata nel 1612 ai Gesuiti, chiamati dal cardinale Roberto Bellarmino. Dopo un lungo abbandono fu riaperta nel 1904 e dedicata all'Immacolata; dal 1940 al 1987 fu affidata ai Cappuccini.",
+        "Capua sacra ne attribuisce invece la fondazione, nell'XI secolo, all'abate Giovanni della comunità di Cassino. Aggiunge che i Gesuiti la dedicarono ai santi Ignazio di Loyola e Francesco Saverio e la tennero fino al 1767, e che i Cappuccini la riaprirono al culto nel 1905.",
         "BeWeB e il catalogo SIGEC la identificano con l'attuale parrocchia dei Santi Filippo e Giacomo.",
         "Il suo coro ligneo del 1519 si trova oggi nella chiesa dell'Annunziata."
       ],
-      "fonti": ["BW", "WIT", "CG"],
+      "fonti": ["BW", "WIT", "CG", "CS"],
       "bibliografia": [
         "Arcidiocesi di Capua, Annuario della Chiesa di Capua, 1989, p. 141",
         "G. Pane, A. Filangieri, Capua. Architettura e arte. Catalogo delle opere, Arti grafiche Salafia, 1990"
@@ -175,14 +184,15 @@
     },
     "E12": {
       "indirizzo": "Piazza dei Giudici",
-      "periodo": "1284/86–1296; campanile del Cinquecento; rifacimento barocco del Settecento",
+      "periodo": "1284–1296; campanile del 1514–24; rifatta nel 1732–47",
       "epoca": "medioevo",
       "storia": [
-        "Nacque alla fine del Duecento come chiesa e ospedale angioino, sul sito della più antica chiesa di Sant'Erasmo.",
-        "Ebbe un campanile nel Cinquecento e un rifacimento barocco in travertino nel Settecento, opera di G. B. Landini.",
+        "Fu fondata tra il 1284 e il 1296 con l'ospedale dei Pellegrini, accanto a una delle porte principali della città, detta dei Capuani e poi di Sant'Eligio, sul sito della più antica chiesa di Sant'Erasmo. Un'iscrizione del 1296 nomina Andrea di Caiazzo amministratore della fabbrica per la confraternita, che raccolse le elemosine; i lavori furono probabilmente promossi dal governo cittadino con il contributo dei re angioini.",
+        "Il campanile fu costruito probabilmente tra il 1514 e il 1524; ne restano parti nella facciata su via Mazzocchi, il cui disegno è stato attribuito a Giuliano da Maiano. Nel 1574 la chiesa passò ai Teatini.",
+        "Il rifacimento barocco in travertino, opera di G. B. Landini, durò dal 1732 al 1747. Dentro ci sono due organi pensili, l'altare maggiore in commesso marmoreo del secondo Settecento e una pala di scuola di Solimena con l'Immacolata tra i santi Eligio e Carlo Borromeo. Sotto il pavimento c'era un cimitero per i cittadini.",
         "Il convento dei Teatini ospita oggi i Carabinieri. La Madonna lignea di Pietro e Giovanni Alemanno, che le apparteneva, è nel Duomo ed è stata restaurata nel 2026."
       ],
-      "fonti": ["TC", "WIT", "FSA"]
+      "fonti": ["TC", "WIT", "FSA", "CS", "CSE"]
     },
     "E13": {
       "indirizzo": "Piazza San Tommaso d'Aquino",
@@ -190,9 +200,10 @@
       "epoca": "medioevo",
       "storia": [
         "La tradizione lega la fondazione alla visita di san Tommaso d'Aquino, nella seconda metà del Duecento.",
-        "Fu rifatta in forme barocche. Il monastero annesso fu distrutto dai bombardamenti del 1943."
+        "Fu rifatta in forme barocche. Il monastero annesso fu distrutto dai bombardamenti del 1943.",
+        "Dall'inizio dell'Ottocento al 1947 rimase in grave degrado. Sorge al limite sud dell'area del palazzo dei principi longobardi: il campanile era con buona probabilità una delle quattro torri angolari del palazzo."
       ],
-      "fonti": ["TC", "WIT"]
+      "fonti": ["TC", "WIT", "CS"]
     },
     "E14": {
       "indirizzo": "Via Seminario",
@@ -201,10 +212,10 @@
       "storia": [
         "La fondò alla fine del Duecento Bartolomeo de Capua, protonotario del Regno, e la affidò ai Benedettini di Montevergine.",
         "L'altare maggiore è di Bernardino Landini (1656). Nel Settecento la chiesa fu ampliata e rivestita di stucchi da Domenico e Nicola Farinari (1754); ha tele di Paolo De Majo e, dal 1821, la Madonna di Montevergine di Benedetto Troisi.",
-        "Dal 1795 è sede del seminario. Conserva un pozzo del 1769 e la sepoltura di Giulio Cesare Falco (1611).",
+        "Dal 1795 è sede del seminario, adattato dall'ingegnere Francesco Collecini; oggi ospita l'Istituto di Scienze Religiose. Il chiostro è del XIII secolo. Conserva un pozzo del 1769 e la sepoltura di Giulio Cesare Falco (1611).",
         "OpenStreetMap la indica come «ex chiesa», ma BeWeB la censisce come chiesa sussidiaria in uso."
       ],
-      "fonti": ["BW", "WIT"],
+      "fonti": ["BW", "WIT", "CS"],
       "bibliografia": [
         "I. Brock, P. Giuliani, C. Moisescu, Il centro antico di Capua. Metodi di analisi per la pianificazione architettonico-urbanistica, Marsilio, 1973",
         "De Luca, Il contributo dell'archidiocesi di Capua alla vita religiosa e culturale del Meridione, 1967"
@@ -215,10 +226,11 @@
       "periodo": "1300; rifatta nel 1747–49; cappelle restaurate nel 1753–56",
       "epoca": "medioevo",
       "storia": [
-        "Voluta anch'essa da Bartolomeo de Capua all'inizio del Trecento, con un convento agostiniano e un ospedale.",
-        "La licenza di costruzione è del 22 novembre 1300. Tra il 1747 e il 1749 ebbe facciata, campanile e interno nuovi. Danneggiata nel 1943 e dal terremoto del 1980, è stata riaperta al culto il 3 aprile 2011 dopo un restauro."
+        "Voluta da Carlo II d'Angiò e fondata da Bartolomeo de Capua all'inizio del Trecento, comprendeva la chiesa e un ospedale. Nel 1450–60 gli Agostiniani la restaurarono e la trasformarono in convento, con il chiostro.",
+        "La licenza di costruzione è del 22 novembre 1300. Tra il 1747 e il 1749 ebbe facciata, campanile e interno nuovi. Danneggiata nel 1943 e dal terremoto del 1980, è stata riaperta al culto il 3 aprile 2011 dopo un restauro.",
+        "Soppresso l'ordine nel 1812, il convento divenne caserma e porta ancora il nome del generale Carlo Mezzacapo. Uno stemma con gli attrezzi da muratore ricorda la confraternita di Santa Monica dei capimastri e muratori, il cui statuto fu approvato da Ferrante d'Aragona il 10 giugno 1488."
       ],
-      "fonti": ["BW", "TC", "WIT"],
+      "fonti": ["BW", "TC", "WIT", "CS"],
       "bibliografia": [
         "G. Jannelli, Sacra guida ovvero descrizione storica artistica letteraria della chiesa cattedrale di Capua, Stab. tip. G. Gioja, 1858, p. 141",
         "G. Pane, A. Filangieri, Capua. Architettura e arte. Catalogo delle opere, Arti grafiche Salafia, 1990"
@@ -241,20 +253,23 @@
       "epoca": "medioevo",
       "storia": [
         "Chiesa gotica della fine del Trecento, con un chiostro quattro- o cinquecentesco.",
-        "Fu rifatta nel 1510; facciata e campanile sono del Settecento.",
-        "Secondo lo storico settecentesco Granata sorge sul sito della scomparsa chiesa di San Silvestro."
+        "Secondo Capua sacra fu costruita con il convento nel 1383, al posto della chiesa di San Nicola ad Flumen, nel luogo detto della Limata, e nel 1420 passò ai Francescani. Di questa fase restano strutture angioine nel presbiterio e l'abside poligonale, simile a quella di Donnaregina Vecchia a Napoli.",
+        "Fu rifatta nel 1510: si aggiunsero le navate laterali e il chiostro prese la forma attuale, con ventidue colonne doriche su piedistalli che portano gli stemmi delle famiglie finanziatrici. Facciata e campanile sono del Settecento.",
+        "Secondo lo storico settecentesco Granata sorge sul sito della scomparsa chiesa di San Silvestro; Capua sacra nomina invece San Nicola ad Flumen.",
+        "Il monastero è oggi in gran parte un collegio femminile, una delle poche comunità religiose ancora attive in città."
       ],
-      "fonti": ["TC", "WIT", "B"]
+      "fonti": ["TC", "WIT", "B", "CS"]
     },
     "E18": {
       "indirizzo": "Via San Martino alla Giudea",
-      "periodo": "fine XIV secolo",
+      "periodo": "fine XIV secolo (fondazione nel VI secolo secondo Capua sacra)",
       "epoca": "medioevo",
       "storia": [
         "Edificio gotico nella Giudecca, il quartiere della comunità ebraica, presente in città fino al 1540.",
+        "Capua sacra la dice invece fondata nel VI secolo, tre secoli prima della città longobarda, quando c'era ancora il borgo di Casilinum; il quartiere fu abitato dagli ebrei dall'età longobarda fino alla metà circa del Cinquecento. Le fonti non conciliano le due date: l'edificio gotico potrebbe essere il rifacimento di una chiesa più antica.",
         "Il report la considerava sconsacrata, ma BeWeB la censisce come chiesa sussidiaria della parrocchia di Ognissanti (scheda ancora in lavorazione): l'uso attuale va verificato."
       ],
-      "fonti": ["BW", "WIT"]
+      "fonti": ["BW", "WIT", "CS"]
     },
     "E19": {
       "indirizzo": "Piazza Marconi",
@@ -264,11 +279,12 @@
         "Costruita tra il 1531 e il 1574 sul sito di una chiesa di età angioina.",
         "La cupola fu progettata da Domenico Fontana ed eseguita da Ambrogio Attendolo; il soffitto ligneo a cassettoni fu pagato con il lascito di Lucio Paganino.",
         "Ospita il coro ligneo del 1519 proveniente da San Benedetto.",
+        "Il convento, che occupa quasi un intero isolato tra corso Appio e via Palasciano, fu anche ospedale per i bambini fino al 1788, quando passò al Comune e divenne militare. Un passaggio coperto sopra corso Appio lo collega al coro della chiesa.",
         "Dopo i danni del 1943 fu restaurata e riconsacrata nel 1978; nel 2021–22 sono state consolidate le murature e rifatte le coperture.",
         "A differenza delle altre chiese del censimento CEI, che appartengono a enti ecclesiastici, risulta di proprietà di un ente pubblico territoriale.",
         "Dal 25 marzo 2025 è affidata alla Soprintendenza per i lavori al tamburo e alla lanterna, colpiti da un fulmine, e alla scala elicoidale."
       ],
-      "fonti": ["TC", "CG", "BW"],
+      "fonti": ["TC", "CG", "BW", "CS"],
       "bibliografia": [
         "G. Pane, A. Filangieri, Capua. Architettura e arte. Catalogo delle opere, Arti grafiche Salafia, 1990"
       ]
@@ -290,9 +306,10 @@
       "epoca": "eta_moderna",
       "storia": [
         "Chiesa di forma settecentesca. Il monastero annesso fu unito al Museo Campano nel 1940.",
+        "Le era annesso un conservatorio, accanto al palazzo dei duchi di San Cipriano e al Seggio di Antignano. La facciata a due ordini ha nicchie con statue di Virtù del tardo Settecento; gli stucchi del presbiterio ricordano i modi di Domenico Antonio Vaccaro.",
         "È sede della parrocchia di Ognissanti."
       ],
-      "fonti": ["TC", "WIT", "BW"]
+      "fonti": ["TC", "WIT", "BW", "CS"]
     },
     "E22": {
       "indirizzo": "Via Seggio dei Cavalieri",
@@ -301,9 +318,10 @@
       "storia": [
         "Chiesa barocca del 1697, di proprietà della Reale Arciconfraternita dei Bianchi della SS. Carità.",
         "Le sono annessi il Monte di Pietà (1540) e il conservatorio delle Oblate.",
+        "L'interno è un'unica aula ellittica con i tre altari barocchi originari. Nello spazio tra il tiburio e la cupola c'è un belvedere, con ampi oculi aperti sulla città e sulla campagna.",
         "Le schede CEI la attribuiscono a maestranze napoletane vicine a Domenico Antonio Vaccaro. È stata restaurata dalla Soprintendenza nel 1990 e con fondi CEI nel 2014–15."
       ],
-      "fonti": ["TC", "WIT", "MiC2", "BW"],
+      "fonti": ["TC", "WIT", "MiC2", "BW", "CS"],
       "bibliografia": [
         "G. Pane, A. Filangieri, Capua. Architettura e arte. Catalogo delle opere, Arti grafiche Salafia, 1990, vol. II, p. 461"
       ]
@@ -313,11 +331,11 @@
       "periodo": "XVI secolo; ricostruita nel 1734–56; campanile vanvitelliano (1761)",
       "epoca": "eta_moderna",
       "storia": [
-        "È la chiesa del monastero carmelitano di San Gabriello, fondato nel Cinquecento. Prende il nome di Santa Placida dalle reliquie della santa, custodite qui dal 1752.",
-        "Fu ricostruita tra il 1734 e il 1756 con l'appoggio della regina Maria Amalia di Sassonia, moglie di Carlo di Borbone, legata alla priora suor Maria Angela (Angiola Marrapese). Dal 1761 seguì i lavori Luigi Vanvitelli: suo è quasi certamente il campanile, con la cella ellittica e le volute.",
+        "È la chiesa del monastero carmelitano di San Gabriello, fondato nel Cinquecento. Prende il nome di Santa Placida dalle reliquie della santa, custodite qui dal 1752. Dopo la scomparsa della chiesa del Gesù Grande ne ereditò anche il titolo.",
+        "Fu ricostruita tra il 1734 e il 1756 con l'appoggio della regina Maria Amalia di Sassonia, moglie di Carlo di Borbone, legata alla priora suor Maria Angela (Angiola Marrapese). Dal 1761 seguì i lavori Luigi Vanvitelli, che il 9 marzo di quell'anno incontrò le carmelitane, come ricorda il suo epistolario: suo è quasi certamente il campanile, con la cella ellittica e le volute.",
         "Ha una facciata tardo-barocca a stucchi e un'aula unica con coretti e matronei. All'inizio del Novecento il convento passò al Comune; nell'ex convento si trova una sezione del Museo diocesano."
       ],
-      "fonti": ["BW", "TC", "WIT"]
+      "fonti": ["BW", "TC", "WIT", "CS"]
     },
     "E24": {
       "indirizzo": "Via Conte Landone (via Convento delle Grazie 10 secondo Turismo Capua)",
@@ -325,9 +343,11 @@
       "epoca": "eta_moderna",
       "storia": [
         "È l'ampliamento settecentesco di una cappella che ricordava il sacco di Capua del 1501.",
-        "Il report ipotizzava che fosse la «Santella» del 1761 citata da Wikipedia, ma BeWeB censisce la Santella come chiesa distinta, in via Riviera Casilina."
+        "Secondo il Granata, ripreso da Capua sacra, in origine c'era una piccola cappella con un'immagine della Vergine all'ingresso della Porta Grande, circondata da case. In una abitava una donna molto devota, Camilla Santella, da cui la chiesa ha preso il nome popolare di «la Santella». Durante il sacco del 1501 la Vergine avrebbe fatto cessare la strage, e i cittadini ampliarono la chiesa per ringraziamento. Nel 1556 la primitiva chiesa, detta di Santa Maria della Pietà, divenne grancia dell'Annunziata.",
+        "L'edificio attuale è settecentesco: una pianta centrale con tre cappelle e un'alta cupola con falso lanternino, raro a Capua. Gli stucchi, affini a quelli del cappellone di San Paride nella cattedrale di Teano, fanno pensare ad allievi di Domenico Antonio Vaccaro, che potrebbero averne completato il progetto dopo la sua morte (1745).",
+        "Capua sacra la chiama «Santa Maria delle Grazie, vulgo la Santella», e l'itinerario del Touring Club pubblicato sullo stesso sito la colloca accanto al fiume, vicino al ponte romano e di fronte a Montevergine: è la posizione di questo edificio. BeWeB ha una scheda separata, «La Santella» in via Riviera Casilina (E40), che è probabilmente la stessa chiesa."
       ],
-      "fonti": ["BW", "TC", "WIT"]
+      "fonti": ["BW", "TC", "WIT", "CS", "CST"]
     },
     "E25": {
       "indirizzo": "Via Roma",
@@ -441,9 +461,10 @@
       "storia": [
         "Detta anche chiesa di Sant'Anna, fu sede parrocchiale fin dalla fondazione, nel IX secolo. Il nome ricorda l'abbazia benedettina di San Vincenzo al Volturno, da cui dipendeva.",
         "Nonostante i rifacimenti, soprattutto ottocenteschi, conserva l'aula unica medievale con abside piatta. All'interno ci sono un soffitto a cassettoni in legno dorato con tele, una cantoria intagliata del Quattrocento e una pala di G. Sarnelli con sant'Anna.",
+        "Capua sacra aggiunge due cappelle a metà dell'aula, i profeti e l'Incoronazione della Vergine nella volta del presbiterio, due tele attribuite a G. Marullo (Flagellazione e Immacolata) sugli altari laterali e un affresco quattrocentesco della Madonna con il Bambino, oggi in sagrestia. La pala del Sarnelli raffigura sant'Anna tra san Gioacchino e san Francesco.",
         "Da qui provengono la Madonna del Popolo attribuita a Marco Cardisco (1530), oggi nel Duomo di Sessa Aurunca, e il Polittico della Croce di Cristoforo Scacco, al Museo Campano."
       ],
-      "fonti": ["BW"],
+      "fonti": ["BW", "CS"],
       "bibliografia": [
         "Pro Loco di Capua, Capua. Itinerario monumentale nell'ambiente urbano, Arti grafiche Salafia, 1986",
         "G. Pane, A. Filangieri, Capua. Architettura e arte. Catalogo delle opere, Arti grafiche Salafia, 1990, vol. I"
@@ -514,12 +535,13 @@
     },
     "E39": {
       "indirizzo": "Via Roma",
-      "periodo": "data non nota",
-      "epoca": "ignota",
+      "periodo": "impianto longobardo; dedicata a san Girolamo dopo il 1627",
+      "epoca": "altomedioevo",
       "storia": [
-        "Chiesa sussidiaria della parrocchia di Ognissanti. La scheda BeWeB è ancora in lavorazione: per ora ne dà solo il tipo, l'indirizzo e la parrocchia."
+        "Chiesa sussidiaria della parrocchia di Ognissanti. La scheda BeWeB è ancora in lavorazione: per ora ne dà solo il tipo, l'indirizzo e la parrocchia.",
+        "Capua sacra la descrive come l'antica parrocchia dei Santi Nazario e Celso, di impianto longobardo, dedicata a san Girolamo quando fu annessa al vicino convento benedettino fondato nel 1627 da Lelio De Tommasi. Capua sacra non dà l'indirizzo: che sia la San Girolamo di via Roma censita da BeWeB è probabile ma va confermato."
       ],
-      "fonti": ["BW"]
+      "fonti": ["BW", "CS"]
     },
     "E40": {
       "indirizzo": "Via Riviera Casilina",
@@ -527,9 +549,10 @@
       "epoca": "ignota",
       "storia": [
         "Chiesa della confraternita della Santella, la stessa che nel Cinquecento fece costruire la Cappella della Morte in ricordo del sacco del 1501. La scheda BeWeB è ancora in lavorazione: per ora ne dà solo il tipo, l'indirizzo e la parrocchia.",
-        "BeWeB la distingue da Santa Maria delle Grazie, con cui il report ipotizzava che coincidesse: sono due chiese diverse."
+        "BeWeB la elenca separatamente da Santa Maria delle Grazie (E24), ma Capua sacra e l'itinerario del Touring Club danno i due nomi alla stessa chiesa, accanto al fiume e di fronte a Montevergine, dove via Riviera Casilina incontra via Conte Landone. Probabilmente è una sola chiesa censita due volte.",
+        "Il punto Wikidata è circa 120 m più a nord-ovest, dove OpenStreetMap non ha nessun edificio di culto."
       ],
-      "fonti": ["BW"]
+      "fonti": ["BW", "CS", "CST"]
     },
     "E41": {
       "indirizzo": "Via Martiri di Nassirya",
@@ -594,13 +617,15 @@
     },
     "S4": {
       "indirizzo": "Palazzo Antignano (Museo Campano), lato via Roma",
-      "periodo": "X secolo; distrutta nel 1594",
+      "periodo": "X secolo; sconsacrata nel 1594",
       "epoca": "altomedioevo",
       "storia": [
-        "Chiesa del X secolo distrutta nel 1594 e in parte inglobata in Palazzo Antignano, oggi sede del Museo Campano.",
-        "Su via Roma si vedono ancora archi acuti tamponati e tre fusti di colonna."
+        "Chiesa rettoria di fondazione longobarda (X secolo). Fu sconsacrata nel 1594 e incorporata nell'ampliamento di Palazzo Antignano, oggi sede del Museo Campano.",
+        "Le fonti consultate prima la davano per distrutta, ma secondo Capua sacra l'aula, un tempo affrescata, si conserva ancora a destra dell'Arco Antignano e ospita materiali del museo.",
+        "Su via Roma si vedono ancora archi acuti tamponati e tre fusti di colonna.",
+        "Nel 1340, secondo Capua sacra, i beni della chiesa erano tenuti in fitto dal Boccaccio."
       ],
-      "fonti": ["A", "R"]
+      "fonti": ["A", "R", "CS"]
     },
     "S5": {
       "indirizzo": "Via Pier delle Vigne",
@@ -760,7 +785,7 @@
       "periodo": "precedente al 1284",
       "epoca": "medioevo",
       "storia": ["Chiesa dedicata a sant'Erasmo di Formia, sul cui sito sorse alla fine del Duecento Sant'Eligio."],
-      "fonti": ["WIT"]
+      "fonti": ["WIT", "CSE"]
     },
     "S24": {
       "nome": "San Nicola alla Giudecca",
